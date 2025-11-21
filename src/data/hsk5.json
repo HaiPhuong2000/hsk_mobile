@@ -1,0 +1,11657 @@
+[
+  {
+    "id": "5-1",
+    "hanzi": "哎",
+    "pinyin": "āi",
+    "translations": [
+      "thán từ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-2",
+    "hanzi": "唉",
+    "pinyin": "āi",
+    "translations": [
+      "thán từ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-3",
+    "hanzi": "爱护",
+    "pinyin": "ài hù",
+    "translations": [
+      "yêu thương, giữ gìn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-4",
+    "hanzi": "爱惜",
+    "pinyin": "ài xī",
+    "translations": [
+      "quý trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-5",
+    "hanzi": "爱心",
+    "pinyin": "ài xīn",
+    "translations": [
+      "lòng tốt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-6",
+    "hanzi": "安装",
+    "pinyin": "ān zhuāng",
+    "translations": [
+      "lắp đặt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-7",
+    "hanzi": "岸",
+    "pinyin": "àn",
+    "translations": [
+      "bờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-8",
+    "hanzi": "暗",
+    "pinyin": "àn",
+    "translations": [
+      "tối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-9",
+    "hanzi": "熬夜",
+    "pinyin": "áo yè",
+    "translations": [
+      "thức đêm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-10",
+    "hanzi": "把握",
+    "pinyin": "bǎ wò",
+    "translations": [
+      "nắm chắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-11",
+    "hanzi": "摆",
+    "pinyin": "bǎi",
+    "translations": [
+      "bày"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-12",
+    "hanzi": "办理",
+    "pinyin": "bàn lǐ",
+    "translations": [
+      "làm (thủ tục)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-13",
+    "hanzi": "傍晚",
+    "pinyin": "bàng wǎn",
+    "translations": [
+      "chiều muộn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-14",
+    "hanzi": "包裹",
+    "pinyin": "bāo guǒ",
+    "translations": [
+      "bưu kiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-15",
+    "hanzi": "包含",
+    "pinyin": "bāo hán",
+    "translations": [
+      "bao hàm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-16",
+    "hanzi": "包括",
+    "pinyin": "bāo kuò",
+    "translations": [
+      "bao gồm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-17",
+    "hanzi": "薄",
+    "pinyin": "báo",
+    "translations": [
+      "mỏng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-18",
+    "hanzi": "宝贝",
+    "pinyin": "bǎo bèi",
+    "translations": [
+      "bảo bối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-19",
+    "hanzi": "宝贵",
+    "pinyin": "bǎo guì",
+    "translations": [
+      "quí báu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-20",
+    "hanzi": "保持",
+    "pinyin": "bǎo chí",
+    "translations": [
+      "duy trì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-21",
+    "hanzi": "保留",
+    "pinyin": "bǎo liú",
+    "translations": [
+      "bảo lưu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-22",
+    "hanzi": "保险",
+    "pinyin": "bǎo xiǎn",
+    "translations": [
+      "bảo hiểm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-23",
+    "hanzi": "报到",
+    "pinyin": "bào dào",
+    "translations": [
+      "điểm danh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-24",
+    "hanzi": "报道",
+    "pinyin": "bào dào",
+    "translations": [
+      "đưa tin, bản tin"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-25",
+    "hanzi": "报告",
+    "pinyin": "bào gào",
+    "translations": [
+      "báo cáo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-26",
+    "hanzi": "报社",
+    "pinyin": "bào shè",
+    "translations": [
+      "tòa soạn báo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-27",
+    "hanzi": "抱怨",
+    "pinyin": "bào yuàn",
+    "translations": [
+      "trách móc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-28",
+    "hanzi": "背",
+    "pinyin": "bèi",
+    "translations": [
+      "học thuộc, cõng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-29",
+    "hanzi": "悲观",
+    "pinyin": "bēi guān",
+    "translations": [
+      "bi quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-30",
+    "hanzi": "背景",
+    "pinyin": "bèi jǐng",
+    "translations": [
+      "bối cảnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-31",
+    "hanzi": "被子",
+    "pinyin": "bèi zi",
+    "translations": [
+      "chăn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-32",
+    "hanzi": "本科",
+    "pinyin": "běn kē",
+    "translations": [
+      "trình độ đại học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-33",
+    "hanzi": "本领",
+    "pinyin": "běn lǐng",
+    "translations": [
+      "bản lĩnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-34",
+    "hanzi": "本质",
+    "pinyin": "běn zhì",
+    "translations": [
+      "bản chất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-35",
+    "hanzi": "比例",
+    "pinyin": "bǐ lì",
+    "translations": [
+      "tỉ lệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-36",
+    "hanzi": "彼此",
+    "pinyin": "bǐ cǐ",
+    "translations": [
+      "lẫn nhau, với nhau"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-37",
+    "hanzi": "必然",
+    "pinyin": "bì rán",
+    "translations": [
+      "tất yếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-38",
+    "hanzi": "必要",
+    "pinyin": "bì yào",
+    "translations": [
+      "cần thiết, cần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-39",
+    "hanzi": "避免",
+    "pinyin": "bì miǎn",
+    "translations": [
+      "tránh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-40",
+    "hanzi": "编辑",
+    "pinyin": "biān jí",
+    "translations": [
+      "biên tập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-41",
+    "hanzi": "鞭炮",
+    "pinyin": "biān pào",
+    "translations": [
+      "pháo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-42",
+    "hanzi": "便",
+    "pinyin": "biàn",
+    "translations": [
+      "liền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-43",
+    "hanzi": "辩论",
+    "pinyin": "biàn lùn",
+    "translations": [
+      "biện luận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-44",
+    "hanzi": "标点",
+    "pinyin": "biāo diǎn",
+    "translations": [
+      "dấu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-45",
+    "hanzi": "标志",
+    "pinyin": "biāo zhì",
+    "translations": [
+      "đánh dấu, ký hiệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-46",
+    "hanzi": "表达",
+    "pinyin": "biǎo dá",
+    "translations": [
+      "diễn đạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-47",
+    "hanzi": "表面",
+    "pinyin": "biǎo miàn",
+    "translations": [
+      "bề mặt, bề ngoài"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-48",
+    "hanzi": "表明",
+    "pinyin": "biǎo míng",
+    "translations": [
+      "cho thấy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-49",
+    "hanzi": "表情",
+    "pinyin": "biǎo qíng",
+    "translations": [
+      "biểu cảm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-50",
+    "hanzi": "表现",
+    "pinyin": "biǎo xiàn",
+    "translations": [
+      "biểu hiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-51",
+    "hanzi": "冰淇淋",
+    "pinyin": "bīng qí lín",
+    "translations": [
+      "kem"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-52",
+    "hanzi": "病毒",
+    "pinyin": "bìng dú",
+    "translations": [
+      "vi rút"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-53",
+    "hanzi": "玻璃",
+    "pinyin": "bō lí",
+    "translations": [
+      "thủy tinh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-54",
+    "hanzi": "播放",
+    "pinyin": "bō fàng",
+    "translations": [
+      "phát sóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-55",
+    "hanzi": "脖子",
+    "pinyin": "bó zi",
+    "translations": [
+      "cổ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-56",
+    "hanzi": "博物馆",
+    "pinyin": "bó wù guǎn",
+    "translations": [
+      "bảo tàng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-57",
+    "hanzi": "补充",
+    "pinyin": "bǔ chōng",
+    "translations": [
+      "bổ sung"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-58",
+    "hanzi": "不安",
+    "pinyin": "bú ān",
+    "translations": [
+      "bất an"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-59",
+    "hanzi": "不断",
+    "pinyin": "bú duàn",
+    "translations": [
+      "không ngừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-60",
+    "hanzi": "不见得",
+    "pinyin": "bú jiàn dé",
+    "translations": [
+      "chưa chắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-61",
+    "hanzi": "不耐烦",
+    "pinyin": "bú nài fán",
+    "translations": [
+      "chán nản, không kiên nhẫn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-62",
+    "hanzi": "不然",
+    "pinyin": "bú rán",
+    "translations": [
+      "nếu không thì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-63",
+    "hanzi": "不如",
+    "pinyin": "bú rú",
+    "translations": [
+      "không bằng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-64",
+    "hanzi": "不要紧",
+    "pinyin": "bú yào jǐn",
+    "translations": [
+      "không quan trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-65",
+    "hanzi": "不足",
+    "pinyin": "bú zú",
+    "translations": [
+      "không đủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-66",
+    "hanzi": "布",
+    "pinyin": "bù",
+    "translations": [
+      "vải"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-67",
+    "hanzi": "步骤",
+    "pinyin": "bù zhòu",
+    "translations": [
+      "bước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-68",
+    "hanzi": "部门",
+    "pinyin": "bù mén",
+    "translations": [
+      "ban ngành, bộ phận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-69",
+    "hanzi": "财产",
+    "pinyin": "cái chǎn",
+    "translations": [
+      "tài sản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-70",
+    "hanzi": "采访",
+    "pinyin": "cǎi fǎng",
+    "translations": [
+      "phỏng vấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-71",
+    "hanzi": "采取",
+    "pinyin": "cǎi qǔ",
+    "translations": [
+      "chọn, dùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-72",
+    "hanzi": "彩虹",
+    "pinyin": "cǎi hóng",
+    "translations": [
+      "cầu vồng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-73",
+    "hanzi": "踩",
+    "pinyin": "cǎi",
+    "translations": [
+      "giẫm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-74",
+    "hanzi": "参考",
+    "pinyin": "cān kǎo",
+    "translations": [
+      "tham khảo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-75",
+    "hanzi": "参与",
+    "pinyin": "cān yù",
+    "translations": [
+      "tham gia"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-76",
+    "hanzi": "惭愧",
+    "pinyin": "cán kuì",
+    "translations": [
+      "hổ thẹn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-77",
+    "hanzi": "操场",
+    "pinyin": "cāo chǎng",
+    "translations": [
+      "sân vận động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-78",
+    "hanzi": "操心",
+    "pinyin": "cāo xīn",
+    "translations": [
+      "lo lắng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-79",
+    "hanzi": "册",
+    "pinyin": "cè",
+    "translations": [
+      "quyển, sổ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-80",
+    "hanzi": "测验",
+    "pinyin": "cè yàn",
+    "translations": [
+      "thí nghiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-81",
+    "hanzi": "曾经",
+    "pinyin": "céng jīng",
+    "translations": [
+      "đã từng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-82",
+    "hanzi": "叉子",
+    "pinyin": "chā zi",
+    "translations": [
+      "cái dĩa, cái xiên, cái nĩa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-83",
+    "hanzi": "差距",
+    "pinyin": "chā jù",
+    "translations": [
+      "sự khác biệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-84",
+    "hanzi": "插",
+    "pinyin": "chā",
+    "translations": [
+      "cắm, chèn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-85",
+    "hanzi": "拆",
+    "pinyin": "chāi",
+    "translations": [
+      "gỡ, dỡ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-86",
+    "hanzi": "产品",
+    "pinyin": "chǎn pǐn",
+    "translations": [
+      "sản phẩm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-87",
+    "hanzi": "产生",
+    "pinyin": "chǎn shēng",
+    "translations": [
+      "sản sinh, nảy sinh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-88",
+    "hanzi": "长途",
+    "pinyin": "cháng tú",
+    "translations": [
+      "đường dài"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-89",
+    "hanzi": "常识",
+    "pinyin": "cháng shí",
+    "translations": [
+      "kiến thức cơ bản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-90",
+    "hanzi": "抄",
+    "pinyin": "chāo",
+    "translations": [
+      "chép"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-91",
+    "hanzi": "超级",
+    "pinyin": "chāo jí",
+    "translations": [
+      "siêu cấp, cực kỳ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-92",
+    "hanzi": "朝",
+    "pinyin": "cháo",
+    "translations": [
+      "về hướng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-93",
+    "hanzi": "潮湿",
+    "pinyin": "cháo shī",
+    "translations": [
+      "ẩm ướt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-94",
+    "hanzi": "吵",
+    "pinyin": "chǎo",
+    "translations": [
+      "ồn ào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-95",
+    "hanzi": "吵架",
+    "pinyin": "chǎo jià",
+    "translations": [
+      "cãi vã"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-96",
+    "hanzi": "炒",
+    "pinyin": "chǎo",
+    "translations": [
+      "xào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-97",
+    "hanzi": "车库",
+    "pinyin": "chē kù",
+    "translations": [
+      "nhà xe"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-98",
+    "hanzi": "车厢",
+    "pinyin": "chē xiāng",
+    "translations": [
+      "toa tàu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-99",
+    "hanzi": "彻底",
+    "pinyin": "chè dǐ",
+    "translations": [
+      "triệt để"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-100",
+    "hanzi": "沉默",
+    "pinyin": "chén mò",
+    "translations": [
+      "im lặng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-101",
+    "hanzi": "趁",
+    "pinyin": "chèn",
+    "translations": [
+      "nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-102",
+    "hanzi": "称",
+    "pinyin": "chēng",
+    "translations": [
+      "gọi là"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-103",
+    "hanzi": "称呼",
+    "pinyin": "chēng hū",
+    "translations": [
+      "xưng hô"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-104",
+    "hanzi": "称赞",
+    "pinyin": "chēng zàn",
+    "translations": [
+      "tán thưởng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-105",
+    "hanzi": "成分",
+    "pinyin": "chéng fèn",
+    "translations": [
+      "thành phần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-106",
+    "hanzi": "成果",
+    "pinyin": "chéng guǒ",
+    "translations": [
+      "thành quả"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-107",
+    "hanzi": "成就",
+    "pinyin": "chéng jiù",
+    "translations": [
+      "thành tựu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-108",
+    "hanzi": "成立",
+    "pinyin": "chéng lì",
+    "translations": [
+      "thành lập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-109",
+    "hanzi": "成人",
+    "pinyin": "chéng rén",
+    "translations": [
+      "người lớn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-110",
+    "hanzi": "成熟",
+    "pinyin": "chéng shú",
+    "translations": [
+      "thành thục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-111",
+    "hanzi": "成语",
+    "pinyin": "chéng yǔ",
+    "translations": [
+      "thành ngữ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-112",
+    "hanzi": "成长",
+    "pinyin": "chéng zhǎng",
+    "translations": [
+      "trưởng thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-113",
+    "hanzi": "诚恳",
+    "pinyin": "chéng kěn",
+    "translations": [
+      "thành khẩn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-114",
+    "hanzi": "承担",
+    "pinyin": "chéng dān",
+    "translations": [
+      "chịu trách nhiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-115",
+    "hanzi": "承认",
+    "pinyin": "chéng rèn",
+    "translations": [
+      "thừa nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-116",
+    "hanzi": "承受",
+    "pinyin": "chéng shòu",
+    "translations": [
+      "chịu đựng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-117",
+    "hanzi": "程度",
+    "pinyin": "chéng dù",
+    "translations": [
+      "trình độ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-118",
+    "hanzi": "程序",
+    "pinyin": "chéng xù",
+    "translations": [
+      "trình tự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-119",
+    "hanzi": "吃亏",
+    "pinyin": "chī kuī",
+    "translations": [
+      "thiệt thòi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-120",
+    "hanzi": "池塘",
+    "pinyin": "chí táng",
+    "translations": [
+      "ao hồ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-121",
+    "hanzi": "迟早",
+    "pinyin": "chí zǎo",
+    "translations": [
+      "sớm muộn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-122",
+    "hanzi": "持续",
+    "pinyin": "chí xù",
+    "translations": [
+      "kéo dài, tiêp tục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-123",
+    "hanzi": "尺子",
+    "pinyin": "chǐ zi",
+    "translations": [
+      "thước đo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-124",
+    "hanzi": "翅膀",
+    "pinyin": "chì bǎng",
+    "translations": [
+      "cánh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-125",
+    "hanzi": "冲",
+    "pinyin": "chōng",
+    "translations": [
+      "xông, xô đẩy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-126",
+    "hanzi": "充分",
+    "pinyin": "chōng fèn",
+    "translations": [
+      "đầy đủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-127",
+    "hanzi": "充满",
+    "pinyin": "chōng mǎn",
+    "translations": [
+      "tràn đầy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-128",
+    "hanzi": "重复",
+    "pinyin": "chóng fù",
+    "translations": [
+      "lặp lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-129",
+    "hanzi": "宠物",
+    "pinyin": "chǒng wù",
+    "translations": [
+      "thú cưng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-130",
+    "hanzi": "抽屉",
+    "pinyin": "chōu tì",
+    "translations": [
+      "ngăn kéo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-131",
+    "hanzi": "抽象",
+    "pinyin": "chōu xiàng",
+    "translations": [
+      "trừu tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-132",
+    "hanzi": "丑",
+    "pinyin": "chǒu",
+    "translations": [
+      "xấu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-133",
+    "hanzi": "臭",
+    "pinyin": "chòu",
+    "translations": [
+      "thối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-134",
+    "hanzi": "出版",
+    "pinyin": "chū bǎn",
+    "translations": [
+      "xuất bản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-135",
+    "hanzi": "出口",
+    "pinyin": "chū kǒu",
+    "translations": [
+      "lối ra, cửa ra"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-136",
+    "hanzi": "出色",
+    "pinyin": "chū sè",
+    "translations": [
+      "xuất sắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-137",
+    "hanzi": "出示",
+    "pinyin": "chū shì",
+    "translations": [
+      "xuất trình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-138",
+    "hanzi": "出席",
+    "pinyin": "chū xí",
+    "translations": [
+      "tham dự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-139",
+    "hanzi": "初级",
+    "pinyin": "chū jí",
+    "translations": [
+      "sơ cấp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-140",
+    "hanzi": "除非",
+    "pinyin": "chú fēi",
+    "translations": [
+      "trừ phi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-141",
+    "hanzi": "除夕",
+    "pinyin": "chú xī",
+    "translations": [
+      "giao thừa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-142",
+    "hanzi": "处理",
+    "pinyin": "chǔ lǐ",
+    "translations": [
+      "xử lý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-143",
+    "hanzi": "传播",
+    "pinyin": "chuán bō",
+    "translations": [
+      "lan truyền, lây lan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-144",
+    "hanzi": "传染",
+    "pinyin": "chuán rǎn",
+    "translations": [
+      "nhiễm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-145",
+    "hanzi": "传说",
+    "pinyin": "chuán shuō",
+    "translations": [
+      "truyền thuyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-146",
+    "hanzi": "传统",
+    "pinyin": "chuán tǒng",
+    "translations": [
+      "truyền thống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-147",
+    "hanzi": "窗帘",
+    "pinyin": "chuāng lián",
+    "translations": [
+      "rèm cửa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-148",
+    "hanzi": "闯",
+    "pinyin": "chuǎng",
+    "translations": [
+      "xông vào, xông lên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-149",
+    "hanzi": "创造",
+    "pinyin": "chuàng zào",
+    "translations": [
+      "sáng tạo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-150",
+    "hanzi": "吹",
+    "pinyin": "chuī",
+    "translations": [
+      "thổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-151",
+    "hanzi": "词汇",
+    "pinyin": "cí huì",
+    "translations": [
+      "từ vựng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-152",
+    "hanzi": "辞职",
+    "pinyin": "cí zhí",
+    "translations": [
+      "từ chức, bỏ việc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-153",
+    "hanzi": "此外",
+    "pinyin": "cǐ wài",
+    "translations": [
+      "ngoài ra"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-154",
+    "hanzi": "次要",
+    "pinyin": "cì yào",
+    "translations": [
+      "thứ yếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-155",
+    "hanzi": "刺激",
+    "pinyin": "cì jī",
+    "translations": [
+      "kích thích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-156",
+    "hanzi": "匆忙",
+    "pinyin": "cōng máng",
+    "translations": [
+      "vội vàng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-157",
+    "hanzi": "从此",
+    "pinyin": "cóng cǐ",
+    "translations": [
+      "từ đó"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-158",
+    "hanzi": "从而",
+    "pinyin": "cóng ér",
+    "translations": [
+      "cho nên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-159",
+    "hanzi": "从前",
+    "pinyin": "cóng qián",
+    "translations": [
+      "từ trước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-160",
+    "hanzi": "从事",
+    "pinyin": "cóng shì",
+    "translations": [
+      "theo đuổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-161",
+    "hanzi": "粗糙",
+    "pinyin": "cū cāo",
+    "translations": [
+      "thô ráp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-162",
+    "hanzi": "促进",
+    "pinyin": "cù jìn",
+    "translations": [
+      "xúc tiến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-163",
+    "hanzi": "促使",
+    "pinyin": "cù shǐ",
+    "translations": [
+      "thúc đẩy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-164",
+    "hanzi": "醋",
+    "pinyin": "cù",
+    "translations": [
+      "giấm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-165",
+    "hanzi": "催",
+    "pinyin": "cuī",
+    "translations": [
+      "giục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-166",
+    "hanzi": "存在",
+    "pinyin": "cún zài",
+    "translations": [
+      "tồn tại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-167",
+    "hanzi": "措施",
+    "pinyin": "cuò shī",
+    "translations": [
+      "sách lược, chính sách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-168",
+    "hanzi": "答应",
+    "pinyin": "dā yìng",
+    "translations": [
+      "hứa, đồng ý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-169",
+    "hanzi": "达到",
+    "pinyin": "dá dào",
+    "translations": [
+      "đạt đến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-170",
+    "hanzi": "打工",
+    "pinyin": "dǎ gōng",
+    "translations": [
+      "làm thêm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-171",
+    "hanzi": "打交道",
+    "pinyin": "dǎ jiāo dào",
+    "translations": [
+      "kết bạn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-172",
+    "hanzi": "打喷嚏",
+    "pinyin": "dǎ pēn tì",
+    "translations": [
+      "hắt xì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-173",
+    "hanzi": "打听",
+    "pinyin": "dǎ tīng",
+    "translations": [
+      "hỏi thăm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-174",
+    "hanzi": "大方",
+    "pinyin": "dà fāng",
+    "translations": [
+      "phóng khoáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-175",
+    "hanzi": "大厦",
+    "pinyin": "dà shà",
+    "translations": [
+      "tòa nhà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-176",
+    "hanzi": "大象",
+    "pinyin": "dà xiàng",
+    "translations": [
+      "voi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-177",
+    "hanzi": "大型",
+    "pinyin": "dà xíng",
+    "translations": [
+      "lớn (qui mô)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-178",
+    "hanzi": "呆",
+    "pinyin": "dāi",
+    "translations": [
+      "ở lì, ở"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-179",
+    "hanzi": "代表",
+    "pinyin": "dài biǎo",
+    "translations": [
+      "đại diện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-180",
+    "hanzi": "代替",
+    "pinyin": "dài tì",
+    "translations": [
+      "thay thế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-181",
+    "hanzi": "贷款",
+    "pinyin": "dài kuǎn",
+    "translations": [
+      "vay tiền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-182",
+    "hanzi": "待遇",
+    "pinyin": "dài yù",
+    "translations": [
+      "đãi ngộ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-183",
+    "hanzi": "担任",
+    "pinyin": "dān rèn",
+    "translations": [
+      "đảm nhiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-184",
+    "hanzi": "单纯",
+    "pinyin": "dān chún",
+    "translations": [
+      "đơn thuần,ngây thơ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-185",
+    "hanzi": "单调",
+    "pinyin": "dān diào",
+    "translations": [
+      "đơn điệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-186",
+    "hanzi": "单独",
+    "pinyin": "dān dú",
+    "translations": [
+      "đơn độc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-187",
+    "hanzi": "单位",
+    "pinyin": "dān wèi",
+    "translations": [
+      "đơn vị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-188",
+    "hanzi": "单元",
+    "pinyin": "dān yuán",
+    "translations": [
+      "đơn nguyên, cụm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-189",
+    "hanzi": "耽误",
+    "pinyin": "dān wù",
+    "translations": [
+      "bỏ lỡ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-190",
+    "hanzi": "胆小鬼",
+    "pinyin": "dǎn xiǎo guǐ",
+    "translations": [
+      "kẻ nhát gan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-191",
+    "hanzi": "淡",
+    "pinyin": "dàn",
+    "translations": [
+      "nhạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-192",
+    "hanzi": "当地",
+    "pinyin": "dāng dì",
+    "translations": [
+      "địa phương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-193",
+    "hanzi": "当心",
+    "pinyin": "dāng xīn",
+    "translations": [
+      "để tâm, lưu tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-194",
+    "hanzi": "挡",
+    "pinyin": "dǎng",
+    "translations": [
+      "chắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-195",
+    "hanzi": "导演",
+    "pinyin": "dǎo yǎn",
+    "translations": [
+      "đạo diễn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-196",
+    "hanzi": "导致",
+    "pinyin": "dǎo zhì",
+    "translations": [
+      "gây ra"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-197",
+    "hanzi": "岛屿",
+    "pinyin": "dǎo yǔ",
+    "translations": [
+      "đảo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-198",
+    "hanzi": "倒霉",
+    "pinyin": "dǎo méi",
+    "translations": [
+      "xui xẻo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-199",
+    "hanzi": "到达",
+    "pinyin": "dào dá",
+    "translations": [
+      "đến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-200",
+    "hanzi": "道德",
+    "pinyin": "dào dé",
+    "translations": [
+      "đạo đức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-201",
+    "hanzi": "道理",
+    "pinyin": "dào lǐ",
+    "translations": [
+      "đạo lí, bài học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-202",
+    "hanzi": "登记",
+    "pinyin": "dēng jì",
+    "translations": [
+      "đăng kí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-203",
+    "hanzi": "等待",
+    "pinyin": "děng dài",
+    "translations": [
+      "đợi, chờ đợi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-204",
+    "hanzi": "等于",
+    "pinyin": "děng yú",
+    "translations": [
+      "bằng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-205",
+    "hanzi": "滴",
+    "pinyin": "dī",
+    "translations": [
+      "giọt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-206",
+    "hanzi": "的确",
+    "pinyin": "dí què",
+    "translations": [
+      "đúng, thật (phó từ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-207",
+    "hanzi": "敌人",
+    "pinyin": "dí rén",
+    "translations": [
+      "kẻ địch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-208",
+    "hanzi": "地道",
+    "pinyin": "dì dào",
+    "translations": [
+      "chuẩn bản địa (ngôn ngữ, món ăn)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-209",
+    "hanzi": "地理",
+    "pinyin": "dì lǐ",
+    "translations": [
+      "địa lý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-210",
+    "hanzi": "地区",
+    "pinyin": "dì qū",
+    "translations": [
+      "khu vực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-211",
+    "hanzi": "地毯",
+    "pinyin": "dì tǎn",
+    "translations": [
+      "thảm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-212",
+    "hanzi": "地位",
+    "pinyin": "dì wèi",
+    "translations": [
+      "địa vị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-213",
+    "hanzi": "地震",
+    "pinyin": "dì zhèn",
+    "translations": [
+      "động đất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-214",
+    "hanzi": "递",
+    "pinyin": "dì",
+    "translations": [
+      "truyền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-215",
+    "hanzi": "点心",
+    "pinyin": "diǎn xīn",
+    "translations": [
+      "điểm tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-216",
+    "hanzi": "电池",
+    "pinyin": "diàn chí",
+    "translations": [
+      "pin"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-217",
+    "hanzi": "电台",
+    "pinyin": "diàn tái",
+    "translations": [
+      "đài truyền hình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-218",
+    "hanzi": "钓",
+    "pinyin": "diào",
+    "translations": [
+      "câu (cá)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-219",
+    "hanzi": "顶",
+    "pinyin": "dǐng",
+    "translations": [
+      "đội, cái (lượng từ cho mũ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-220",
+    "hanzi": "动画片",
+    "pinyin": "dòng huà piàn",
+    "translations": [
+      "phim hoạt hình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-221",
+    "hanzi": "冻",
+    "pinyin": "dòng",
+    "translations": [
+      "đông cứng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-222",
+    "hanzi": "洞",
+    "pinyin": "dòng",
+    "translations": [
+      "hang động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-223",
+    "hanzi": "豆腐",
+    "pinyin": "dòu fǔ",
+    "translations": [
+      "đậu phụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-224",
+    "hanzi": "逗",
+    "pinyin": "dòu",
+    "translations": [
+      "trêu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-225",
+    "hanzi": "独立",
+    "pinyin": "dú lì",
+    "translations": [
+      "độc lập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-226",
+    "hanzi": "独特",
+    "pinyin": "dú tè",
+    "translations": [
+      "độc đáo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-227",
+    "hanzi": "度过",
+    "pinyin": "dù guò",
+    "translations": [
+      "trải qua (thời kì, thời gian)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-228",
+    "hanzi": "断",
+    "pinyin": "duàn",
+    "translations": [
+      "đoạn, đứt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-229",
+    "hanzi": "堆",
+    "pinyin": "duī",
+    "translations": [
+      "đống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-230",
+    "hanzi": "对比",
+    "pinyin": "duì bǐ",
+    "translations": [
+      "đối chiếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-231",
+    "hanzi": "对待",
+    "pinyin": "duì dài",
+    "translations": [
+      "đối đãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-232",
+    "hanzi": "对方",
+    "pinyin": "duì fāng",
+    "translations": [
+      "đối phương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-233",
+    "hanzi": "对手",
+    "pinyin": "duì shǒu",
+    "translations": [
+      "đối thủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-234",
+    "hanzi": "对象",
+    "pinyin": "duì xiàng",
+    "translations": [
+      "đối tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-235",
+    "hanzi": "兑换",
+    "pinyin": "duì huàn",
+    "translations": [
+      "đổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-236",
+    "hanzi": "吨",
+    "pinyin": "dūn",
+    "translations": [
+      "tấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-237",
+    "hanzi": "蹲",
+    "pinyin": "dūn",
+    "translations": [
+      "ngồi xổm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-238",
+    "hanzi": "顿",
+    "pinyin": "dùn",
+    "translations": [
+      "bữa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-239",
+    "hanzi": "多亏",
+    "pinyin": "duō kuī",
+    "translations": [
+      "may mà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-240",
+    "hanzi": "多余",
+    "pinyin": "duō yú",
+    "translations": [
+      "thừa thãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-241",
+    "hanzi": "朵",
+    "pinyin": "duǒ",
+    "translations": [
+      "bông"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-242",
+    "hanzi": "躲藏",
+    "pinyin": "duǒ cáng",
+    "translations": [
+      "trốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-243",
+    "hanzi": "恶劣",
+    "pinyin": "è liè",
+    "translations": [
+      "khắc nghiệt, hà khắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-244",
+    "hanzi": "耳环",
+    "pinyin": "ěr huán",
+    "translations": [
+      "khuyên tai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-245",
+    "hanzi": "发表",
+    "pinyin": "fā biǎo",
+    "translations": [
+      "phát biểu, đăng, ra mắt (tác phẩm)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-246",
+    "hanzi": "发愁",
+    "pinyin": "fā chóu",
+    "translations": [
+      "phát buồn, chán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-247",
+    "hanzi": "发达",
+    "pinyin": "fā dá",
+    "translations": [
+      "phát đạt, phát triển"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-248",
+    "hanzi": "发抖",
+    "pinyin": "fā dǒu",
+    "translations": [
+      "run rẩy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-249",
+    "hanzi": "发挥",
+    "pinyin": "fā huī",
+    "translations": [
+      "phát huy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-250",
+    "hanzi": "发明",
+    "pinyin": "fā míng",
+    "translations": [
+      "phát minh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-251",
+    "hanzi": "发票",
+    "pinyin": "fā piào",
+    "translations": [
+      "hóa đơn giá trị gia tăng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-252",
+    "hanzi": "发言",
+    "pinyin": "fā yán",
+    "translations": [
+      "phát biểu (ý kiến)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-253",
+    "hanzi": "罚款",
+    "pinyin": "fá kuǎn",
+    "translations": [
+      "phạt tiền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-254",
+    "hanzi": "法院",
+    "pinyin": "fǎ yuàn",
+    "translations": [
+      "tòa án"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-255",
+    "hanzi": "翻",
+    "pinyin": "fān",
+    "translations": [
+      "lật, giở"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-256",
+    "hanzi": "繁荣",
+    "pinyin": "fán róng",
+    "translations": [
+      "phồn vinh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-257",
+    "hanzi": "反而",
+    "pinyin": "fǎn ér",
+    "translations": [
+      "ngược lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-258",
+    "hanzi": "反复",
+    "pinyin": "fǎn fù",
+    "translations": [
+      "lặp đi lặp lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-259",
+    "hanzi": "反应",
+    "pinyin": "fǎn yìng",
+    "translations": [
+      "phản ứng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-260",
+    "hanzi": "反映",
+    "pinyin": "fǎn yìng",
+    "translations": [
+      "phản ánh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-261",
+    "hanzi": "反正",
+    "pinyin": "fǎn zhèng",
+    "translations": [
+      "dù sao thì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-262",
+    "hanzi": "范围",
+    "pinyin": "fàn wéi",
+    "translations": [
+      "phạm vi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-263",
+    "hanzi": "方",
+    "pinyin": "fāng",
+    "translations": [
+      "phương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-264",
+    "hanzi": "方案",
+    "pinyin": "fāng àn",
+    "translations": [
+      "phương án"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-265",
+    "hanzi": "方式",
+    "pinyin": "fāng shì",
+    "translations": [
+      "phương thức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-266",
+    "hanzi": "妨碍",
+    "pinyin": "fáng ài",
+    "translations": [
+      "trở ngại, cản trở"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-267",
+    "hanzi": "仿佛",
+    "pinyin": "fǎng fú",
+    "translations": [
+      "dường như"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-268",
+    "hanzi": "非",
+    "pinyin": "fēi",
+    "translations": [
+      "phi, không"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-269",
+    "hanzi": "肥皂",
+    "pinyin": "féi zào",
+    "translations": [
+      "bánh xà phòng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-270",
+    "hanzi": "废话",
+    "pinyin": "fèi huà",
+    "translations": [
+      "lời nói thừa thãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-271",
+    "hanzi": "分别",
+    "pinyin": "fēn bié",
+    "translations": [
+      "phân biệt, lần lượt, xa nhau"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-272",
+    "hanzi": "分布",
+    "pinyin": "fēn bù",
+    "translations": [
+      "phân bố"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-273",
+    "hanzi": "分配",
+    "pinyin": "fēn pèi",
+    "translations": [
+      "chia sẻ, phân chia, phân công"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-274",
+    "hanzi": "分手",
+    "pinyin": "fēn shǒu",
+    "translations": [
+      "chia tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-275",
+    "hanzi": "分析",
+    "pinyin": "fēn xī",
+    "translations": [
+      "phân tích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-276",
+    "hanzi": "纷纷",
+    "pinyin": "fēn fēn",
+    "translations": [
+      "lũ lượt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-277",
+    "hanzi": "奋斗",
+    "pinyin": "fèn dòu",
+    "translations": [
+      "phấn đấu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-278",
+    "hanzi": "风格",
+    "pinyin": "fēng gé",
+    "translations": [
+      "phong cách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-279",
+    "hanzi": "风景",
+    "pinyin": "fēng jǐng",
+    "translations": [
+      "phong cảnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-280",
+    "hanzi": "风俗",
+    "pinyin": "fēng sú",
+    "translations": [
+      "phong tục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-281",
+    "hanzi": "风险",
+    "pinyin": "fēng xiǎn",
+    "translations": [
+      "mạo hiểm, hiểm nguy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-282",
+    "hanzi": "疯狂",
+    "pinyin": "fēng kuáng",
+    "translations": [
+      "điên rồ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-283",
+    "hanzi": "讽刺",
+    "pinyin": "fěng cì",
+    "translations": [
+      "châm biếm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-284",
+    "hanzi": "否定",
+    "pinyin": "fǒu dìng",
+    "translations": [
+      "phủ định"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-285",
+    "hanzi": "否认",
+    "pinyin": "fǒu rèn",
+    "translations": [
+      "phủ nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-286",
+    "hanzi": "扶",
+    "pinyin": "fú",
+    "translations": [
+      "vịn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-287",
+    "hanzi": "服装",
+    "pinyin": "fú zhuāng",
+    "translations": [
+      "phục trang, quần áo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-288",
+    "hanzi": "幅",
+    "pinyin": "fú",
+    "translations": [
+      "bức (lượng từ cho tranh)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-289",
+    "hanzi": "辅导",
+    "pinyin": "fǔ dǎo",
+    "translations": [
+      "phụ đạo, bổ trợ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-290",
+    "hanzi": "妇女",
+    "pinyin": "fù nǚ",
+    "translations": [
+      "phụ nữ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-291",
+    "hanzi": "复制",
+    "pinyin": "fù zhì",
+    "translations": [
+      "copy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-292",
+    "hanzi": "改革",
+    "pinyin": "gǎi gé",
+    "translations": [
+      "cải cách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-293",
+    "hanzi": "改进",
+    "pinyin": "gǎi jìn",
+    "translations": [
+      "cải tiến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-294",
+    "hanzi": "改善",
+    "pinyin": "gǎi shàn",
+    "translations": [
+      "cải thiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-295",
+    "hanzi": "改正",
+    "pinyin": "gǎi zhèng",
+    "translations": [
+      "đính chính"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-296",
+    "hanzi": "盖",
+    "pinyin": "gài",
+    "translations": [
+      "đậy, bao phủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-297",
+    "hanzi": "概括",
+    "pinyin": "gài kuò",
+    "translations": [
+      "khái quát"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-298",
+    "hanzi": "概念",
+    "pinyin": "gài niàn",
+    "translations": [
+      "khái niệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-299",
+    "hanzi": "干脆",
+    "pinyin": "gān cuì",
+    "translations": [
+      "dứt khoát"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-300",
+    "hanzi": "干燥",
+    "pinyin": "gān zào",
+    "translations": [
+      "khô ráo, khô hanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-301",
+    "hanzi": "赶紧",
+    "pinyin": "gǎn jǐn",
+    "translations": [
+      "mau chóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-302",
+    "hanzi": "赶快",
+    "pinyin": "gǎn kuài",
+    "translations": [
+      "mau chóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-303",
+    "hanzi": "感激",
+    "pinyin": "gǎn jī",
+    "translations": [
+      "cảm kích, biết ơn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-304",
+    "hanzi": "感受",
+    "pinyin": "gǎn shòu",
+    "translations": [
+      "cảm nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-305",
+    "hanzi": "感想",
+    "pinyin": "gǎn xiǎng",
+    "translations": [
+      "cảm tưởng, suy nghĩ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-306",
+    "hanzi": "干活儿",
+    "pinyin": "gàn huó ér",
+    "translations": [
+      "lao động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-307",
+    "hanzi": "钢铁",
+    "pinyin": "gāng tiě",
+    "translations": [
+      "sắt thép"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-308",
+    "hanzi": "高档",
+    "pinyin": "gāo dàng",
+    "translations": [
+      "cao cấp, đẳng cấp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-309",
+    "hanzi": "高级",
+    "pinyin": "gāo jí",
+    "translations": [
+      "cao cấp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-310",
+    "hanzi": "搞",
+    "pinyin": "gǎo",
+    "translations": [
+      "làm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-311",
+    "hanzi": "告别",
+    "pinyin": "gào bié",
+    "translations": [
+      "từ biệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-312",
+    "hanzi": "格外",
+    "pinyin": "gé wài",
+    "translations": [
+      "đặc biệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-313",
+    "hanzi": "隔壁",
+    "pinyin": "gé bì",
+    "translations": [
+      "sát vách, ngay cạnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-314",
+    "hanzi": "个别",
+    "pinyin": "gè bié",
+    "translations": [
+      "cá biệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-315",
+    "hanzi": "个人",
+    "pinyin": "gè rén",
+    "translations": [
+      "cá nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-316",
+    "hanzi": "个性",
+    "pinyin": "gè xìng",
+    "translations": [
+      "cá tính"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-317",
+    "hanzi": "各自",
+    "pinyin": "gè zì",
+    "translations": [
+      "tự, mỗi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-318",
+    "hanzi": "根",
+    "pinyin": "gēn",
+    "translations": [
+      "lượng từ: sợi, cành, khúc, ngón"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-319",
+    "hanzi": "根本",
+    "pinyin": "gēn běn",
+    "translations": [
+      "vốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-320",
+    "hanzi": "工厂",
+    "pinyin": "gōng chǎng",
+    "translations": [
+      "xưởng, xí nghiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-321",
+    "hanzi": "工程师",
+    "pinyin": "gōng chéng shī",
+    "translations": [
+      "kỹ sư"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-322",
+    "hanzi": "工具",
+    "pinyin": "gōng jù",
+    "translations": [
+      "công cụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-323",
+    "hanzi": "工人",
+    "pinyin": "gōng rén",
+    "translations": [
+      "công nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-324",
+    "hanzi": "工业",
+    "pinyin": "gōng yè",
+    "translations": [
+      "công nghiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-325",
+    "hanzi": "公布",
+    "pinyin": "gōng bù",
+    "translations": [
+      "công bố"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-326",
+    "hanzi": "公开",
+    "pinyin": "gōng kāi",
+    "translations": [
+      "công khai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-327",
+    "hanzi": "公平",
+    "pinyin": "gōng píng",
+    "translations": [
+      "công bằng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-328",
+    "hanzi": "公寓",
+    "pinyin": "gōng yù",
+    "translations": [
+      "chung cư"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-329",
+    "hanzi": "公元",
+    "pinyin": "gōng yuán",
+    "translations": [
+      "công nguyên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-330",
+    "hanzi": "公主",
+    "pinyin": "gōng zhǔ",
+    "translations": [
+      "công chúa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-331",
+    "hanzi": "功能",
+    "pinyin": "gōng néng",
+    "translations": [
+      "công năng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-332",
+    "hanzi": "恭喜",
+    "pinyin": "gōng xǐ",
+    "translations": [
+      "chúc mừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-333",
+    "hanzi": "贡献",
+    "pinyin": "gòng xiàn",
+    "translations": [
+      "cống hiến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-334",
+    "hanzi": "沟通",
+    "pinyin": "gōu tōng",
+    "translations": [
+      "trao đổi, thấu hiểu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-335",
+    "hanzi": "构成",
+    "pinyin": "gòu chéng",
+    "translations": [
+      "tạo thành, cấu thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-336",
+    "hanzi": "姑姑",
+    "pinyin": "gū gu",
+    "translations": [
+      "cô"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-337",
+    "hanzi": "姑娘",
+    "pinyin": "gū niang",
+    "translations": [
+      "cô gái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-338",
+    "hanzi": "古代",
+    "pinyin": "gǔ dài",
+    "translations": [
+      "cổ đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-339",
+    "hanzi": "古典",
+    "pinyin": "gǔ diǎn",
+    "translations": [
+      "cổ điển"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-340",
+    "hanzi": "股票",
+    "pinyin": "gǔ piào",
+    "translations": [
+      "cổ phiếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-341",
+    "hanzi": "骨头",
+    "pinyin": "gǔ tou",
+    "translations": [
+      "xương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-342",
+    "hanzi": "鼓舞",
+    "pinyin": "gǔ wǔ",
+    "translations": [
+      "cổ vũ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-343",
+    "hanzi": "鼓掌",
+    "pinyin": "gǔ zhǎng",
+    "translations": [
+      "vỗ tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-344",
+    "hanzi": "固定",
+    "pinyin": "gù dìng",
+    "translations": [
+      "cố định"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-345",
+    "hanzi": "挂号",
+    "pinyin": "guà hào",
+    "translations": [
+      "xếp số"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-346",
+    "hanzi": "乖",
+    "pinyin": "guāi",
+    "translations": [
+      "ngoan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-347",
+    "hanzi": "拐弯",
+    "pinyin": "guǎi wān",
+    "translations": [
+      "rẽ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-348",
+    "hanzi": "怪不得",
+    "pinyin": "guài bù dé",
+    "translations": [
+      "chẳng trách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-349",
+    "hanzi": "关闭",
+    "pinyin": "guān bì",
+    "translations": [
+      "đóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-350",
+    "hanzi": "观察",
+    "pinyin": "guān chá",
+    "translations": [
+      "quan sát"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-351",
+    "hanzi": "观点",
+    "pinyin": "guān diǎn",
+    "translations": [
+      "quan điểm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-352",
+    "hanzi": "观念",
+    "pinyin": "guān niàn",
+    "translations": [
+      "quan niệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-353",
+    "hanzi": "官",
+    "pinyin": "guān",
+    "translations": [
+      "quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-354",
+    "hanzi": "管子",
+    "pinyin": "guǎn zi",
+    "translations": [
+      "cái ống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-355",
+    "hanzi": "冠军",
+    "pinyin": "guàn jūn",
+    "translations": [
+      "quán quân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-356",
+    "hanzi": "光滑",
+    "pinyin": "guāng huá",
+    "translations": [
+      "bóng mượt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-357",
+    "hanzi": "光临",
+    "pinyin": "guāng lín",
+    "translations": [
+      "đến, có mặt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-358",
+    "hanzi": "光明",
+    "pinyin": "guāng míng",
+    "translations": [
+      "quang minh, sáng sủa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-359",
+    "hanzi": "光盘",
+    "pinyin": "guāng pán",
+    "translations": [
+      "đĩa CD, VCD,DVD"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-360",
+    "hanzi": "广场",
+    "pinyin": "guǎng chǎng",
+    "translations": [
+      "quảng trường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-361",
+    "hanzi": "广大",
+    "pinyin": "guǎng dà",
+    "translations": [
+      "quảng đại, rộng lớn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-362",
+    "hanzi": "广泛",
+    "pinyin": "guǎng fàn",
+    "translations": [
+      "rộng khắp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-363",
+    "hanzi": "归纳",
+    "pinyin": "guī nà",
+    "translations": [
+      "tóm tắt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-364",
+    "hanzi": "规矩",
+    "pinyin": "guī ju",
+    "translations": [
+      "qui tắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-365",
+    "hanzi": "规律",
+    "pinyin": "guī lǜ",
+    "translations": [
+      "qui luật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-366",
+    "hanzi": "规模",
+    "pinyin": "guī mó",
+    "translations": [
+      "qui mô"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-367",
+    "hanzi": "规则",
+    "pinyin": "guī zé",
+    "translations": [
+      "nội qui"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-368",
+    "hanzi": "柜台",
+    "pinyin": "guì tái",
+    "translations": [
+      "quầy ba, quầy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-369",
+    "hanzi": "滚",
+    "pinyin": "gǔn",
+    "translations": [
+      "cút, cuộn, lăn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-370",
+    "hanzi": "锅",
+    "pinyin": "guō",
+    "translations": [
+      "nồi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-371",
+    "hanzi": "国庆节",
+    "pinyin": "guó qìng jié",
+    "translations": [
+      "quốc khánh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-372",
+    "hanzi": "国王",
+    "pinyin": "guó wáng",
+    "translations": [
+      "quốc vương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-373",
+    "hanzi": "果然",
+    "pinyin": "guǒ rán",
+    "translations": [
+      "quả nhiên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-374",
+    "hanzi": "果实",
+    "pinyin": "guǒ shí",
+    "translations": [
+      "quả thật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-375",
+    "hanzi": "过分",
+    "pinyin": "guò fèn",
+    "translations": [
+      "quá đáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-376",
+    "hanzi": "过敏",
+    "pinyin": "guò mǐn",
+    "translations": [
+      "mẫn cảm, dị ứng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-377",
+    "hanzi": "过期",
+    "pinyin": "guò qī",
+    "translations": [
+      "quá hạn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-378",
+    "hanzi": "哈",
+    "pinyin": "hā",
+    "translations": [
+      "ha ha"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-379",
+    "hanzi": "海关",
+    "pinyin": "hǎi guān",
+    "translations": [
+      "hải quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-380",
+    "hanzi": "海鲜",
+    "pinyin": "hǎi xiān",
+    "translations": [
+      "hải sản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-381",
+    "hanzi": "喊",
+    "pinyin": "hǎn",
+    "translations": [
+      "hét"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-382",
+    "hanzi": "行业",
+    "pinyin": "háng yè",
+    "translations": [
+      "ngành nghề"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-383",
+    "hanzi": "豪华",
+    "pinyin": "háo huá",
+    "translations": [
+      "sang trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-384",
+    "hanzi": "好客",
+    "pinyin": "hào kè",
+    "translations": [
+      "hiếu khách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-385",
+    "hanzi": "好奇",
+    "pinyin": "hào qí",
+    "translations": [
+      "hiếu kì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-386",
+    "hanzi": "合法",
+    "pinyin": "hé fǎ",
+    "translations": [
+      "hợp pháp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-387",
+    "hanzi": "合理",
+    "pinyin": "hé lǐ",
+    "translations": [
+      "hợp lý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-388",
+    "hanzi": "合同",
+    "pinyin": "hé tóng",
+    "translations": [
+      "hợp đồng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-389",
+    "hanzi": "合影",
+    "pinyin": "hé yǐng",
+    "translations": [
+      "chụp ảnh chung, chụp ảnh tập thể"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-390",
+    "hanzi": "合作",
+    "pinyin": "hé zuò",
+    "translations": [
+      "hợp tác"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-391",
+    "hanzi": "何必",
+    "pinyin": "hé bì",
+    "translations": [
+      "hà tất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-392",
+    "hanzi": "何况",
+    "pinyin": "hé kuàng",
+    "translations": [
+      "huống hồ, hơn nữa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-393",
+    "hanzi": "和平",
+    "pinyin": "hé píng",
+    "translations": [
+      "hòa bình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-394",
+    "hanzi": "核心",
+    "pinyin": "hé xīn",
+    "translations": [
+      "trọng tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-395",
+    "hanzi": "恨",
+    "pinyin": "hèn",
+    "translations": [
+      "hận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-396",
+    "hanzi": "猴子",
+    "pinyin": "hóu zi",
+    "translations": [
+      "khỉ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-397",
+    "hanzi": "后背",
+    "pinyin": "hòu bèi",
+    "translations": [
+      "phía sau"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-398",
+    "hanzi": "后果",
+    "pinyin": "hòu guǒ",
+    "translations": [
+      "hậu quả"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-399",
+    "hanzi": "呼吸",
+    "pinyin": "hū xī",
+    "translations": [
+      "hít thở"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-400",
+    "hanzi": "忽然",
+    "pinyin": "hū rán",
+    "translations": [
+      "bỗng nhiên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-401",
+    "hanzi": "忽视",
+    "pinyin": "hū shì",
+    "translations": [
+      "không coi trọng (kinh tế, ngành nghề, vấn đề nhỏ, nghiên cứu)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-402",
+    "hanzi": "胡说",
+    "pinyin": "hú shuō",
+    "translations": [
+      "nói nhăng quậy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-403",
+    "hanzi": "胡同",
+    "pinyin": "hú tòng",
+    "translations": [
+      "ngõ, hẻm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-404",
+    "hanzi": "壶",
+    "pinyin": "hú",
+    "translations": [
+      "bình, ấm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-405",
+    "hanzi": "蝴蝶",
+    "pinyin": "hú dié",
+    "translations": [
+      "con bướm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-406",
+    "hanzi": "糊涂",
+    "pinyin": "hú tú",
+    "translations": [
+      "hồ đồ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-407",
+    "hanzi": "花生",
+    "pinyin": "huā shēng",
+    "translations": [
+      "lạc, đậu phộng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-408",
+    "hanzi": "划",
+    "pinyin": "huá",
+    "translations": [
+      "chèo (thuyền)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-409",
+    "hanzi": "华裔",
+    "pinyin": "huá yì",
+    "translations": [
+      "hoa kiều"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-410",
+    "hanzi": "滑",
+    "pinyin": "huá",
+    "translations": [
+      "trượt, trơn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-411",
+    "hanzi": "化学",
+    "pinyin": "huà xué",
+    "translations": [
+      "hóa học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-412",
+    "hanzi": "话题",
+    "pinyin": "huà tí",
+    "translations": [
+      "chủ đề"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-413",
+    "hanzi": "怀念",
+    "pinyin": "huái niàn",
+    "translations": [
+      "hoài niệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-414",
+    "hanzi": "怀孕",
+    "pinyin": "huái yùn",
+    "translations": [
+      "mang bầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-415",
+    "hanzi": "缓解",
+    "pinyin": "huǎn jiě",
+    "translations": [
+      "thả lỏng, giảm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-416",
+    "hanzi": "幻想",
+    "pinyin": "huàn xiǎng",
+    "translations": [
+      "ảo tưởng, giả tưởng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-417",
+    "hanzi": "慌张",
+    "pinyin": "huāng zhāng",
+    "translations": [
+      "hoảng sợ, rối rắm, rối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-418",
+    "hanzi": "黄金",
+    "pinyin": "huáng jīn",
+    "translations": [
+      "vàng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-419",
+    "hanzi": "灰",
+    "pinyin": "huī",
+    "translations": [
+      "màu xám"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-420",
+    "hanzi": "灰尘",
+    "pinyin": "huī chén",
+    "translations": [
+      "tro bụi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-421",
+    "hanzi": "灰心",
+    "pinyin": "huī xīn",
+    "translations": [
+      "nản lòng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-422",
+    "hanzi": "挥",
+    "pinyin": "huī",
+    "translations": [
+      "vẫy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-423",
+    "hanzi": "恢复",
+    "pinyin": "huī fù",
+    "translations": [
+      "hồi phục, khôi phục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-424",
+    "hanzi": "汇率",
+    "pinyin": "huì lǜ",
+    "translations": [
+      "tỷ giá"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-425",
+    "hanzi": "婚礼",
+    "pinyin": "hūn lǐ",
+    "translations": [
+      "hôn lễ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-426",
+    "hanzi": "婚姻",
+    "pinyin": "hūn yīn",
+    "translations": [
+      "hôn nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-427",
+    "hanzi": "活跃",
+    "pinyin": "huó yuè",
+    "translations": [
+      "sôi nổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-428",
+    "hanzi": "火柴",
+    "pinyin": "huǒ chái",
+    "translations": [
+      "diêm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-429",
+    "hanzi": "伙伴",
+    "pinyin": "huǒ bàn",
+    "translations": [
+      "bạn đồng hành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-430",
+    "hanzi": "或许",
+    "pinyin": "huò xǔ",
+    "translations": [
+      "có lẽ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-431",
+    "hanzi": "机器",
+    "pinyin": "jī qì",
+    "translations": [
+      "máy móc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-432",
+    "hanzi": "肌肉",
+    "pinyin": "jī ròu",
+    "translations": [
+      "cơ bắp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-433",
+    "hanzi": "基本",
+    "pinyin": "jī běn",
+    "translations": [
+      "cơ bản, căn bản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-434",
+    "hanzi": "激烈",
+    "pinyin": "jī liè",
+    "translations": [
+      "khốc liệt, kịch liệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-435",
+    "hanzi": "及格",
+    "pinyin": "jí gé",
+    "translations": [
+      "đạt điểm qua"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-436",
+    "hanzi": "极其",
+    "pinyin": "jí qí",
+    "translations": [
+      "cực kì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-437",
+    "hanzi": "急忙",
+    "pinyin": "jí máng",
+    "translations": [
+      "vội vàng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-438",
+    "hanzi": "急诊",
+    "pinyin": "jí zhěn",
+    "translations": [
+      "cấp cứu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-439",
+    "hanzi": "集合",
+    "pinyin": "jí hé",
+    "translations": [
+      "tập hợp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-440",
+    "hanzi": "集体",
+    "pinyin": "jí tǐ",
+    "translations": [
+      "tập thể"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-441",
+    "hanzi": "集中",
+    "pinyin": "jí zhōng",
+    "translations": [
+      "tập trung"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-442",
+    "hanzi": "计算",
+    "pinyin": "jì suàn",
+    "translations": [
+      "tính toán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-443",
+    "hanzi": "记录",
+    "pinyin": "jì lù",
+    "translations": [
+      "ghi chép"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-444",
+    "hanzi": "记忆",
+    "pinyin": "jì yì",
+    "translations": [
+      "ký ức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-445",
+    "hanzi": "纪录",
+    "pinyin": "jì lù",
+    "translations": [
+      "kỷ lục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-446",
+    "hanzi": "纪律",
+    "pinyin": "jì lǜ",
+    "translations": [
+      "kỷ luật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-447",
+    "hanzi": "纪念",
+    "pinyin": "jì niàn",
+    "translations": [
+      "kỉ niệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-448",
+    "hanzi": "系领带",
+    "pinyin": "jì lǐng dài",
+    "translations": [
+      "thắt cà vạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-449",
+    "hanzi": "寂寞",
+    "pinyin": "jì mò",
+    "translations": [
+      "cô đơn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-450",
+    "hanzi": "夹子",
+    "pinyin": "jiā zi",
+    "translations": [
+      "cái kẹp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-451",
+    "hanzi": "家庭",
+    "pinyin": "jiā tíng",
+    "translations": [
+      "gia đình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-452",
+    "hanzi": "家务",
+    "pinyin": "jiā wù",
+    "translations": [
+      "việc nhà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-453",
+    "hanzi": "家乡",
+    "pinyin": "jiā xiāng",
+    "translations": [
+      "quê hương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-454",
+    "hanzi": "嘉宾",
+    "pinyin": "jiā bīn",
+    "translations": [
+      "khách mời"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-455",
+    "hanzi": "甲",
+    "pinyin": "jiǎ",
+    "translations": [
+      "giáp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-456",
+    "hanzi": "假如",
+    "pinyin": "jiǎ rú",
+    "translations": [
+      "giả dụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-457",
+    "hanzi": "假设",
+    "pinyin": "jiǎ shè",
+    "translations": [
+      "giả thuyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-458",
+    "hanzi": "假装",
+    "pinyin": "jiǎ zhuāng",
+    "translations": [
+      "giả vờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-459",
+    "hanzi": "价值",
+    "pinyin": "jià zhí",
+    "translations": [
+      "giá trị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-460",
+    "hanzi": "驾驶",
+    "pinyin": "jià shǐ",
+    "translations": [
+      "lái xe"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-461",
+    "hanzi": "嫁",
+    "pinyin": "jià",
+    "translations": [
+      "gả chồng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-462",
+    "hanzi": "坚决",
+    "pinyin": "jiān jué",
+    "translations": [
+      "kiên quyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-463",
+    "hanzi": "坚强",
+    "pinyin": "jiān qiáng",
+    "translations": [
+      "kiên cường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-464",
+    "hanzi": "肩膀",
+    "pinyin": "jiān bǎng",
+    "translations": [
+      "bờ vai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-465",
+    "hanzi": "艰巨",
+    "pinyin": "jiān jù",
+    "translations": [
+      "khó khăn (công việc, nhiệm vụ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-466",
+    "hanzi": "艰苦",
+    "pinyin": "jiān kǔ",
+    "translations": [
+      "gian khổ, gian khóa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-467",
+    "hanzi": "兼职",
+    "pinyin": "jiān zhí",
+    "translations": [
+      "kiêm nhiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-468",
+    "hanzi": "捡",
+    "pinyin": "jiǎn",
+    "translations": [
+      "nhặt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-469",
+    "hanzi": "剪刀",
+    "pinyin": "jiǎn dāo",
+    "translations": [
+      "cái kéo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-470",
+    "hanzi": "简历",
+    "pinyin": "jiǎn lì",
+    "translations": [
+      "sơ yếu lý lịch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-471",
+    "hanzi": "简直",
+    "pinyin": "jiǎn zhí",
+    "translations": [
+      "gần như"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-472",
+    "hanzi": "建立",
+    "pinyin": "jiàn lì",
+    "translations": [
+      "thành lập (tổ chức, trường học), thiết lập (quan hệ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-473",
+    "hanzi": "建设",
+    "pinyin": "jiàn shè",
+    "translations": [
+      "dựng xây, xây dựng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-474",
+    "hanzi": "建筑",
+    "pinyin": "jiàn zhù",
+    "translations": [
+      "công trình xây dưng, (công ty) xây dựng, (ngành) xây dựng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-475",
+    "hanzi": "健身",
+    "pinyin": "jiàn shēn",
+    "translations": [
+      "tập thể dục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-476",
+    "hanzi": "键盘",
+    "pinyin": "jiàn pán",
+    "translations": [
+      "bàn phím"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-477",
+    "hanzi": "讲究",
+    "pinyin": "jiǎng jiū",
+    "translations": [
+      "coi trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-478",
+    "hanzi": "讲座",
+    "pinyin": "jiǎng zuò",
+    "translations": [
+      "buổi diễn thuyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-479",
+    "hanzi": "酱油",
+    "pinyin": "jiàng yóu",
+    "translations": [
+      "xì dầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-480",
+    "hanzi": "交换",
+    "pinyin": "jiāo huàn",
+    "translations": [
+      "trao đổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-481",
+    "hanzi": "交际",
+    "pinyin": "jiāo jì",
+    "translations": [
+      "giao tiếp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-482",
+    "hanzi": "交往",
+    "pinyin": "jiāo wǎng",
+    "translations": [
+      "đi lại, giao thiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-483",
+    "hanzi": "浇",
+    "pinyin": "jiāo",
+    "translations": [
+      "tưới nước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-484",
+    "hanzi": "胶水",
+    "pinyin": "jiāo shuǐ",
+    "translations": [
+      "keo dán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-485",
+    "hanzi": "角度",
+    "pinyin": "jiǎo dù",
+    "translations": [
+      "góc độ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-486",
+    "hanzi": "狡猾",
+    "pinyin": "jiǎo huá",
+    "translations": [
+      "giảo hoạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-487",
+    "hanzi": "教材",
+    "pinyin": "jiào cái",
+    "translations": [
+      "giao trình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-488",
+    "hanzi": "教练",
+    "pinyin": "jiào liàn",
+    "translations": [
+      "huấn luyện viên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-489",
+    "hanzi": "教训",
+    "pinyin": "jiào xùn",
+    "translations": [
+      "giáo huấn, bài học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-490",
+    "hanzi": "阶段",
+    "pinyin": "jiē duàn",
+    "translations": [
+      "giai đoạn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-491",
+    "hanzi": "结实",
+    "pinyin": "jiē shi",
+    "translations": [
+      "chắc chắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-492",
+    "hanzi": "接触",
+    "pinyin": "jiē chù",
+    "translations": [
+      "tiếp xúc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-493",
+    "hanzi": "接待",
+    "pinyin": "jiē dài",
+    "translations": [
+      "tiếp đãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-494",
+    "hanzi": "接近",
+    "pinyin": "jiē jìn",
+    "translations": [
+      "tiếp cận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-495",
+    "hanzi": "节省",
+    "pinyin": "jié shěng",
+    "translations": [
+      "tiết kiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-496",
+    "hanzi": "结构",
+    "pinyin": "jié gòu",
+    "translations": [
+      "kết cấu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-497",
+    "hanzi": "结合",
+    "pinyin": "jié hé",
+    "translations": [
+      "kết hợp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-498",
+    "hanzi": "结论",
+    "pinyin": "jié lùn",
+    "translations": [
+      "kết luận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-499",
+    "hanzi": "结账",
+    "pinyin": "jié zhàng",
+    "translations": [
+      "thanh toán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-500",
+    "hanzi": "戒",
+    "pinyin": "jiè",
+    "translations": [
+      "cai (thuốc, rượu, nghiện)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-501",
+    "hanzi": "戒指",
+    "pinyin": "jiè zhǐ",
+    "translations": [
+      "nhẫn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-502",
+    "hanzi": "届",
+    "pinyin": "jiè",
+    "translations": [
+      "khóa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-503",
+    "hanzi": "借口",
+    "pinyin": "jiè kǒu",
+    "translations": [
+      "cớ, lí do"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-504",
+    "hanzi": "金属",
+    "pinyin": "jīn shǔ",
+    "translations": [
+      "kim loại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-505",
+    "hanzi": "尽快",
+    "pinyin": "jǐn kuài",
+    "translations": [
+      "mau chóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-506",
+    "hanzi": "尽量",
+    "pinyin": "jǐn liàng",
+    "translations": [
+      "cố gắng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-507",
+    "hanzi": "紧急",
+    "pinyin": "jǐn jí",
+    "translations": [
+      "cấp bách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-508",
+    "hanzi": "谨慎",
+    "pinyin": "jǐn shèn",
+    "translations": [
+      "cẩn thận, thận trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-509",
+    "hanzi": "尽力",
+    "pinyin": "jìn lì",
+    "translations": [
+      "dốc hết sức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-510",
+    "hanzi": "进步",
+    "pinyin": "jìn bù",
+    "translations": [
+      "tiến bộ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-511",
+    "hanzi": "进口",
+    "pinyin": "jìn kǒu",
+    "translations": [
+      "nhập khẩu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-512",
+    "hanzi": "近代",
+    "pinyin": "jìn dài",
+    "translations": [
+      "cận đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-513",
+    "hanzi": "经典",
+    "pinyin": "jīng diǎn",
+    "translations": [
+      "kinh điển"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-514",
+    "hanzi": "经商",
+    "pinyin": "jīng shāng",
+    "translations": [
+      "kinh doanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-515",
+    "hanzi": "经营",
+    "pinyin": "jīng yíng",
+    "translations": [
+      "kinh doanh (cửa hàng), vận hành (công ty)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-516",
+    "hanzi": "精力",
+    "pinyin": "jīng lì",
+    "translations": [
+      "tinh lực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-517",
+    "hanzi": "精神",
+    "pinyin": "jīng shén",
+    "translations": [
+      "tinh thần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-518",
+    "hanzi": "酒吧",
+    "pinyin": "jiǔ bā",
+    "translations": [
+      "quán ba"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-519",
+    "hanzi": "救",
+    "pinyin": "jiù",
+    "translations": [
+      "cứu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-520",
+    "hanzi": "救护车",
+    "pinyin": "jiù hù chē",
+    "translations": [
+      "xe cứu thương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-521",
+    "hanzi": "舅舅",
+    "pinyin": "jiù jiù",
+    "translations": [
+      "cậu (em mẹ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-522",
+    "hanzi": "居然",
+    "pinyin": "jū rán",
+    "translations": [
+      "không ngờ lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-523",
+    "hanzi": "桔子",
+    "pinyin": "jú zi",
+    "translations": [
+      "quýt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-524",
+    "hanzi": "巨大",
+    "pinyin": "jù dà",
+    "translations": [
+      "lớn (thành tựu, thay đổi, ảnh hưởng, tác hại)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-525",
+    "hanzi": "具备",
+    "pinyin": "jù bèi",
+    "translations": [
+      "chuẩn bị đủ, có đủ (tư cách, điều kiện, tinh lực)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-526",
+    "hanzi": "具体",
+    "pinyin": "jù tǐ",
+    "translations": [
+      "cụ thể"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-527",
+    "hanzi": "俱乐部",
+    "pinyin": "jù lè bù",
+    "translations": [
+      "câu lạc bộ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-528",
+    "hanzi": "据说",
+    "pinyin": "jù shuō",
+    "translations": [
+      "nghe nói, nghe đồn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-529",
+    "hanzi": "捐",
+    "pinyin": "juān",
+    "translations": [
+      "quyên góp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-530",
+    "hanzi": "决赛",
+    "pinyin": "jué sài",
+    "translations": [
+      "trận chung kết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-531",
+    "hanzi": "决心",
+    "pinyin": "jué xīn",
+    "translations": [
+      "quyết tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-532",
+    "hanzi": "角色",
+    "pinyin": "jué sè",
+    "translations": [
+      "nhân vật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-533",
+    "hanzi": "绝对",
+    "pinyin": "jué duì",
+    "translations": [
+      "tuyệt đối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-534",
+    "hanzi": "军事",
+    "pinyin": "jūn shì",
+    "translations": [
+      "quân sự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-535",
+    "hanzi": "均匀",
+    "pinyin": "jūn yún",
+    "translations": [
+      "bình quân, trung bình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-536",
+    "hanzi": "卡车",
+    "pinyin": "kǎ chē",
+    "translations": [
+      "xe tải"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-537",
+    "hanzi": "开发",
+    "pinyin": "kāi fā",
+    "translations": [
+      "phát triển (hệ thống, ngành nghề, kĩ thuật, sản phẩm)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-538",
+    "hanzi": "开放",
+    "pinyin": "kāi fàng",
+    "translations": [
+      "mở cửa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-539",
+    "hanzi": "开幕式",
+    "pinyin": "kāi mù shì",
+    "translations": [
+      "lễ khai mạc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-540",
+    "hanzi": "开水",
+    "pinyin": "kāi shuǐ",
+    "translations": [
+      "nước sôi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-541",
+    "hanzi": "砍",
+    "pinyin": "kǎn",
+    "translations": [
+      "chặt, chém"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-542",
+    "hanzi": "看不起",
+    "pinyin": "kàn bù qǐ",
+    "translations": [
+      "coi khinh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-543",
+    "hanzi": "看望",
+    "pinyin": "kàn wàng",
+    "translations": [
+      "đi thăm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-544",
+    "hanzi": "靠",
+    "pinyin": "kào",
+    "translations": [
+      "dựa dẫm, dựa vào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-545",
+    "hanzi": "颗",
+    "pinyin": "kē",
+    "translations": [
+      "quả (lượng từ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-546",
+    "hanzi": "可见",
+    "pinyin": "kě jiàn",
+    "translations": [
+      "cho thấy (đứng đầu vế câu thứ hai)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-547",
+    "hanzi": "可靠",
+    "pinyin": "kě kào",
+    "translations": [
+      "đáng tin cậy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-548",
+    "hanzi": "可怕",
+    "pinyin": "kě pà",
+    "translations": [
+      "đáng sợ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-549",
+    "hanzi": "克",
+    "pinyin": "kè",
+    "translations": [
+      "gram"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-550",
+    "hanzi": "克服",
+    "pinyin": "kè fú",
+    "translations": [
+      "khắc phục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-551",
+    "hanzi": "刻苦",
+    "pinyin": "kè kǔ",
+    "translations": [
+      "khắc khổ, chịu khó"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-552",
+    "hanzi": "客观",
+    "pinyin": "kè guān",
+    "translations": [
+      "khách quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-553",
+    "hanzi": "课程",
+    "pinyin": "kè chéng",
+    "translations": [
+      "môn học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-554",
+    "hanzi": "空间",
+    "pinyin": "kōng jiān",
+    "translations": [
+      "không gian"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-555",
+    "hanzi": "空闲",
+    "pinyin": "kòng xián",
+    "translations": [
+      "rảnh rỗi (thời gian)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-556",
+    "hanzi": "控制",
+    "pinyin": "kòng zhì",
+    "translations": [
+      "kiềm chế (cảm xúc, tình cảm), kiểm soát"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-557",
+    "hanzi": "口味",
+    "pinyin": "kǒu wèi",
+    "translations": [
+      "khẩu vị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-558",
+    "hanzi": "夸",
+    "pinyin": "kuā",
+    "translations": [
+      "khen"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-559",
+    "hanzi": "夸张",
+    "pinyin": "kuā zhāng",
+    "translations": [
+      "phóng đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-560",
+    "hanzi": "会计",
+    "pinyin": "kuàì jì",
+    "translations": [
+      "kế toán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-561",
+    "hanzi": "宽",
+    "pinyin": "kuān",
+    "translations": [
+      "rộng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-562",
+    "hanzi": "昆虫",
+    "pinyin": "kūn chóng",
+    "translations": [
+      "côn trùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-563",
+    "hanzi": "扩大",
+    "pinyin": "kuò dà",
+    "translations": [
+      "mở rộng (phạm vi, khoảng cách, thị trường)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-564",
+    "hanzi": "辣椒",
+    "pinyin": "là jiāo",
+    "translations": [
+      "ớt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-565",
+    "hanzi": "拦",
+    "pinyin": "lán",
+    "translations": [
+      "ngăn, chặn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-566",
+    "hanzi": "烂",
+    "pinyin": "làn",
+    "translations": [
+      "nát, loét, rách, thối rữa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-567",
+    "hanzi": "朗读",
+    "pinyin": "lǎng dú",
+    "translations": [
+      "đọc to"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-568",
+    "hanzi": "劳动",
+    "pinyin": "láo dòng",
+    "translations": [
+      "lao động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-569",
+    "hanzi": "劳驾",
+    "pinyin": "láo jià",
+    "translations": [
+      "làm ơn, xin phiền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-570",
+    "hanzi": "老百姓",
+    "pinyin": "lǎo bǎi xìng",
+    "translations": [
+      "lão bách tính"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-571",
+    "hanzi": "老板",
+    "pinyin": "lǎo bǎn",
+    "translations": [
+      "ông chủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-572",
+    "hanzi": "老婆",
+    "pinyin": "lǎo pó",
+    "translations": [
+      "bà xã"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-573",
+    "hanzi": "老实",
+    "pinyin": "lǎo shí",
+    "translations": [
+      "thật thà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-574",
+    "hanzi": "老鼠",
+    "pinyin": "lǎo shǔ",
+    "translations": [
+      "con chuột"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-575",
+    "hanzi": "姥姥",
+    "pinyin": "lǎo lǎo",
+    "translations": [
+      "bà ngoại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-576",
+    "hanzi": "乐观",
+    "pinyin": "lè guān",
+    "translations": [
+      "lạc quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-577",
+    "hanzi": "雷",
+    "pinyin": "léi",
+    "translations": [
+      "sấm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-578",
+    "hanzi": "类型",
+    "pinyin": "lèi xíng",
+    "translations": [
+      "loại hình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-579",
+    "hanzi": "冷淡",
+    "pinyin": "lěng dàn",
+    "translations": [
+      "lãnh đạm, lạnh nhạt, lạnh lùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-580",
+    "hanzi": "厘米",
+    "pinyin": "lí mǐ",
+    "translations": [
+      "cm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-581",
+    "hanzi": "离婚",
+    "pinyin": "lí hūn",
+    "translations": [
+      "li hôn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-582",
+    "hanzi": "梨",
+    "pinyin": "lí",
+    "translations": [
+      "quả lê"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-583",
+    "hanzi": "理论",
+    "pinyin": "lǐ lùn",
+    "translations": [
+      "lý luận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-584",
+    "hanzi": "理由",
+    "pinyin": "lǐ yóu",
+    "translations": [
+      "lí do"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-585",
+    "hanzi": "力量",
+    "pinyin": "lì liàng",
+    "translations": [
+      "sức mạnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-586",
+    "hanzi": "立即",
+    "pinyin": "lì jí",
+    "translations": [
+      "lập tức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-587",
+    "hanzi": "立刻",
+    "pinyin": "lì kè",
+    "translations": [
+      "lập tức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-588",
+    "hanzi": "利润",
+    "pinyin": "lì rùn",
+    "translations": [
+      "lợi nhuận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-589",
+    "hanzi": "利息",
+    "pinyin": "lì xī",
+    "translations": [
+      "lợi tức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-590",
+    "hanzi": "利益",
+    "pinyin": "lì yì",
+    "translations": [
+      "lợi ích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-591",
+    "hanzi": "利用",
+    "pinyin": "lì yòng",
+    "translations": [
+      "tận dụng, lợi dụng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-592",
+    "hanzi": "连忙",
+    "pinyin": "lián máng",
+    "translations": [
+      "vội vã"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-593",
+    "hanzi": "连续",
+    "pinyin": "lián xù",
+    "translations": [
+      "liên tục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-594",
+    "hanzi": "联合",
+    "pinyin": "lián hé",
+    "translations": [
+      "liên hiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-595",
+    "hanzi": "恋爱",
+    "pinyin": "liàn ài",
+    "translations": [
+      "yêu đương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-596",
+    "hanzi": "良好",
+    "pinyin": "liáng hǎo",
+    "translations": [
+      "tốt đẹp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-597",
+    "hanzi": "粮食",
+    "pinyin": "liáng shí",
+    "translations": [
+      "lương thực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-598",
+    "hanzi": "亮",
+    "pinyin": "liàng",
+    "translations": [
+      "sáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-599",
+    "hanzi": "了不起",
+    "pinyin": "liǎo bù qǐ",
+    "translations": [
+      "giỏi giang"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-600",
+    "hanzi": "列车",
+    "pinyin": "liè chē",
+    "translations": [
+      "tàu hỏa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-601",
+    "hanzi": "临时",
+    "pinyin": "lín shí",
+    "translations": [
+      "lâm thời, thời vụ, tạm thời"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-602",
+    "hanzi": "灵活",
+    "pinyin": "líng huó",
+    "translations": [
+      "linh hoạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-603",
+    "hanzi": "铃",
+    "pinyin": "líng",
+    "translations": [
+      "chuông"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-604",
+    "hanzi": "零件",
+    "pinyin": "líng jiàn",
+    "translations": [
+      "linh kiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-605",
+    "hanzi": "零食",
+    "pinyin": "líng shí",
+    "translations": [
+      "đồ ăn vặt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-606",
+    "hanzi": "领导",
+    "pinyin": "lǐng dǎo",
+    "translations": [
+      "lãnh đạo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-607",
+    "hanzi": "领域",
+    "pinyin": "lǐng yù",
+    "translations": [
+      "lĩnh vực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-608",
+    "hanzi": "浏览",
+    "pinyin": "liú lǎn",
+    "translations": [
+      "đọc lướt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-609",
+    "hanzi": "流传",
+    "pinyin": "liú chuán",
+    "translations": [
+      "lưu truyền, lan truyền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-610",
+    "hanzi": "流泪",
+    "pinyin": "liú lèi",
+    "translations": [
+      "rơi lệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-611",
+    "hanzi": "龙",
+    "pinyin": "lóng",
+    "translations": [
+      "rồng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-612",
+    "hanzi": "漏",
+    "pinyin": "lòu",
+    "translations": [
+      "dột"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-613",
+    "hanzi": "陆地",
+    "pinyin": "lù dì",
+    "translations": [
+      "lục địa, đất liền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-614",
+    "hanzi": "陆续",
+    "pinyin": "lù xù",
+    "translations": [
+      "lục tục, liên tiếp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-615",
+    "hanzi": "录取",
+    "pinyin": "lù qǔ",
+    "translations": [
+      "tuyển chọn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-616",
+    "hanzi": "录音",
+    "pinyin": "lù yīn",
+    "translations": [
+      "ghi âm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-617",
+    "hanzi": "轮流",
+    "pinyin": "lún liú",
+    "translations": [
+      "luân lưu, thay phiên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-618",
+    "hanzi": "论文",
+    "pinyin": "lùn wén",
+    "translations": [
+      "luận văn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-619",
+    "hanzi": "逻辑",
+    "pinyin": "luó jí",
+    "translations": [
+      "logic"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-620",
+    "hanzi": "落后",
+    "pinyin": "luò hòu",
+    "translations": [
+      "lạc hậu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-621",
+    "hanzi": "骂",
+    "pinyin": "mà",
+    "translations": [
+      "mắng mỏ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-622",
+    "hanzi": "麦克风",
+    "pinyin": "mài kè fēng",
+    "translations": [
+      "microphone"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-623",
+    "hanzi": "馒头",
+    "pinyin": "mán tóu",
+    "translations": [
+      "bánh bao không nhân, màn thầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-624",
+    "hanzi": "满足",
+    "pinyin": "mǎn zú",
+    "translations": [
+      "đáp ứng (yêu cầu, điều kiện, tính tò mò, lòng tham)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-625",
+    "hanzi": "毛病",
+    "pinyin": "máo bìng",
+    "translations": [
+      "tật xấu, lỗi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-626",
+    "hanzi": "矛盾",
+    "pinyin": "máo dùn",
+    "translations": [
+      "mâu thuẫn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-627",
+    "hanzi": "冒险",
+    "pinyin": "mào xiǎn",
+    "translations": [
+      "mạo hiểm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-628",
+    "hanzi": "贸易",
+    "pinyin": "mào yì",
+    "translations": [
+      "thương mại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-629",
+    "hanzi": "眉毛",
+    "pinyin": "méi máo",
+    "translations": [
+      "lông mày"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-630",
+    "hanzi": "媒体",
+    "pinyin": "méi tǐ",
+    "translations": [
+      "truyền thông, báo chí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-631",
+    "hanzi": "煤炭",
+    "pinyin": "méi tàn",
+    "translations": [
+      "than"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-632",
+    "hanzi": "美术",
+    "pinyin": "měi shù",
+    "translations": [
+      "mỹ thuật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-633",
+    "hanzi": "魅力",
+    "pinyin": "mèi lì",
+    "translations": [
+      "sức hút"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-634",
+    "hanzi": "梦想",
+    "pinyin": "mèng xiǎng",
+    "translations": [
+      "ước mơ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-635",
+    "hanzi": "秘密",
+    "pinyin": "mì mì",
+    "translations": [
+      "bí mật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-636",
+    "hanzi": "秘书",
+    "pinyin": "mì shū",
+    "translations": [
+      "thư ký"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-637",
+    "hanzi": "密切",
+    "pinyin": "mì qiè",
+    "translations": [
+      "mật thiết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-638",
+    "hanzi": "蜜蜂",
+    "pinyin": "mì fēng",
+    "translations": [
+      "con ong"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-639",
+    "hanzi": "面对",
+    "pinyin": "miàn duì",
+    "translations": [
+      "đối mặt (chứng cứ, tương lai, khủng hoảng, thách thức), đối diện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-640",
+    "hanzi": "面积",
+    "pinyin": "miàn jī",
+    "translations": [
+      "diện tích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-641",
+    "hanzi": "面临",
+    "pinyin": "miàn lín",
+    "translations": [
+      "đứng trước (khó khăn, nguy hiểm, thách thức)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-642",
+    "hanzi": "苗条",
+    "pinyin": "miáo tiáo",
+    "translations": [
+      "thon thả"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-643",
+    "hanzi": "描写",
+    "pinyin": "miáo xiě",
+    "translations": [
+      "miêu tả"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-644",
+    "hanzi": "敏感",
+    "pinyin": "mǐn gǎn",
+    "translations": [
+      "nhạy cảm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-645",
+    "hanzi": "名牌",
+    "pinyin": "míng pái",
+    "translations": [
+      "thương hiệu nổi tiếng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-646",
+    "hanzi": "名片",
+    "pinyin": "míng piàn",
+    "translations": [
+      "danh thiếp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-647",
+    "hanzi": "名胜古迹",
+    "pinyin": "míng shèng gǔ jì",
+    "translations": [
+      "danh lam thắng cảnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-648",
+    "hanzi": "明确",
+    "pinyin": "míng què",
+    "translations": [
+      "rõ ràng, rành mạch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-649",
+    "hanzi": "明显",
+    "pinyin": "míng xiǎn",
+    "translations": [
+      "rõ ràng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-650",
+    "hanzi": "明星",
+    "pinyin": "míng xīng",
+    "translations": [
+      "minh tinh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-651",
+    "hanzi": "命令",
+    "pinyin": "mìng lìng",
+    "translations": [
+      "mệnh lệnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-652",
+    "hanzi": "命运",
+    "pinyin": "mìng yùn",
+    "translations": [
+      "vận mệnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-653",
+    "hanzi": "摸",
+    "pinyin": "mō",
+    "translations": [
+      "sờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-654",
+    "hanzi": "模仿",
+    "pinyin": "mó fǎng",
+    "translations": [
+      "bắt chước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-655",
+    "hanzi": "模糊",
+    "pinyin": "mó hu",
+    "translations": [
+      "mơ hồ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-656",
+    "hanzi": "模特",
+    "pinyin": "mó tè",
+    "translations": [
+      "người mẫu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-657",
+    "hanzi": "摩托车",
+    "pinyin": "mó tuō chē",
+    "translations": [
+      "xe máy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-658",
+    "hanzi": "陌生",
+    "pinyin": "mò shēng",
+    "translations": [
+      "lạ lẫm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-659",
+    "hanzi": "某",
+    "pinyin": "mǒu",
+    "translations": [
+      "nào đó"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-660",
+    "hanzi": "木头",
+    "pinyin": "mù tóu",
+    "translations": [
+      "khúc gỗ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-661",
+    "hanzi": "目标",
+    "pinyin": "mù biāo",
+    "translations": [
+      "mục tiêu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-662",
+    "hanzi": "目录",
+    "pinyin": "mù lù",
+    "translations": [
+      "mục lục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-663",
+    "hanzi": "目前",
+    "pinyin": "mù qián",
+    "translations": [
+      "trước mắt, hiện nay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-664",
+    "hanzi": "哪怕",
+    "pinyin": "nǎ pà",
+    "translations": [
+      "cho dù"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-665",
+    "hanzi": "难怪",
+    "pinyin": "nán guài",
+    "translations": [
+      "chẳng trách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-666",
+    "hanzi": "难免",
+    "pinyin": "nán miǎn",
+    "translations": [
+      "khó tránh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-667",
+    "hanzi": "脑袋",
+    "pinyin": "nǎo dài",
+    "translations": [
+      "não"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-668",
+    "hanzi": "内部",
+    "pinyin": "nèi bù",
+    "translations": [
+      "nội bộ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-669",
+    "hanzi": "内科",
+    "pinyin": "nèi kē",
+    "translations": [
+      "khoa nội"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-670",
+    "hanzi": "嫩",
+    "pinyin": "nèn",
+    "translations": [
+      "mềm, non"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-671",
+    "hanzi": "能干",
+    "pinyin": "néng gàn",
+    "translations": [
+      "được việc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-672",
+    "hanzi": "能源",
+    "pinyin": "néng yuán",
+    "translations": [
+      "tài nguyên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-673",
+    "hanzi": "嗯",
+    "pinyin": "ēn",
+    "translations": [
+      "ừ, ừm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-674",
+    "hanzi": "年代",
+    "pinyin": "nián dài",
+    "translations": [
+      "thời đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-675",
+    "hanzi": "年纪",
+    "pinyin": "nián jì",
+    "translations": [
+      "tuổi tác"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-676",
+    "hanzi": "念",
+    "pinyin": "niàn",
+    "translations": [
+      "đọc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-677",
+    "hanzi": "宁可",
+    "pinyin": "nìng kě",
+    "translations": [
+      "thà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-678",
+    "hanzi": "牛仔裤",
+    "pinyin": "niú zǎi kù",
+    "translations": [
+      "quần bò"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-679",
+    "hanzi": "农村",
+    "pinyin": "nóng cūn",
+    "translations": [
+      "nông thôn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-680",
+    "hanzi": "农民",
+    "pinyin": "nóng mín",
+    "translations": [
+      "nông dân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-681",
+    "hanzi": "农业",
+    "pinyin": "nóng yè",
+    "translations": [
+      "nông nghiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-682",
+    "hanzi": "浓",
+    "pinyin": "nóng",
+    "translations": [
+      "nồng, đậm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-683",
+    "hanzi": "女士",
+    "pinyin": "nǚ shì",
+    "translations": [
+      "quý cô, quý bà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-684",
+    "hanzi": "欧洲",
+    "pinyin": "ōu zhōu",
+    "translations": [
+      "châu Âu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-685",
+    "hanzi": "偶然",
+    "pinyin": "ǒu rán",
+    "translations": [
+      "ngẫu nhiên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-686",
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "translations": [
+      "vỗ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-687",
+    "hanzi": "派",
+    "pinyin": "pài",
+    "translations": [
+      "cử, phái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-688",
+    "hanzi": "盼望",
+    "pinyin": "pàn wàng",
+    "translations": [
+      "mong chờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-689",
+    "hanzi": "培训",
+    "pinyin": "péi xùn",
+    "translations": [
+      "bồi dưỡng, tập huấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-690",
+    "hanzi": "培养",
+    "pinyin": "péi yǎng",
+    "translations": [
+      "nuôi dưỡng, hình thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-691",
+    "hanzi": "赔偿",
+    "pinyin": "péi cháng",
+    "translations": [
+      "bồi thường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-692",
+    "hanzi": "佩服",
+    "pinyin": "pèi fú",
+    "translations": [
+      "khâm phục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-693",
+    "hanzi": "配合",
+    "pinyin": "pèi hé",
+    "translations": [
+      "phối hợp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-694",
+    "hanzi": "盆",
+    "pinyin": "pén",
+    "translations": [
+      "chậu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-695",
+    "hanzi": "碰",
+    "pinyin": "pèng",
+    "translations": [
+      "gặp phải, đụng phải"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-696",
+    "hanzi": "批",
+    "pinyin": "pī",
+    "translations": [
+      "loạt, lô (lượng từ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-697",
+    "hanzi": "批准",
+    "pinyin": "pī zhǔn",
+    "translations": [
+      "phê chuẩn, đồng ý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-698",
+    "hanzi": "披",
+    "pinyin": "pī",
+    "translations": [
+      "khoác"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-699",
+    "hanzi": "疲劳",
+    "pinyin": "pí láo",
+    "translations": [
+      "mệt mỏi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-700",
+    "hanzi": "匹",
+    "pinyin": "pǐ",
+    "translations": [
+      "con (lượng từ cho ngựa)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-701",
+    "hanzi": "片",
+    "pinyin": "piàn",
+    "translations": [
+      "chiếc, lát, mảnh (lượng từ cho lá, bánh mì, đất đai )"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-702",
+    "hanzi": "片面",
+    "pinyin": "piàn miàn",
+    "translations": [
+      "phiến diện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-703",
+    "hanzi": "飘",
+    "pinyin": "piāo",
+    "translations": [
+      "bay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-704",
+    "hanzi": "拼音",
+    "pinyin": "pīn yīn",
+    "translations": [
+      "phiên âm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-705",
+    "hanzi": "频道",
+    "pinyin": "pín dào",
+    "translations": [
+      "kênh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-706",
+    "hanzi": "平",
+    "pinyin": "píng",
+    "translations": [
+      "bằng, đều"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-707",
+    "hanzi": "平安",
+    "pinyin": "píng ān",
+    "translations": [
+      "bình an"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-708",
+    "hanzi": "平常",
+    "pinyin": "píng cháng",
+    "translations": [
+      "bình thường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-709",
+    "hanzi": "平等",
+    "pinyin": "píng děng",
+    "translations": [
+      "bình đẳng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-710",
+    "hanzi": "平方",
+    "pinyin": "píng fāng",
+    "translations": [
+      "bình phương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-711",
+    "hanzi": "平衡",
+    "pinyin": "píng héng",
+    "translations": [
+      "cân bằng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-712",
+    "hanzi": "平静",
+    "pinyin": "píng jìng",
+    "translations": [
+      "bình tĩnh, tĩnh lặng, yên tĩnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-713",
+    "hanzi": "平均",
+    "pinyin": "píng jūn",
+    "translations": [
+      "trung bình, bình quân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-714",
+    "hanzi": "评价",
+    "pinyin": "píng jià",
+    "translations": [
+      "đánh giá"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-715",
+    "hanzi": "凭",
+    "pinyin": "píng",
+    "translations": [
+      "dựa vào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-716",
+    "hanzi": "迫切",
+    "pinyin": "pò qiè",
+    "translations": [
+      "cấp bách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-717",
+    "hanzi": "破产",
+    "pinyin": "pò chǎn",
+    "translations": [
+      "phá sản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-718",
+    "hanzi": "破坏",
+    "pinyin": "pò huài",
+    "translations": [
+      "phá hoại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-719",
+    "hanzi": "期待",
+    "pinyin": "qī dài",
+    "translations": [
+      "kỳ vọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-720",
+    "hanzi": "期间",
+    "pinyin": "qī jiān",
+    "translations": [
+      "khoảng thời gian"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-721",
+    "hanzi": "其余",
+    "pinyin": "qí yú",
+    "translations": [
+      "còn lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-722",
+    "hanzi": "奇迹",
+    "pinyin": "qí jì",
+    "translations": [
+      "kỳ tích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-723",
+    "hanzi": "企业",
+    "pinyin": "qǐ yè",
+    "translations": [
+      "nhà máy, xí nghiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-724",
+    "hanzi": "启发",
+    "pinyin": "qǐ fā",
+    "translations": [
+      "gợi mở, gợi ý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-725",
+    "hanzi": "气氛",
+    "pinyin": "qì fēn",
+    "translations": [
+      "không khí (cuộc họp, buổi tiệc)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-726",
+    "hanzi": "汽油",
+    "pinyin": "qì yóu",
+    "translations": [
+      "xăng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-727",
+    "hanzi": "谦虚",
+    "pinyin": "qiān xū",
+    "translations": [
+      "khiêm tốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-728",
+    "hanzi": "签",
+    "pinyin": "qiān",
+    "translations": [
+      "ký (tên)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-729",
+    "hanzi": "前途",
+    "pinyin": "qián tú",
+    "translations": [
+      "tiền đồ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-730",
+    "hanzi": "浅",
+    "pinyin": "qiǎn",
+    "translations": [
+      "nông"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-731",
+    "hanzi": "欠",
+    "pinyin": "qiàn",
+    "translations": [
+      "nợ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-732",
+    "hanzi": "枪",
+    "pinyin": "qiāng",
+    "translations": [
+      "súng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-733",
+    "hanzi": "强调",
+    "pinyin": "qiáng diào",
+    "translations": [
+      "nhấn mạnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-734",
+    "hanzi": "强烈",
+    "pinyin": "qiáng liè",
+    "translations": [
+      "mãnh liệt, mạnh mẽ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-735",
+    "hanzi": "墙",
+    "pinyin": "qiáng",
+    "translations": [
+      "tường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-736",
+    "hanzi": "抢",
+    "pinyin": "qiǎng",
+    "translations": [
+      "cướp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-737",
+    "hanzi": "悄悄",
+    "pinyin": "qiāo qiāo",
+    "translations": [
+      "lặng lẽ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-738",
+    "hanzi": "瞧",
+    "pinyin": "qiáo",
+    "translations": [
+      "liếc nhìn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-739",
+    "hanzi": "巧妙",
+    "pinyin": "qiǎo miào",
+    "translations": [
+      "khéo léo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-740",
+    "hanzi": "切",
+    "pinyin": "qiè",
+    "translations": [
+      "cắt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-741",
+    "hanzi": "亲爱",
+    "pinyin": "qīn ài",
+    "translations": [
+      "thân yêu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-742",
+    "hanzi": "亲切",
+    "pinyin": "qīn qiè",
+    "translations": [
+      "thân thiết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-743",
+    "hanzi": "亲自",
+    "pinyin": "qīn zì",
+    "translations": [
+      "tự thân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-744",
+    "hanzi": "勤奋",
+    "pinyin": "qín fèn",
+    "translations": [
+      "cần cù"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-745",
+    "hanzi": "青",
+    "pinyin": "qīng",
+    "translations": [
+      "màu xanh non"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-746",
+    "hanzi": "青春",
+    "pinyin": "qīng chūn",
+    "translations": [
+      "thanh xuân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-747",
+    "hanzi": "青少年",
+    "pinyin": "qīng shào nián",
+    "translations": [
+      "thanh thiếu niên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-748",
+    "hanzi": "轻视",
+    "pinyin": "qīng shì",
+    "translations": [
+      "coi khinh, khinh thường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-749",
+    "hanzi": "轻易",
+    "pinyin": "qīng yì",
+    "translations": [
+      "dễ dàng (làm trạng ngữ), khinh suất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-750",
+    "hanzi": "清淡",
+    "pinyin": "qīng dàn",
+    "translations": [
+      "thanh đạm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-751",
+    "hanzi": "情景",
+    "pinyin": "qíng jǐng",
+    "translations": [
+      "cảnh tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-752",
+    "hanzi": "情绪",
+    "pinyin": "qíng xù",
+    "translations": [
+      "tâm trạng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-753",
+    "hanzi": "请求",
+    "pinyin": "qǐng qiú",
+    "translations": [
+      "thỉnh cầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-754",
+    "hanzi": "庆祝",
+    "pinyin": "qìng zhù",
+    "translations": [
+      "chúc mừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-755",
+    "hanzi": "球迷",
+    "pinyin": "qiú mí",
+    "translations": [
+      "người hâm mộ bóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-756",
+    "hanzi": "趋势",
+    "pinyin": "qū shì",
+    "translations": [
+      "xu thế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-757",
+    "hanzi": "取消",
+    "pinyin": "qǔ xiāo",
+    "translations": [
+      "hủy bỏ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-758",
+    "hanzi": "娶",
+    "pinyin": "qǔ",
+    "translations": [
+      "lấy (vợ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-759",
+    "hanzi": "去世",
+    "pinyin": "qù shì",
+    "translations": [
+      "tạ thế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-760",
+    "hanzi": "圈",
+    "pinyin": "quān",
+    "translations": [
+      "vòng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-761",
+    "hanzi": "权力",
+    "pinyin": "quán lì",
+    "translations": [
+      "quyền lực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-762",
+    "hanzi": "权利",
+    "pinyin": "quán lì",
+    "translations": [
+      "quyền lợi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-763",
+    "hanzi": "全面",
+    "pinyin": "quán miàn",
+    "translations": [
+      "toàn diện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-764",
+    "hanzi": "劝",
+    "pinyin": "quàn",
+    "translations": [
+      "khuyên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-765",
+    "hanzi": "缺乏",
+    "pinyin": "quē fá",
+    "translations": [
+      "thiếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-766",
+    "hanzi": "确定",
+    "pinyin": "què dìng",
+    "translations": [
+      "xác định"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-767",
+    "hanzi": "确认",
+    "pinyin": "què rèn",
+    "translations": [
+      "xác nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-768",
+    "hanzi": "群",
+    "pinyin": "qún",
+    "translations": [
+      "đám, nhóm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-769",
+    "hanzi": "燃烧",
+    "pinyin": "rán shāo",
+    "translations": [
+      "đốt cháy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-770",
+    "hanzi": "绕",
+    "pinyin": "rào",
+    "translations": [
+      "vòng vèo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-771",
+    "hanzi": "热爱",
+    "pinyin": "rè ài",
+    "translations": [
+      "yêu (cuộc sống, học sinh, thiên nhiên, âm nhạc, bạn bè, người thân)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-772",
+    "hanzi": "热烈",
+    "pinyin": "rè liè",
+    "translations": [
+      "nhiệt liệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-773",
+    "hanzi": "热心",
+    "pinyin": "rè xīn",
+    "translations": [
+      "nhiệt tình (người, người bạn), nhiệt huyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-774",
+    "hanzi": "人才",
+    "pinyin": "rén cái",
+    "translations": [
+      "nhân tài"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-775",
+    "hanzi": "人口",
+    "pinyin": "rén kǒu",
+    "translations": [
+      "dân số"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-776",
+    "hanzi": "人类",
+    "pinyin": "rén lèi",
+    "translations": [
+      "loài người"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-777",
+    "hanzi": "人民币",
+    "pinyin": "rén mín bì",
+    "translations": [
+      "nhân dân tệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-778",
+    "hanzi": "人生",
+    "pinyin": "rén shēng",
+    "translations": [
+      "đời người"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-779",
+    "hanzi": "人事",
+    "pinyin": "rén shì",
+    "translations": [
+      "nhân sự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-780",
+    "hanzi": "人物",
+    "pinyin": "rén wù",
+    "translations": [
+      "nhân vật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-781",
+    "hanzi": "人员",
+    "pinyin": "rén yuán",
+    "translations": [
+      "nhân viên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-782",
+    "hanzi": "忍不住",
+    "pinyin": "rěn bù zhù",
+    "translations": [
+      "không nhịn được"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-783",
+    "hanzi": "日常",
+    "pinyin": "rì cháng",
+    "translations": [
+      "thường ngày"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-784",
+    "hanzi": "日程",
+    "pinyin": "rì chéng",
+    "translations": [
+      "lịch trình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-785",
+    "hanzi": "日历",
+    "pinyin": "rì lì",
+    "translations": [
+      "quyển lịch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-786",
+    "hanzi": "日期",
+    "pinyin": "rì qī",
+    "translations": [
+      "ngày tháng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-787",
+    "hanzi": "日用品",
+    "pinyin": "rì yòng pǐn",
+    "translations": [
+      "đồ dùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-788",
+    "hanzi": "日子",
+    "pinyin": "rì zi",
+    "translations": [
+      "ngày"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-789",
+    "hanzi": "如何",
+    "pinyin": "rú hé",
+    "translations": [
+      "như thế nào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-790",
+    "hanzi": "如今",
+    "pinyin": "rú jīn",
+    "translations": [
+      "hiện nay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-791",
+    "hanzi": "软",
+    "pinyin": "ruǎn",
+    "translations": [
+      "mềm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-792",
+    "hanzi": "软件",
+    "pinyin": "ruǎn jiàn",
+    "translations": [
+      "phần mềm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-793",
+    "hanzi": "弱",
+    "pinyin": "ruò",
+    "translations": [
+      "yếu ớt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-794",
+    "hanzi": "洒",
+    "pinyin": "sǎ",
+    "translations": [
+      "vãi, vung"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-795",
+    "hanzi": "嗓子",
+    "pinyin": "sǎng zi",
+    "translations": [
+      "cổ họng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-796",
+    "hanzi": "色彩",
+    "pinyin": "sè cǎi",
+    "translations": [
+      "màu sắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-797",
+    "hanzi": "杀",
+    "pinyin": "shā",
+    "translations": [
+      "giết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-798",
+    "hanzi": "沙漠",
+    "pinyin": "shā mò",
+    "translations": [
+      "sa mạc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-799",
+    "hanzi": "沙滩",
+    "pinyin": "shā tān",
+    "translations": [
+      "bãi cát"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-800",
+    "hanzi": "傻",
+    "pinyin": "shǎ",
+    "translations": [
+      "ngốc nghếch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-801",
+    "hanzi": "晒",
+    "pinyin": "shài",
+    "translations": [
+      "phơi, tắm nắng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-802",
+    "hanzi": "删除",
+    "pinyin": "shān chú",
+    "translations": [
+      "xóa bỏ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-803",
+    "hanzi": "闪电",
+    "pinyin": "shǎn diàn",
+    "translations": [
+      "chớp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-804",
+    "hanzi": "扇子",
+    "pinyin": "shàn zi",
+    "translations": [
+      "cái quạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-805",
+    "hanzi": "善良",
+    "pinyin": "shàn liáng",
+    "translations": [
+      "lương thiện, hiền lành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-806",
+    "hanzi": "善于",
+    "pinyin": "shàn yú",
+    "translations": [
+      "giỏi về việc gì đó"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-807",
+    "hanzi": "伤害",
+    "pinyin": "shāng hài",
+    "translations": [
+      "làm hại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-808",
+    "hanzi": "商品",
+    "pinyin": "shāng pǐn",
+    "translations": [
+      "sản phẩm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-809",
+    "hanzi": "商务",
+    "pinyin": "shāng wù",
+    "translations": [
+      "thương gia (hạng, khoang),"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-810",
+    "hanzi": "商业",
+    "pinyin": "shāng yè",
+    "translations": [
+      "thương mại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-811",
+    "hanzi": "上当",
+    "pinyin": "shàng dàng",
+    "translations": [
+      "mắc lừa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-812",
+    "hanzi": "蛇",
+    "pinyin": "shé",
+    "translations": [
+      "rắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-813",
+    "hanzi": "舍不得",
+    "pinyin": "shě bù dé",
+    "translations": [
+      "không nỡ lòng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-814",
+    "hanzi": "设备",
+    "pinyin": "shè bèi",
+    "translations": [
+      "thiết bị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-815",
+    "hanzi": "设计",
+    "pinyin": "shè jì",
+    "translations": [
+      "thiết kế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-816",
+    "hanzi": "设施",
+    "pinyin": "shè shī",
+    "translations": [
+      "cơ sở vật chất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-817",
+    "hanzi": "射击",
+    "pinyin": "shè jī",
+    "translations": [
+      "bắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-818",
+    "hanzi": "摄影",
+    "pinyin": "shè yǐng",
+    "translations": [
+      "quay phim, chụp ảnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-819",
+    "hanzi": "伸",
+    "pinyin": "shēn",
+    "translations": [
+      "vươn, duỗi, kéo dài"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-820",
+    "hanzi": "身材",
+    "pinyin": "shēn cái",
+    "translations": [
+      "cơ thể, dáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-821",
+    "hanzi": "身份",
+    "pinyin": "shēn fèn",
+    "translations": [
+      "thân phận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-822",
+    "hanzi": "深刻",
+    "pinyin": "shēn kè",
+    "translations": [
+      "sâu sắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-823",
+    "hanzi": "神话",
+    "pinyin": "shén huà",
+    "translations": [
+      "thần thoại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-824",
+    "hanzi": "神秘",
+    "pinyin": "shén mì",
+    "translations": [
+      "thần bí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-825",
+    "hanzi": "升",
+    "pinyin": "shēng",
+    "translations": [
+      "thăng, lên, lít (đơn vị đo thể tích)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-826",
+    "hanzi": "生产",
+    "pinyin": "shēng chǎn",
+    "translations": [
+      "sản xuất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-827",
+    "hanzi": "生动",
+    "pinyin": "shēng dòng",
+    "translations": [
+      "sinh động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-828",
+    "hanzi": "生长",
+    "pinyin": "shēng zhǎng",
+    "translations": [
+      "sinh trưởng, lớn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-829",
+    "hanzi": "声调",
+    "pinyin": "shēng diào",
+    "translations": [
+      "thanh điệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-830",
+    "hanzi": "绳子",
+    "pinyin": "shéng zi",
+    "translations": [
+      "dây thừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-831",
+    "hanzi": "省略",
+    "pinyin": "shěng lüè",
+    "translations": [
+      "tỉnh lược"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-832",
+    "hanzi": "胜利",
+    "pinyin": "shèng lì",
+    "translations": [
+      "thắng lợi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-833",
+    "hanzi": "失眠",
+    "pinyin": "shī mián",
+    "translations": [
+      "mất ngủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-834",
+    "hanzi": "失去",
+    "pinyin": "shī qù",
+    "translations": [
+      "mất đi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-835",
+    "hanzi": "失业",
+    "pinyin": "shī yè",
+    "translations": [
+      "thất nghiệp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-836",
+    "hanzi": "诗",
+    "pinyin": "shī",
+    "translations": [
+      "thơ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-837",
+    "hanzi": "狮子",
+    "pinyin": "shī zi",
+    "translations": [
+      "sư tử"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-838",
+    "hanzi": "湿润",
+    "pinyin": "shī rùn",
+    "translations": [
+      "ẩm ướt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-839",
+    "hanzi": "石头",
+    "pinyin": "shí tou",
+    "translations": [
+      "hòn đá"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-840",
+    "hanzi": "时差",
+    "pinyin": "shí chā",
+    "translations": [
+      "lệch múi giờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-841",
+    "hanzi": "时代",
+    "pinyin": "shí dài",
+    "translations": [
+      "thời đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-842",
+    "hanzi": "时刻",
+    "pinyin": "shí kè",
+    "translations": [
+      "khoảnh khắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-843",
+    "hanzi": "时髦",
+    "pinyin": "shí máo",
+    "translations": [
+      "mốt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-844",
+    "hanzi": "时期",
+    "pinyin": "shí qī",
+    "translations": [
+      "thời kì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-845",
+    "hanzi": "时尚",
+    "pinyin": "shí shàng",
+    "translations": [
+      "thời thượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-846",
+    "hanzi": "实话",
+    "pinyin": "shí huà",
+    "translations": [
+      "lời nói thật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-847",
+    "hanzi": "实践",
+    "pinyin": "shí jiàn",
+    "translations": [
+      "thực tiễn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-848",
+    "hanzi": "实习",
+    "pinyin": "shí xí",
+    "translations": [
+      "thực tập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-849",
+    "hanzi": "实现",
+    "pinyin": "shí xiàn",
+    "translations": [
+      "thực hiện (kế hoạch, nguyện vọng, ước mơ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-850",
+    "hanzi": "实验",
+    "pinyin": "shí yàn",
+    "translations": [
+      "thí nghiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-851",
+    "hanzi": "实用",
+    "pinyin": "shí yòng",
+    "translations": [
+      "hữu ích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-852",
+    "hanzi": "食物",
+    "pinyin": "shí wù",
+    "translations": [
+      "đồ ăn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-853",
+    "hanzi": "使劲儿",
+    "pinyin": "shǐ jìn ér",
+    "translations": [
+      "ra sức, lấy sức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-854",
+    "hanzi": "始终",
+    "pinyin": "shǐ zhōng",
+    "translations": [
+      "từ đầu đến cuối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-855",
+    "hanzi": "士兵",
+    "pinyin": "shì bīng",
+    "translations": [
+      "binh sĩ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-856",
+    "hanzi": "市场",
+    "pinyin": "shì chǎng",
+    "translations": [
+      "chợ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-857",
+    "hanzi": "似的",
+    "pinyin": "shì de",
+    "translations": [
+      "giống như…."
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-858",
+    "hanzi": "事实",
+    "pinyin": "shì shí",
+    "translations": [
+      "sự thật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-859",
+    "hanzi": "事物",
+    "pinyin": "shì wù",
+    "translations": [
+      "sự vật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-860",
+    "hanzi": "事先",
+    "pinyin": "shì xiān",
+    "translations": [
+      "trước khi việc xảy ra"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-861",
+    "hanzi": "试卷",
+    "pinyin": "shì juàn",
+    "translations": [
+      "bài thi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-862",
+    "hanzi": "收获",
+    "pinyin": "shōu huò",
+    "translations": [
+      "thu hoạch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-863",
+    "hanzi": "收据",
+    "pinyin": "shōu jù",
+    "translations": [
+      "giấy biên nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-864",
+    "hanzi": "手工",
+    "pinyin": "shǒu gōng",
+    "translations": [
+      "thủ công"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-865",
+    "hanzi": "手术",
+    "pinyin": "shǒu shù",
+    "translations": [
+      "phẫu thuật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-866",
+    "hanzi": "手套",
+    "pinyin": "shǒu tào",
+    "translations": [
+      "găng tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-867",
+    "hanzi": "手续",
+    "pinyin": "shǒu xù",
+    "translations": [
+      "thủ tục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-868",
+    "hanzi": "手指",
+    "pinyin": "shǒu zhǐ",
+    "translations": [
+      "ngón tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-869",
+    "hanzi": "首",
+    "pinyin": "shǒu",
+    "translations": [
+      "đầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-870",
+    "hanzi": "寿命",
+    "pinyin": "shòu mìng",
+    "translations": [
+      "tuổi thọ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-871",
+    "hanzi": "受伤",
+    "pinyin": "shòu shāng",
+    "translations": [
+      "bị thương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-872",
+    "hanzi": "书架",
+    "pinyin": "shū jià",
+    "translations": [
+      "giá sách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-873",
+    "hanzi": "梳子",
+    "pinyin": "shū zi",
+    "translations": [
+      "cái lược"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-874",
+    "hanzi": "舒适",
+    "pinyin": "shū shì",
+    "translations": [
+      "thoải mái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-875",
+    "hanzi": "输入",
+    "pinyin": "shū rù",
+    "translations": [
+      "nhập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-876",
+    "hanzi": "蔬菜",
+    "pinyin": "shū cài",
+    "translations": [
+      "rau xanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-877",
+    "hanzi": "熟练",
+    "pinyin": "shú liàn",
+    "translations": [
+      "thành thục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-878",
+    "hanzi": "属于",
+    "pinyin": "shǔ yú",
+    "translations": [
+      "thuộc về"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-879",
+    "hanzi": "鼠标",
+    "pinyin": "shǔ biāo",
+    "translations": [
+      "chuột máy tính"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-880",
+    "hanzi": "数",
+    "pinyin": "shǔ",
+    "translations": [
+      "đếm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-881",
+    "hanzi": "数据",
+    "pinyin": "shù jù",
+    "translations": [
+      "số liệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-882",
+    "hanzi": "数码",
+    "pinyin": "shù mǎ",
+    "translations": [
+      "kỹ thuật số"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-883",
+    "hanzi": "摔倒",
+    "pinyin": "shuāi dǎo",
+    "translations": [
+      "ngã nhào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-884",
+    "hanzi": "甩",
+    "pinyin": "shuǎi",
+    "translations": [
+      "vung, hất, bỏ lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-885",
+    "hanzi": "双方",
+    "pinyin": "shuāng fāng",
+    "translations": [
+      "hai bên, song phương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-886",
+    "hanzi": "税",
+    "pinyin": "shuì",
+    "translations": [
+      "thuế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-887",
+    "hanzi": "说不定",
+    "pinyin": "shuō bù dìng",
+    "translations": [
+      "chưa biết chừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-888",
+    "hanzi": "说服",
+    "pinyin": "shuō fú",
+    "translations": [
+      "thuyết phục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-889",
+    "hanzi": "丝绸",
+    "pinyin": "sī chóu",
+    "translations": [
+      "tơ lụa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-890",
+    "hanzi": "丝毫",
+    "pinyin": "sī háo",
+    "translations": [
+      "một chút (dùng dạng phủ định)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-891",
+    "hanzi": "私人",
+    "pinyin": "sī rén",
+    "translations": [
+      "tư nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-892",
+    "hanzi": "思考",
+    "pinyin": "sī kǎo",
+    "translations": [
+      "suy nghĩ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-893",
+    "hanzi": "思想",
+    "pinyin": "sī xiǎng",
+    "translations": [
+      "tư tưởng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-894",
+    "hanzi": "撕",
+    "pinyin": "sī",
+    "translations": [
+      "xé"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-895",
+    "hanzi": "似乎",
+    "pinyin": "sì hū",
+    "translations": [
+      "dường như"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-896",
+    "hanzi": "搜索",
+    "pinyin": "sōu suǒ",
+    "translations": [
+      "tìm kiếm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-897",
+    "hanzi": "宿舍",
+    "pinyin": "sù shè",
+    "translations": [
+      "ký túc xá"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-898",
+    "hanzi": "随身",
+    "pinyin": "suí shēn",
+    "translations": [
+      "mang theo người"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-899",
+    "hanzi": "随时",
+    "pinyin": "suí shí",
+    "translations": [
+      "bất cứ lúc nào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-900",
+    "hanzi": "随手",
+    "pinyin": "suí shǒu",
+    "translations": [
+      "tiện tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-901",
+    "hanzi": "碎",
+    "pinyin": "suì",
+    "translations": [
+      "vỡ vụn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-902",
+    "hanzi": "损失",
+    "pinyin": "sǔn shī",
+    "translations": [
+      "tổn thất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-903",
+    "hanzi": "缩短",
+    "pinyin": "suō duǎn",
+    "translations": [
+      "thu hẹp (khoảng cách), rút ngắn (thời gian), cắt ngắn (câu chuyện)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-904",
+    "hanzi": "所",
+    "pinyin": "suǒ",
+    "translations": [
+      "trợ từ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-905",
+    "hanzi": "锁",
+    "pinyin": "suǒ",
+    "translations": [
+      "khóa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-906",
+    "hanzi": "台阶",
+    "pinyin": "tái jiē",
+    "translations": [
+      "bậc thềm, bậc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-907",
+    "hanzi": "太极拳",
+    "pinyin": "tài jí quán",
+    "translations": [
+      "thái cực quyền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-908",
+    "hanzi": "太太",
+    "pinyin": "tài tai",
+    "translations": [
+      "vợ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-909",
+    "hanzi": "谈判",
+    "pinyin": "tán pàn",
+    "translations": [
+      "đàm phán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-910",
+    "hanzi": "坦率",
+    "pinyin": "tǎn shuài",
+    "translations": [
+      "thẳng thắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-911",
+    "hanzi": "烫",
+    "pinyin": "tàng",
+    "translations": [
+      "bỏng, là, ủi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-912",
+    "hanzi": "逃",
+    "pinyin": "táo",
+    "translations": [
+      "chạy trốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-913",
+    "hanzi": "逃避",
+    "pinyin": "táo bì",
+    "translations": [
+      "trốn tránh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-914",
+    "hanzi": "桃",
+    "pinyin": "táo",
+    "translations": [
+      "đào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-915",
+    "hanzi": "淘气",
+    "pinyin": "táo qì",
+    "translations": [
+      "tinh nghịch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-916",
+    "hanzi": "讨价还价",
+    "pinyin": "tǎo jià huán jià",
+    "translations": [
+      "mặc cả"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-917",
+    "hanzi": "套",
+    "pinyin": "tào",
+    "translations": [
+      "bộ (quần áo), căn (nhà)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-918",
+    "hanzi": "特色",
+    "pinyin": "tè sè",
+    "translations": [
+      "đặc sắc, đặc điểm đặc sắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-919",
+    "hanzi": "特殊",
+    "pinyin": "tè shū",
+    "translations": [
+      "đặc biệt, đặc thù (quan hệ, nghi lễ, yêu cầu, đãi ngộ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-920",
+    "hanzi": "特征",
+    "pinyin": "tè zhēng",
+    "translations": [
+      "đặc trưng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-921",
+    "hanzi": "疼爱",
+    "pinyin": "téng ài",
+    "translations": [
+      "chiều chuộng, yêu chiều"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-922",
+    "hanzi": "提倡",
+    "pinyin": "tí chàng",
+    "translations": [
+      "đề xướng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-923",
+    "hanzi": "提纲",
+    "pinyin": "tí gāng",
+    "translations": [
+      "đề cương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-924",
+    "hanzi": "提问",
+    "pinyin": "tí wèn",
+    "translations": [
+      "hỏi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-925",
+    "hanzi": "题目",
+    "pinyin": "tí mù",
+    "translations": [
+      "đề mục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-926",
+    "hanzi": "体会",
+    "pinyin": "tǐ huì",
+    "translations": [
+      "cảm nhận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-927",
+    "hanzi": "体贴",
+    "pinyin": "tǐ tiē",
+    "translations": [
+      "sống tình cảm, chu đáo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-928",
+    "hanzi": "体现",
+    "pinyin": "tǐ xiàn",
+    "translations": [
+      "thể hiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-929",
+    "hanzi": "体验",
+    "pinyin": "tǐ yàn",
+    "translations": [
+      "trải nghiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-930",
+    "hanzi": "天空",
+    "pinyin": "tiān kōng",
+    "translations": [
+      "bầu trời"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-931",
+    "hanzi": "天真",
+    "pinyin": "tiān zhēn",
+    "translations": [
+      "hồn nhiên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-932",
+    "hanzi": "调皮",
+    "pinyin": "tiáo pí",
+    "translations": [
+      "nghịch ngợm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-933",
+    "hanzi": "调整",
+    "pinyin": "tiáo zhěng",
+    "translations": [
+      "điều chỉnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-934",
+    "hanzi": "挑战",
+    "pinyin": "tiǎo zhàn",
+    "translations": [
+      "thách thức, thử thách, thách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-935",
+    "hanzi": "通常",
+    "pinyin": "tōng cháng",
+    "translations": [
+      "thông thường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-936",
+    "hanzi": "统一",
+    "pinyin": "tǒng yī",
+    "translations": [
+      "thống nhất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-937",
+    "hanzi": "痛苦",
+    "pinyin": "tòng kǔ",
+    "translations": [
+      "đau khổ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-938",
+    "hanzi": "痛快",
+    "pinyin": "tòng kuài",
+    "translations": [
+      "sung sướng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-939",
+    "hanzi": "偷",
+    "pinyin": "tōu",
+    "translations": [
+      "ăn trộm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-940",
+    "hanzi": "投入",
+    "pinyin": "tóu rù",
+    "translations": [
+      "đút vào, đầu tư vào,"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-941",
+    "hanzi": "投资",
+    "pinyin": "tóu zī",
+    "translations": [
+      "đầu tư"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-942",
+    "hanzi": "透明",
+    "pinyin": "tòu míng",
+    "translations": [
+      "trong suốt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-943",
+    "hanzi": "突出",
+    "pinyin": "tū chū",
+    "translations": [
+      "làm nổi bật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-944",
+    "hanzi": "土地",
+    "pinyin": "tǔ dì",
+    "translations": [
+      "đất đai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-945",
+    "hanzi": "土豆",
+    "pinyin": "tǔ dòu",
+    "translations": [
+      "khoai tây"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-946",
+    "hanzi": "吐",
+    "pinyin": "tǔ/tù",
+    "translations": [
+      "nhổ, nôn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-947",
+    "hanzi": "兔子",
+    "pinyin": "tù zi",
+    "translations": [
+      "con thỏ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-948",
+    "hanzi": "团",
+    "pinyin": "tuán",
+    "translations": [
+      "cuộn (danh từ)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-949",
+    "hanzi": "推辞",
+    "pinyin": "tuī cí",
+    "translations": [
+      "từ chối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-950",
+    "hanzi": "推广",
+    "pinyin": "tuī guǎng",
+    "translations": [
+      "quảng bá"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-951",
+    "hanzi": "推荐",
+    "pinyin": "tuī jiàn",
+    "translations": [
+      "tiến cử"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-952",
+    "hanzi": "退",
+    "pinyin": "tuì",
+    "translations": [
+      "lùi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-953",
+    "hanzi": "退步",
+    "pinyin": "tuì bù",
+    "translations": [
+      "lùi bước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-954",
+    "hanzi": "退休",
+    "pinyin": "tuì xiū",
+    "translations": [
+      "nghỉ hưu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-955",
+    "hanzi": "歪",
+    "pinyin": "wāi",
+    "translations": [
+      "xiên (nghiêng)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-956",
+    "hanzi": "外公",
+    "pinyin": "wài gōng",
+    "translations": [
+      "ông ngoại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-957",
+    "hanzi": "外交",
+    "pinyin": "wài jiāo",
+    "translations": [
+      "ngoại giao"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-958",
+    "hanzi": "完美",
+    "pinyin": "wán měi",
+    "translations": [
+      "hoàn hảo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-959",
+    "hanzi": "完善",
+    "pinyin": "wán shàn",
+    "translations": [
+      "hoàn thiện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-960",
+    "hanzi": "完整",
+    "pinyin": "wán zhěng",
+    "translations": [
+      "hoàn chỉnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-961",
+    "hanzi": "玩具",
+    "pinyin": "wán jù",
+    "translations": [
+      "đồ chơi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-962",
+    "hanzi": "万一",
+    "pinyin": "wàn yī",
+    "translations": [
+      "vạn nhất, nhỡ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-963",
+    "hanzi": "王子",
+    "pinyin": "wáng zǐ",
+    "translations": [
+      "vua"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-964",
+    "hanzi": "网络",
+    "pinyin": "wǎng luò",
+    "translations": [
+      "mạng internet"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-965",
+    "hanzi": "往返",
+    "pinyin": "wǎng fǎn",
+    "translations": [
+      "khứ hồi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-966",
+    "hanzi": "危害",
+    "pinyin": "wēi hài",
+    "translations": [
+      "nguy hại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-967",
+    "hanzi": "威胁",
+    "pinyin": "wēi xié",
+    "translations": [
+      "uy hiếp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-968",
+    "hanzi": "微笑",
+    "pinyin": "wēi xiào",
+    "translations": [
+      "mỉm cười"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-969",
+    "hanzi": "违反",
+    "pinyin": "wéi fǎn",
+    "translations": [
+      "vi phạm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-970",
+    "hanzi": "围巾",
+    "pinyin": "wéi jīn",
+    "translations": [
+      "khăn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-971",
+    "hanzi": "围绕",
+    "pinyin": "wéi rào",
+    "translations": [
+      "xoay quanh, bao quanh, quay quanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-972",
+    "hanzi": "唯一",
+    "pinyin": "wéi yī",
+    "translations": [
+      "duy nhất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-973",
+    "hanzi": "维修",
+    "pinyin": "wéi xiū",
+    "translations": [
+      "sửa chữa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-974",
+    "hanzi": "伟大",
+    "pinyin": "wěi dà",
+    "translations": [
+      "vĩ đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-975",
+    "hanzi": "尾巴",
+    "pinyin": "wěi bā",
+    "translations": [
+      "cái đuôi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-976",
+    "hanzi": "委屈",
+    "pinyin": "wěi qu",
+    "translations": [
+      "tủi thân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-977",
+    "hanzi": "未必",
+    "pinyin": "wèi bì",
+    "translations": [
+      "chưa chắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-978",
+    "hanzi": "未来",
+    "pinyin": "wèi lái",
+    "translations": [
+      "tương lai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-979",
+    "hanzi": "位于",
+    "pinyin": "wèi yú",
+    "translations": [
+      "nằm ở (vị trí địa lý)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-980",
+    "hanzi": "位置",
+    "pinyin": "wèi zhì",
+    "translations": [
+      "vị trí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-981",
+    "hanzi": "胃",
+    "pinyin": "wèi",
+    "translations": [
+      "dạ dày"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-982",
+    "hanzi": "胃口",
+    "pinyin": "wèi kǒu",
+    "translations": [
+      "khẩu vị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-983",
+    "hanzi": "温暖",
+    "pinyin": "wēn nuǎn",
+    "translations": [
+      "ấm áp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-984",
+    "hanzi": "温柔",
+    "pinyin": "wēn róu",
+    "translations": [
+      "hiền dịu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-985",
+    "hanzi": "文件",
+    "pinyin": "wén jiàn",
+    "translations": [
+      "tài liệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-986",
+    "hanzi": "文具",
+    "pinyin": "wén jù",
+    "translations": [
+      "đồ dùng học tập"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-987",
+    "hanzi": "文明",
+    "pinyin": "wén míng",
+    "translations": [
+      "văn minh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-988",
+    "hanzi": "文学",
+    "pinyin": "wén xué",
+    "translations": [
+      "văn học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-989",
+    "hanzi": "文字",
+    "pinyin": "wén zì",
+    "translations": [
+      "văn tự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-990",
+    "hanzi": "闻",
+    "pinyin": "wén",
+    "translations": [
+      "ngửi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-991",
+    "hanzi": "吻",
+    "pinyin": "wěn",
+    "translations": [
+      "hôn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-992",
+    "hanzi": "稳定",
+    "pinyin": "wěn dìng",
+    "translations": [
+      "ổn định"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-993",
+    "hanzi": "问候",
+    "pinyin": "wèn hòu",
+    "translations": [
+      "hỏi thăm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-994",
+    "hanzi": "卧室",
+    "pinyin": "wò shì",
+    "translations": [
+      "phòng ngủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-995",
+    "hanzi": "握手",
+    "pinyin": "wò shǒu",
+    "translations": [
+      "bắt tay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-996",
+    "hanzi": "屋子",
+    "pinyin": "wū zi",
+    "translations": [
+      "căn nhà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-997",
+    "hanzi": "无奈",
+    "pinyin": "wú nài",
+    "translations": [
+      "bó tay, không có cách nào, bất lực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-998",
+    "hanzi": "无数",
+    "pinyin": "wú shù",
+    "translations": [
+      "vô số"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-999",
+    "hanzi": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "translations": [
+      "không quan tâm, không để ý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1000",
+    "hanzi": "武术",
+    "pinyin": "wǔ shù",
+    "translations": [
+      "võ thuật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1001",
+    "hanzi": "勿",
+    "pinyin": "wù",
+    "translations": [
+      "đừng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1002",
+    "hanzi": "物理",
+    "pinyin": "wù lǐ",
+    "translations": [
+      "vật lý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1003",
+    "hanzi": "物质",
+    "pinyin": "wù zhì",
+    "translations": [
+      "vật chất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1004",
+    "hanzi": "雾",
+    "pinyin": "wù",
+    "translations": [
+      "sương mù"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1005",
+    "hanzi": "吸取",
+    "pinyin": "xī qǔ",
+    "translations": [
+      "hút, rút ra (bài học kinh nghiệm)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1006",
+    "hanzi": "吸收",
+    "pinyin": "xī shōu",
+    "translations": [
+      "thẩm thấu, ngấm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1007",
+    "hanzi": "戏剧",
+    "pinyin": "xì jù",
+    "translations": [
+      "kịch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1008",
+    "hanzi": "系",
+    "pinyin": "xì",
+    "translations": [
+      "thắt, buộc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1009",
+    "hanzi": "系统",
+    "pinyin": "xì tǒng",
+    "translations": [
+      "hệ thống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1010",
+    "hanzi": "细节",
+    "pinyin": "xì jié",
+    "translations": [
+      "tình tiết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1011",
+    "hanzi": "瞎",
+    "pinyin": "xiā",
+    "translations": [
+      "mù"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1012",
+    "hanzi": "下载",
+    "pinyin": "xià zǎi",
+    "translations": [
+      "tải"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1013",
+    "hanzi": "吓",
+    "pinyin": "xià",
+    "translations": [
+      "dọa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1014",
+    "hanzi": "夏令营",
+    "pinyin": "xià lìng yíng",
+    "translations": [
+      "trại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1015",
+    "hanzi": "鲜艳",
+    "pinyin": "xiān yàn",
+    "translations": [
+      "tươi tắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1016",
+    "hanzi": "显得",
+    "pinyin": "xiǎn dé",
+    "translations": [
+      "lộ rõ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1017",
+    "hanzi": "显然",
+    "pinyin": "xiǎn rán",
+    "translations": [
+      "hiển nhiên, rõ ràng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1018",
+    "hanzi": "显示",
+    "pinyin": "xiǎn shì",
+    "translations": [
+      "hiển thị, cho thấy, tôn lên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1019",
+    "hanzi": "县",
+    "pinyin": "xiàn",
+    "translations": [
+      "huyện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1020",
+    "hanzi": "现代",
+    "pinyin": "xiàn dài",
+    "translations": [
+      "hiện đại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1021",
+    "hanzi": "现实",
+    "pinyin": "xiàn shí",
+    "translations": [
+      "hiện thực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1022",
+    "hanzi": "现象",
+    "pinyin": "xiàn xiàng",
+    "translations": [
+      "hiện tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1023",
+    "hanzi": "限制",
+    "pinyin": "xiàn zhì",
+    "translations": [
+      "hạn chế, giới hạn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1024",
+    "hanzi": "相处",
+    "pinyin": "xiāng chǔ",
+    "translations": [
+      "ở cùng nhau, tiếp xúc nhiều"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1025",
+    "hanzi": "相当",
+    "pinyin": "xiāng dāng",
+    "translations": [
+      "tương đối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1026",
+    "hanzi": "相对",
+    "pinyin": "xiāng duì",
+    "translations": [
+      "tương đối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1027",
+    "hanzi": "相关",
+    "pinyin": "xiāng guān",
+    "translations": [
+      "liên quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1028",
+    "hanzi": "相似",
+    "pinyin": "xiāng sì",
+    "translations": [
+      "giống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1029",
+    "hanzi": "香肠",
+    "pinyin": "xiāng cháng",
+    "translations": [
+      "xúc xích"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1030",
+    "hanzi": "享受",
+    "pinyin": "xiǎng shòu",
+    "translations": [
+      "hưởng thụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1031",
+    "hanzi": "想念",
+    "pinyin": "xiǎng niàn",
+    "translations": [
+      "nhớ nhung"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1032",
+    "hanzi": "想象",
+    "pinyin": "xiǎng xiàng",
+    "translations": [
+      "tưởng tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1033",
+    "hanzi": "项",
+    "pinyin": "xiàng",
+    "translations": [
+      "hạng, môn (thể thao)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1034",
+    "hanzi": "项链",
+    "pinyin": "xiàng liàn",
+    "translations": [
+      "dây chuyền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1035",
+    "hanzi": "项目",
+    "pinyin": "xiàng mù",
+    "translations": [
+      "hạng mục"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1036",
+    "hanzi": "象棋",
+    "pinyin": "xiàng qí",
+    "translations": [
+      "cờ tướng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1037",
+    "hanzi": "象征",
+    "pinyin": "xiàng zhēng",
+    "translations": [
+      "tượng trưng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1038",
+    "hanzi": "消费",
+    "pinyin": "xiāo fèi",
+    "translations": [
+      "tiêu dùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1039",
+    "hanzi": "消化",
+    "pinyin": "xiāo huà",
+    "translations": [
+      "tiêu hóa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1040",
+    "hanzi": "消极",
+    "pinyin": "xiāo jí",
+    "translations": [
+      "tiêu cực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1041",
+    "hanzi": "消失",
+    "pinyin": "xiāo shī",
+    "translations": [
+      "biến mất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1042",
+    "hanzi": "销售",
+    "pinyin": "xiāo shòu",
+    "translations": [
+      "bán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1043",
+    "hanzi": "小麦",
+    "pinyin": "xiǎo mài",
+    "translations": [
+      "lúa mạch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1044",
+    "hanzi": "小气",
+    "pinyin": "xiǎo qì",
+    "translations": [
+      "keo kiệt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1045",
+    "hanzi": "孝顺",
+    "pinyin": "xiào shùn",
+    "translations": [
+      "hiếu thảo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1046",
+    "hanzi": "效率",
+    "pinyin": "xiào lǜ",
+    "translations": [
+      "hiệu suất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1047",
+    "hanzi": "歇",
+    "pinyin": "xiē",
+    "translations": [
+      "nghỉ ngơi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1048",
+    "hanzi": "斜",
+    "pinyin": "xié",
+    "translations": [
+      "nghiêng, chéo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1049",
+    "hanzi": "写作",
+    "pinyin": "xiě zuò",
+    "translations": [
+      "viết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1050",
+    "hanzi": "血",
+    "pinyin": "xiě",
+    "translations": [
+      "máu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1051",
+    "hanzi": "心理",
+    "pinyin": "xīn lǐ",
+    "translations": [
+      "tâm lý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1052",
+    "hanzi": "心脏",
+    "pinyin": "xīn zàng",
+    "translations": [
+      "tim"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1053",
+    "hanzi": "欣赏",
+    "pinyin": "xīn shǎng",
+    "translations": [
+      "thưởng thức, đánh giá cao"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1054",
+    "hanzi": "信号",
+    "pinyin": "xìn hào",
+    "translations": [
+      "tín hiệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1055",
+    "hanzi": "信任",
+    "pinyin": "xìn rèn",
+    "translations": [
+      "tín nhiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1056",
+    "hanzi": "行动",
+    "pinyin": "xíng dòng",
+    "translations": [
+      "hành động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1057",
+    "hanzi": "行人",
+    "pinyin": "xíng rén",
+    "translations": [
+      "người đi đường"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1058",
+    "hanzi": "行为",
+    "pinyin": "xíng wéi",
+    "translations": [
+      "hành vi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1059",
+    "hanzi": "形成",
+    "pinyin": "xíng chéng",
+    "translations": [
+      "hình thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1060",
+    "hanzi": "形容",
+    "pinyin": "xíng róng",
+    "translations": [
+      "hình dung"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1061",
+    "hanzi": "形式",
+    "pinyin": "xíng shì",
+    "translations": [
+      "hình thức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1062",
+    "hanzi": "形势",
+    "pinyin": "xíng shì",
+    "translations": [
+      "tình hình"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1063",
+    "hanzi": "形象",
+    "pinyin": "xíng xiàng",
+    "translations": [
+      "hình tượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1064",
+    "hanzi": "形状",
+    "pinyin": "xíng zhuàng",
+    "translations": [
+      "hình dáng, dáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1065",
+    "hanzi": "幸亏",
+    "pinyin": "xìng kuī",
+    "translations": [
+      "may mà"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1066",
+    "hanzi": "幸运",
+    "pinyin": "xìng yùn",
+    "translations": [
+      "may mắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1067",
+    "hanzi": "性质",
+    "pinyin": "xìng zhì",
+    "translations": [
+      "tính chất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1068",
+    "hanzi": "兄弟",
+    "pinyin": "xiōng dì",
+    "translations": [
+      "huynh đệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1069",
+    "hanzi": "胸",
+    "pinyin": "xiōng",
+    "translations": [
+      "ngực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1070",
+    "hanzi": "休闲",
+    "pinyin": "xiū xián",
+    "translations": [
+      "nhàn hạ, thoải mái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1071",
+    "hanzi": "修改",
+    "pinyin": "xiū gǎi",
+    "translations": [
+      "sửa lỗi (văn bản)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1072",
+    "hanzi": "虚心",
+    "pinyin": "xū xīn",
+    "translations": [
+      "khiêm tốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1073",
+    "hanzi": "叙述",
+    "pinyin": "xù shù",
+    "translations": [
+      "kể, thuật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1074",
+    "hanzi": "宣布",
+    "pinyin": "xuān bù",
+    "translations": [
+      "tuyên bố"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1075",
+    "hanzi": "宣传",
+    "pinyin": "xuān chuán",
+    "translations": [
+      "tuyên truyền"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1076",
+    "hanzi": "学历",
+    "pinyin": "xué lì",
+    "translations": [
+      "trình độ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1077",
+    "hanzi": "学术",
+    "pinyin": "xué shù",
+    "translations": [
+      "học thuật"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1078",
+    "hanzi": "学问",
+    "pinyin": "xué wèn",
+    "translations": [
+      "học vấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1079",
+    "hanzi": "寻找",
+    "pinyin": "xún zhǎo",
+    "translations": [
+      "tìm kiếm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1080",
+    "hanzi": "询问",
+    "pinyin": "xún wèn",
+    "translations": [
+      "hỏi han"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1081",
+    "hanzi": "训练",
+    "pinyin": "xùn liàn",
+    "translations": [
+      "huấn luyện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1082",
+    "hanzi": "迅速",
+    "pinyin": "xùn sù",
+    "translations": [
+      "nhanh chóng, nhanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1083",
+    "hanzi": "押金",
+    "pinyin": "yā jīn",
+    "translations": [
+      "tiền cọc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1084",
+    "hanzi": "牙齿",
+    "pinyin": "yá chǐ",
+    "translations": [
+      "răng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1085",
+    "hanzi": "延长",
+    "pinyin": "yán cháng",
+    "translations": [
+      "kéo dài (thời gian)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1086",
+    "hanzi": "严肃",
+    "pinyin": "yán sù",
+    "translations": [
+      "nghiêm túc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1087",
+    "hanzi": "演讲",
+    "pinyin": "yǎn jiǎng",
+    "translations": [
+      "diễn thuyết"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1088",
+    "hanzi": "宴会",
+    "pinyin": "yàn huì",
+    "translations": [
+      "yến tiệc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1089",
+    "hanzi": "阳台",
+    "pinyin": "yáng tái",
+    "translations": [
+      "ban công"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1090",
+    "hanzi": "痒",
+    "pinyin": "yǎng",
+    "translations": [
+      "ngứa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1091",
+    "hanzi": "样式",
+    "pinyin": "yàng shì",
+    "translations": [
+      "kiểu dáng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1092",
+    "hanzi": "腰",
+    "pinyin": "yāo",
+    "translations": [
+      "lưng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1093",
+    "hanzi": "摇",
+    "pinyin": "yáo",
+    "translations": [
+      "lắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1094",
+    "hanzi": "咬",
+    "pinyin": "yǎo",
+    "translations": [
+      "cắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1095",
+    "hanzi": "要不",
+    "pinyin": "yào bù",
+    "translations": [
+      "nếu không thì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1096",
+    "hanzi": "业务",
+    "pinyin": "yè wù",
+    "translations": [
+      "nghiệp vụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1097",
+    "hanzi": "业余",
+    "pinyin": "yè yú",
+    "translations": [
+      "nghiệp dư"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1098",
+    "hanzi": "夜",
+    "pinyin": "yè",
+    "translations": [
+      "đêm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1099",
+    "hanzi": "一辈子",
+    "pinyin": "yí bèi zi",
+    "translations": [
+      "một đời người"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1100",
+    "hanzi": "一旦",
+    "pinyin": "yí dàn",
+    "translations": [
+      "một khi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1101",
+    "hanzi": "一律",
+    "pinyin": "yí lǜ",
+    "translations": [
+      "nhất loạt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1102",
+    "hanzi": "一再",
+    "pinyin": "yí zài",
+    "translations": [
+      "nhiều lần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1103",
+    "hanzi": "一致",
+    "pinyin": "yí zhì",
+    "translations": [
+      "thống nhất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1104",
+    "hanzi": "依然",
+    "pinyin": "yī rán",
+    "translations": [
+      "vẫn như xưa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1105",
+    "hanzi": "移动",
+    "pinyin": "yí dòng",
+    "translations": [
+      "di động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1106",
+    "hanzi": "移民",
+    "pinyin": "yí mín",
+    "translations": [
+      "di dân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1107",
+    "hanzi": "遗憾",
+    "pinyin": "yí hàn",
+    "translations": [
+      "hối tiếc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1108",
+    "hanzi": "疑问",
+    "pinyin": "yí wèn",
+    "translations": [
+      "nghi vấn, nghi ngờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1109",
+    "hanzi": "乙",
+    "pinyin": "yǐ",
+    "translations": [
+      "ất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1110",
+    "hanzi": "以及",
+    "pinyin": "yǐ jí",
+    "translations": [
+      "và"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1111",
+    "hanzi": "以来",
+    "pinyin": "yǐ lái",
+    "translations": [
+      "trở lại đây (thời gian)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1112",
+    "hanzi": "亿",
+    "pinyin": "yì",
+    "translations": [
+      "trăm triệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1113",
+    "hanzi": "义务",
+    "pinyin": "yì wù",
+    "translations": [
+      "nghĩa vụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1114",
+    "hanzi": "议论",
+    "pinyin": "yì lùn",
+    "translations": [
+      "nghị luận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1115",
+    "hanzi": "意外",
+    "pinyin": "yì wài",
+    "translations": [
+      "ngoài ý muốn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1116",
+    "hanzi": "意义",
+    "pinyin": "yì yì",
+    "translations": [
+      "ý nghĩa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1117",
+    "hanzi": "因而",
+    "pinyin": "yīn ér",
+    "translations": [
+      "cho nên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1118",
+    "hanzi": "因素",
+    "pinyin": "yīn sù",
+    "translations": [
+      "nhân tố"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1119",
+    "hanzi": "银",
+    "pinyin": "yín",
+    "translations": [
+      "bạc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1120",
+    "hanzi": "印刷",
+    "pinyin": "yìn shuā",
+    "translations": [
+      "in ấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1121",
+    "hanzi": "英俊",
+    "pinyin": "yīng jùn",
+    "translations": [
+      "tuấn tú"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1122",
+    "hanzi": "英雄",
+    "pinyin": "yīng xióng",
+    "translations": [
+      "anh hùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1123",
+    "hanzi": "迎接",
+    "pinyin": "yíng jiē",
+    "translations": [
+      "nghênh đón"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1124",
+    "hanzi": "营养",
+    "pinyin": "yíng yǎng",
+    "translations": [
+      "dinh dưỡng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1125",
+    "hanzi": "营业",
+    "pinyin": "yíng yè",
+    "translations": [
+      "kinh doanh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1126",
+    "hanzi": "影子",
+    "pinyin": "yǐng zi",
+    "translations": [
+      "cái bóng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1127",
+    "hanzi": "应付",
+    "pinyin": "yìng fù",
+    "translations": [
+      "ứng phó"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1128",
+    "hanzi": "应用",
+    "pinyin": "yìng yòng",
+    "translations": [
+      "ứng dụng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1129",
+    "hanzi": "硬",
+    "pinyin": "yìng",
+    "translations": [
+      "cứng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1130",
+    "hanzi": "硬件",
+    "pinyin": "yìng jiàn",
+    "translations": [
+      "phần cứng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1131",
+    "hanzi": "拥抱",
+    "pinyin": "yōng bào",
+    "translations": [
+      "ôm, ôm ấp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1132",
+    "hanzi": "拥挤",
+    "pinyin": "yōng jǐ",
+    "translations": [
+      "chen chúc, đông đúc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1133",
+    "hanzi": "勇气",
+    "pinyin": "yǒng qì",
+    "translations": [
+      "dũng khí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1134",
+    "hanzi": "用功",
+    "pinyin": "yòng gōng",
+    "translations": [
+      "dụng công, công phu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1135",
+    "hanzi": "用途",
+    "pinyin": "yòng tú",
+    "translations": [
+      "cách dùng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1136",
+    "hanzi": "优惠",
+    "pinyin": "yōu huì",
+    "translations": [
+      "ưu đãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1137",
+    "hanzi": "优美",
+    "pinyin": "yōu měi",
+    "translations": [
+      "trang nhã, thanh lịch, thanh nhã, đẹp, xinh xắn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1138",
+    "hanzi": "优势",
+    "pinyin": "yōu shì",
+    "translations": [
+      "ưu thế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1139",
+    "hanzi": "悠久",
+    "pinyin": "yōu jiǔ",
+    "translations": [
+      "lâu đời"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1140",
+    "hanzi": "犹豫",
+    "pinyin": "yóu yù",
+    "translations": [
+      "do dự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1141",
+    "hanzi": "油炸",
+    "pinyin": "yóu zhá",
+    "translations": [
+      "chiên giòn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1142",
+    "hanzi": "游览",
+    "pinyin": "yóu lǎn",
+    "translations": [
+      "du ngoạn, thưởng ngoạn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1143",
+    "hanzi": "有利",
+    "pinyin": "yǒu lì",
+    "translations": [
+      "có lợi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1144",
+    "hanzi": "幼儿园",
+    "pinyin": "yòu ér yuán",
+    "translations": [
+      "nhà trẻ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1145",
+    "hanzi": "娱乐",
+    "pinyin": "yú lè",
+    "translations": [
+      "giải trí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1146",
+    "hanzi": "与其",
+    "pinyin": "yǔ qí",
+    "translations": [
+      "thay vì"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1147",
+    "hanzi": "语气",
+    "pinyin": "yǔ qì",
+    "translations": [
+      "ngữ khí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1148",
+    "hanzi": "玉米",
+    "pinyin": "yù mǐ",
+    "translations": [
+      "ngô"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1149",
+    "hanzi": "预报",
+    "pinyin": "yù bào",
+    "translations": [
+      "dự báo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1150",
+    "hanzi": "预订",
+    "pinyin": "yù dìng",
+    "translations": [
+      "đặt trước, dự định trước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1151",
+    "hanzi": "预防",
+    "pinyin": "yù fáng",
+    "translations": [
+      "phòng, phòng chống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1152",
+    "hanzi": "元旦",
+    "pinyin": "yuán dàn",
+    "translations": [
+      "nguyên đán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1153",
+    "hanzi": "员工",
+    "pinyin": "yuán gōng",
+    "translations": [
+      "nhân công"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1154",
+    "hanzi": "原料",
+    "pinyin": "yuán liào",
+    "translations": [
+      "nguyên liệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1155",
+    "hanzi": "原则",
+    "pinyin": "yuán zé",
+    "translations": [
+      "nguyên tắc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1156",
+    "hanzi": "圆",
+    "pinyin": "yuán",
+    "translations": [
+      "hình tròn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1157",
+    "hanzi": "愿望",
+    "pinyin": "yuàn wàng",
+    "translations": [
+      "nguyện vọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1158",
+    "hanzi": "乐器",
+    "pinyin": "yuè qì",
+    "translations": [
+      "nhạc cụ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1159",
+    "hanzi": "晕",
+    "pinyin": "yūn",
+    "translations": [
+      "say (xe)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1160",
+    "hanzi": "运气",
+    "pinyin": "yùn qì",
+    "translations": [
+      "vận may"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1161",
+    "hanzi": "运输",
+    "pinyin": "yùn shū",
+    "translations": [
+      "vận tải"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1162",
+    "hanzi": "运用",
+    "pinyin": "yùn yòng",
+    "translations": [
+      "vận dụng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1163",
+    "hanzi": "灾害",
+    "pinyin": "zāi hài",
+    "translations": [
+      "thiên tai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1164",
+    "hanzi": "再三",
+    "pinyin": "zài sān",
+    "translations": [
+      "hết lần này đến lần khác"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1165",
+    "hanzi": "在乎",
+    "pinyin": "zài hū",
+    "translations": [
+      "để ý"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1166",
+    "hanzi": "在于",
+    "pinyin": "zài yú",
+    "translations": [
+      "ở chỗ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1167",
+    "hanzi": "赞成",
+    "pinyin": "zàn chéng",
+    "translations": [
+      "tán thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1168",
+    "hanzi": "赞美",
+    "pinyin": "zàn měi",
+    "translations": [
+      "ca tụng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1169",
+    "hanzi": "糟糕",
+    "pinyin": "zāo gāo",
+    "translations": [
+      "tồi tệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1170",
+    "hanzi": "造成",
+    "pinyin": "zào chéng",
+    "translations": [
+      "gây nên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1171",
+    "hanzi": "则",
+    "pinyin": "zé",
+    "translations": [
+      "nhưng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1172",
+    "hanzi": "责备",
+    "pinyin": "zé bèi",
+    "translations": [
+      "trách cứ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1173",
+    "hanzi": "摘",
+    "pinyin": "zhāi",
+    "translations": [
+      "hái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1174",
+    "hanzi": "窄",
+    "pinyin": "zhǎi",
+    "translations": [
+      "hẹp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1175",
+    "hanzi": "粘贴",
+    "pinyin": "zhān tiē",
+    "translations": [
+      "dính, dán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1176",
+    "hanzi": "展开",
+    "pinyin": "zhǎn kāi",
+    "translations": [
+      "xòe ra, triển khai"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1177",
+    "hanzi": "展览",
+    "pinyin": "zhǎn lǎn",
+    "translations": [
+      "triển lãm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1178",
+    "hanzi": "占",
+    "pinyin": "zhàn",
+    "translations": [
+      "chiếm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1179",
+    "hanzi": "战争",
+    "pinyin": "zhàn zhēng",
+    "translations": [
+      "chiến tranh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1180",
+    "hanzi": "长辈",
+    "pinyin": "zhǎng bèi",
+    "translations": [
+      "tiền bối"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1181",
+    "hanzi": "涨",
+    "pinyin": "zhàng",
+    "translations": [
+      "tăng lên (giá cả, lương)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1182",
+    "hanzi": "掌握",
+    "pinyin": "zhǎng wò",
+    "translations": [
+      "nắm vững"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1183",
+    "hanzi": "账户",
+    "pinyin": "zhàng hù",
+    "translations": [
+      "tài khoản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1184",
+    "hanzi": "招待",
+    "pinyin": "zhāo dài",
+    "translations": [
+      "chiêu đãi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1185",
+    "hanzi": "着火",
+    "pinyin": "zháo huǒ",
+    "translations": [
+      "bắt lửa, bén lửa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1186",
+    "hanzi": "着凉",
+    "pinyin": "zháo liáng",
+    "translations": [
+      "nhiễm lạnh"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1187",
+    "hanzi": "召开",
+    "pinyin": "zhào kāi",
+    "translations": [
+      "triệu tập (cuộc họp)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1188",
+    "hanzi": "照常",
+    "pinyin": "zhào cháng",
+    "translations": [
+      "như thường lệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1189",
+    "hanzi": "哲学",
+    "pinyin": "zhé xué",
+    "translations": [
+      "triết học"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1190",
+    "hanzi": "针对",
+    "pinyin": "zhēn duì",
+    "translations": [
+      "nhằm (tổ chức, người, vấn đề)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1191",
+    "hanzi": "珍惜",
+    "pinyin": "zhēn xī",
+    "translations": [
+      "trân trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1192",
+    "hanzi": "真实",
+    "pinyin": "zhēn shí",
+    "translations": [
+      "chân thực"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1193",
+    "hanzi": "诊断",
+    "pinyin": "zhěn duàn",
+    "translations": [
+      "chẩn đoán"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1194",
+    "hanzi": "阵",
+    "pinyin": "zhèn",
+    "translations": [
+      "trận (chiến đấu, chiến tranh), khoảng thời gian, mùi hương"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1195",
+    "hanzi": "振动",
+    "pinyin": "zhèn dòng",
+    "translations": [
+      "trấn động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1196",
+    "hanzi": "争论",
+    "pinyin": "zhēng lùn",
+    "translations": [
+      "tranh luận"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1197",
+    "hanzi": "争取",
+    "pinyin": "zhēng qǔ",
+    "translations": [
+      "tranh thủ (ủng hộ, ý kiến)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1198",
+    "hanzi": "征求",
+    "pinyin": "zhēng qiú",
+    "translations": [
+      "trưng cầu (ý kiến, ý kiến phản hồi), xin (ý kiến lãnh đạo, đồng ý)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1199",
+    "hanzi": "睁",
+    "pinyin": "zhēng",
+    "translations": [
+      "mở to mắt, trợn mắt"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1200",
+    "hanzi": "整个",
+    "pinyin": "zhěng gè",
+    "translations": [
+      "cả, toàn bộ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1201",
+    "hanzi": "整齐",
+    "pinyin": "zhěng qí",
+    "translations": [
+      "gọn gàng, ngăn nắp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1202",
+    "hanzi": "整体",
+    "pinyin": "zhěng tǐ",
+    "translations": [
+      "tổng thể"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1203",
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "translations": [
+      "đứng (trái )"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1204",
+    "hanzi": "证件",
+    "pinyin": "zhèng jiàn",
+    "translations": [
+      "giấy tờ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1205",
+    "hanzi": "证据",
+    "pinyin": "zhèng jù",
+    "translations": [
+      "chứng cứ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1206",
+    "hanzi": "政府",
+    "pinyin": "zhèng fǔ",
+    "translations": [
+      "chính phủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1207",
+    "hanzi": "政治",
+    "pinyin": "zhèng zhì",
+    "translations": [
+      "chính trị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1208",
+    "hanzi": "挣",
+    "pinyin": "zhèng",
+    "translations": [
+      "tranh, giành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1209",
+    "hanzi": "支",
+    "pinyin": "zhī",
+    "translations": [
+      "chiếc (lượng từ cho bút…)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1210",
+    "hanzi": "支票",
+    "pinyin": "zhī piào",
+    "translations": [
+      "ngân phiếu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1211",
+    "hanzi": "执照",
+    "pinyin": "zhí zhào",
+    "translations": [
+      "giấy phép"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1212",
+    "hanzi": "直",
+    "pinyin": "zhí",
+    "translations": [
+      "thẳng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1213",
+    "hanzi": "指导",
+    "pinyin": "zhǐ dǎo",
+    "translations": [
+      "chỉ đạo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1214",
+    "hanzi": "指挥",
+    "pinyin": "zhǐ huī",
+    "translations": [
+      "chỉ huy"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1215",
+    "hanzi": "至今",
+    "pinyin": "zhì jīn",
+    "translations": [
+      "đến nay"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1216",
+    "hanzi": "至于",
+    "pinyin": "zhì yú",
+    "translations": [
+      "còn như….."
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1217",
+    "hanzi": "志愿者",
+    "pinyin": "zhì yuàn zhě",
+    "translations": [
+      "tình nguyện viên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1218",
+    "hanzi": "制定",
+    "pinyin": "zhì dìng",
+    "translations": [
+      "lập ra, thiết lập, xây dựng, lập (chính sách, qui định, kế hoạch, sách lược, phương án)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1219",
+    "hanzi": "制度",
+    "pinyin": "zhì dù",
+    "translations": [
+      "chế độ, chính sách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1220",
+    "hanzi": "制造",
+    "pinyin": "zhì zào",
+    "translations": [
+      "sản xuất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1221",
+    "hanzi": "制作",
+    "pinyin": "zhì zuò",
+    "translations": [
+      "làm, chế tạo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1222",
+    "hanzi": "治疗",
+    "pinyin": "zhì liáo",
+    "translations": [
+      "điều trị"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1223",
+    "hanzi": "秩序",
+    "pinyin": "zhì xù",
+    "translations": [
+      "trật tự"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1224",
+    "hanzi": "智慧",
+    "pinyin": "zhì huì",
+    "translations": [
+      "trí tuệ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1225",
+    "hanzi": "中介",
+    "pinyin": "zhōng jiè",
+    "translations": [
+      "môi giới, trung gian"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1226",
+    "hanzi": "中心",
+    "pinyin": "zhōng xīn",
+    "translations": [
+      "trung tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1227",
+    "hanzi": "中旬",
+    "pinyin": "zhōng xún",
+    "translations": [
+      "trung tuần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1228",
+    "hanzi": "种类",
+    "pinyin": "zhǒng lèi",
+    "translations": [
+      "chủng loại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1229",
+    "hanzi": "重大",
+    "pinyin": "zhòng dà",
+    "translations": [
+      "trọng đại, lớn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1230",
+    "hanzi": "重量",
+    "pinyin": "zhòng liàng",
+    "translations": [
+      "trọng lượng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1231",
+    "hanzi": "周到",
+    "pinyin": "zhōu dào",
+    "translations": [
+      "chu đáo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1232",
+    "hanzi": "猪",
+    "pinyin": "zhū",
+    "translations": [
+      "con lợn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1233",
+    "hanzi": "竹子",
+    "pinyin": "zhú zi",
+    "translations": [
+      "cây trúc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1234",
+    "hanzi": "逐步",
+    "pinyin": "zhú bù",
+    "translations": [
+      "từng bước"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1235",
+    "hanzi": "逐渐",
+    "pinyin": "zhú jiàn",
+    "translations": [
+      "dần dần"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1236",
+    "hanzi": "主持",
+    "pinyin": "zhǔ chí",
+    "translations": [
+      "dẫn (chương trình),"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1237",
+    "hanzi": "主动",
+    "pinyin": "zhǔ dòng",
+    "translations": [
+      "chủ động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1238",
+    "hanzi": "主观",
+    "pinyin": "zhǔ guān",
+    "translations": [
+      "chủ quan"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1239",
+    "hanzi": "主人",
+    "pinyin": "zhǔ rén",
+    "translations": [
+      "chủ nhân"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1240",
+    "hanzi": "主任",
+    "pinyin": "zhǔ rèn",
+    "translations": [
+      "chủ nhiệm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1241",
+    "hanzi": "主题",
+    "pinyin": "zhǔ tí",
+    "translations": [
+      "chủ đề"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1242",
+    "hanzi": "主席",
+    "pinyin": "zhǔ xí",
+    "translations": [
+      "chủ tịch"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1243",
+    "hanzi": "主张",
+    "pinyin": "zhǔ zhāng",
+    "translations": [
+      "ý tưởng, ý kiến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1244",
+    "hanzi": "煮",
+    "pinyin": "zhǔ",
+    "translations": [
+      "luộc, đun"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1245",
+    "hanzi": "注册",
+    "pinyin": "zhù cè",
+    "translations": [
+      "đăng kí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1246",
+    "hanzi": "祝福",
+    "pinyin": "zhù fú",
+    "translations": [
+      "chúc phúc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1247",
+    "hanzi": "抓",
+    "pinyin": "zhuā",
+    "translations": [
+      "bắt, véo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1248",
+    "hanzi": "抓紧",
+    "pinyin": "zhuā jǐn",
+    "translations": [
+      "(tay) nắm chắc, tranh thủ (thời gian)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1249",
+    "hanzi": "专家",
+    "pinyin": "zhuān jiā",
+    "translations": [
+      "chuyên gia"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1250",
+    "hanzi": "专心",
+    "pinyin": "zhuān xīn",
+    "translations": [
+      "chuyên tâm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1251",
+    "hanzi": "转变",
+    "pinyin": "zhuǎn biàn",
+    "translations": [
+      "chuyển biến"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1252",
+    "hanzi": "转告",
+    "pinyin": "zhuǎn gào",
+    "translations": [
+      "chuyển lời"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1253",
+    "hanzi": "装",
+    "pinyin": "zhuāng",
+    "translations": [
+      "đựng, chứa"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1254",
+    "hanzi": "装饰",
+    "pinyin": "zhuāng shì",
+    "translations": [
+      "trang hoàng, trang trí"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1255",
+    "hanzi": "装修",
+    "pinyin": "zhuāng xiū",
+    "translations": [
+      "sửa nội thất"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1256",
+    "hanzi": "状况",
+    "pinyin": "zhuàng kuàng",
+    "translations": [
+      "tình trạng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1257",
+    "hanzi": "状态",
+    "pinyin": "zhuàng tài",
+    "translations": [
+      "trạng thái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1258",
+    "hanzi": "撞",
+    "pinyin": "zhuàng",
+    "translations": [
+      "va vào, đâm vào"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1259",
+    "hanzi": "追",
+    "pinyin": "zhuī",
+    "translations": [
+      "đuổi theo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1260",
+    "hanzi": "追求",
+    "pinyin": "zhuī qiú",
+    "translations": [
+      "theo đuổi"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1261",
+    "hanzi": "咨询",
+    "pinyin": "zī xún",
+    "translations": [
+      "tư vấn"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1262",
+    "hanzi": "姿势",
+    "pinyin": "zī shì",
+    "translations": [
+      "tư thế"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1263",
+    "hanzi": "资格",
+    "pinyin": "zī gé",
+    "translations": [
+      "tư cách"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1264",
+    "hanzi": "资金",
+    "pinyin": "zī jīn",
+    "translations": [
+      "vốn (tiền)"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1265",
+    "hanzi": "资料",
+    "pinyin": "zī liào",
+    "translations": [
+      "tư liệu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1266",
+    "hanzi": "资源",
+    "pinyin": "zī yuán",
+    "translations": [
+      "nguồn tài nguyên"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1267",
+    "hanzi": "紫",
+    "pinyin": "zǐ",
+    "translations": [
+      "màu tím"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1268",
+    "hanzi": "自从",
+    "pinyin": "zì cóng",
+    "translations": [
+      "từ khi…."
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1269",
+    "hanzi": "自动",
+    "pinyin": "zì dòng",
+    "translations": [
+      "tự động"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1270",
+    "hanzi": "自豪",
+    "pinyin": "zì háo",
+    "translations": [
+      "tự hào, kiêu ngạo"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1271",
+    "hanzi": "自觉",
+    "pinyin": "zì jué",
+    "translations": [
+      "tự giác"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1272",
+    "hanzi": "自私",
+    "pinyin": "zì sī",
+    "translations": [
+      "ích kỉ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1273",
+    "hanzi": "自由",
+    "pinyin": "zì yóu",
+    "translations": [
+      "tự do"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1274",
+    "hanzi": "自愿",
+    "pinyin": "zì yuàn",
+    "translations": [
+      "tình nguyện, tự nguyện"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1275",
+    "hanzi": "字母",
+    "pinyin": "zì mǔ",
+    "translations": [
+      "chữ cái"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1276",
+    "hanzi": "字幕",
+    "pinyin": "zì mù",
+    "translations": [
+      "phụ đề"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1277",
+    "hanzi": "综合",
+    "pinyin": "zōng hé",
+    "translations": [
+      "tổng hợp"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1278",
+    "hanzi": "总裁",
+    "pinyin": "zǒng cái",
+    "translations": [
+      "giám đốc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1279",
+    "hanzi": "总共",
+    "pinyin": "zǒng gòng",
+    "translations": [
+      "tổng cộng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1280",
+    "hanzi": "总理",
+    "pinyin": "zǒng lǐ",
+    "translations": [
+      "thủ tướng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1281",
+    "hanzi": "总算",
+    "pinyin": "zǒng suàn",
+    "translations": [
+      "rốt cuộc"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1282",
+    "hanzi": "总统",
+    "pinyin": "zǒng tǒng",
+    "translations": [
+      "tổng thống"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1283",
+    "hanzi": "总之",
+    "pinyin": "zǒng zhī",
+    "translations": [
+      "tóm lại"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1284",
+    "hanzi": "阻止",
+    "pinyin": "zǔ zhī",
+    "translations": [
+      "ngăn chặn, ngăn cản"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1285",
+    "hanzi": "组",
+    "pinyin": "zǔ",
+    "translations": [
+      "tổ, cụm, nhóm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1286",
+    "hanzi": "组成",
+    "pinyin": "zǔ chéng",
+    "translations": [
+      "tổ thành"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1287",
+    "hanzi": "组合",
+    "pinyin": "zǔ hé",
+    "translations": [
+      "tổ hợp, tổ hợp thành, nhóm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1288",
+    "hanzi": "组织",
+    "pinyin": "zǔ zhī",
+    "translations": [
+      "tổ chức"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1289",
+    "hanzi": "最初",
+    "pinyin": "zuì chū",
+    "translations": [
+      "ban đầu"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1290",
+    "hanzi": "醉",
+    "pinyin": "zuì",
+    "translations": [
+      "say, say đắm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1291",
+    "hanzi": "尊敬",
+    "pinyin": "zūn jìng",
+    "translations": [
+      "tôn kính, kính trọng"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1292",
+    "hanzi": "遵守",
+    "pinyin": "zūn shǒu",
+    "translations": [
+      "tuân thủ"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1293",
+    "hanzi": "作品",
+    "pinyin": "zuò pǐn",
+    "translations": [
+      "tác phẩm"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1294",
+    "hanzi": "作为",
+    "pinyin": "zuò wéi",
+    "translations": [
+      "coi là, làm, là"
+    ],
+    "level": 5
+  },
+  {
+    "id": "5-1295",
+    "hanzi": "作文",
+    "pinyin": "zuò wén",
+    "translations": [
+      "bài viết"
+    ],
+    "level": 5
+  }
+]

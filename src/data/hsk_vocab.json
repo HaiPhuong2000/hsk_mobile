@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "translations": ["to love", "affection", "to be fond of", "to like"],
+    "level": 1
+  },
+  {
+    "id": "2",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "translations": ["eight", "8"],
+    "level": 1
+  },
+  {
+    "id": "3",
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "translations": ["father", "dad"],
+    "level": 1
+  },
+  {
+    "id": "4",
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "translations": ["cup", "glass"],
+    "level": 1
+  },
+  {
+    "id": "5",
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "translations": ["Beijing"],
+    "level": 1
+  },
+  {
+    "id": "6",
+    "hanzi": "本",
+    "pinyin": "běn",
+    "translations": ["measure word for books", "origin", "source", "this"],
+    "level": 1
+  },
+  {
+    "id": "7",
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "translations": ["you're welcome", "don't mention it"],
+    "level": 1
+  },
+  {
+    "id": "8",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "translations": ["not", "no"],
+    "level": 1
+  },
+  {
+    "id": "9",
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "translations": ["dish (type of food)", "vegetables"],
+    "level": 1
+  },
+  {
+    "id": "10",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "translations": ["tea"],
+    "level": 1
+  },
+  {
+    "id": "11",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "translations": ["to eat"],
+    "level": 1
+  },
+  {
+    "id": "12",
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "translations": ["taxi"],
+    "level": 1
+  },
+  {
+    "id": "13",
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "translations": ["to make a telephone call"],
+    "level": 1
+  },
+  {
+    "id": "14",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "translations": ["big", "large", "great"],
+    "level": 1
+  },
+  {
+    "id": "15",
+    "hanzi": "的",
+    "pinyin": "de",
+    "translations": ["possessive particle", "of"],
+    "level": 1
+  },
+  {
+    "id": "16",
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "translations": ["o'clock", "dot", "drop", "point"],
+    "level": 1
+  },
+  {
+    "id": "17",
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "translations": ["computer"],
+    "level": 1
+  },
+  {
+    "id": "18",
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "translations": ["television", "TV"],
+    "level": 1
+  },
+  {
+    "id": "19",
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "translations": ["movie", "film"],
+    "level": 1
+  },
+  {
+    "id": "20",
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "translations": ["thing", "stuff"],
+    "level": 1
+  }
+]

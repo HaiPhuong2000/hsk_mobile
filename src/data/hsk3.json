@@ -1,0 +1,2657 @@
+[
+  {
+    "id": "3-1",
+    "hanzi": "阿姨",
+    "pinyin": "āyí",
+    "translations": [
+      "dì, cô"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-2",
+    "hanzi": "啊",
+    "pinyin": "a",
+    "translations": [
+      "a, à, ơ (trợ từ ngữ khí)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-3",
+    "hanzi": "矮",
+    "pinyin": "ǎi",
+    "translations": [
+      "thấp, lùn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-4",
+    "hanzi": "爱好",
+    "pinyin": "àihào",
+    "translations": [
+      "sở thích"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-5",
+    "hanzi": "安静",
+    "pinyin": "ānjìng",
+    "translations": [
+      "yên tĩnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-6",
+    "hanzi": "把",
+    "pinyin": "bǎ",
+    "translations": [
+      "đem, lấy (giới từ)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-7",
+    "hanzi": "班",
+    "pinyin": "bān",
+    "translations": [
+      "lớp, ca (làm việc)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-8",
+    "hanzi": "搬",
+    "pinyin": "bān",
+    "translations": [
+      "chuyển, dời"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-9",
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "translations": [
+      "một nửa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-10",
+    "hanzi": "办法",
+    "pinyin": "bànfǎ",
+    "translations": [
+      "biện pháp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-11",
+    "hanzi": "办公室",
+    "pinyin": "bàngōngshì",
+    "translations": [
+      "văn phòng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-12",
+    "hanzi": "帮忙",
+    "pinyin": "bāngmáng",
+    "translations": [
+      "giúp đỡ (động từ li hợp)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-13",
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "translations": [
+      "túi, bao"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-14",
+    "hanzi": "饱",
+    "pinyin": "bǎo",
+    "translations": [
+      "no"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-15",
+    "hanzi": "北方",
+    "pinyin": "běifāng",
+    "translations": [
+      "miền Bắc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-16",
+    "hanzi": "被",
+    "pinyin": "bèi",
+    "translations": [
+      "bị, được (giới từ bị động)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-17",
+    "hanzi": "比较",
+    "pinyin": "bǐjiào",
+    "translations": [
+      "khá, tương đối"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-18",
+    "hanzi": "比赛",
+    "pinyin": "bǐsài",
+    "translations": [
+      "cuộc thi, thi đấu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-19",
+    "hanzi": "必须",
+    "pinyin": "bìxū",
+    "translations": [
+      "phải, cần phải"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-20",
+    "hanzi": "变化",
+    "pinyin": "biànhuà",
+    "translations": [
+      "thay đổi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-21",
+    "hanzi": "表示",
+    "pinyin": "biǎoshì",
+    "translations": [
+      "biểu thị, thể hiện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-22",
+    "hanzi": "表演",
+    "pinyin": "biǎoyǎn",
+    "translations": [
+      "biểu diễn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-23",
+    "hanzi": "别人",
+    "pinyin": "biérén",
+    "translations": [
+      "người khác"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-24",
+    "hanzi": "宾馆",
+    "pinyin": "bīnguǎn",
+    "translations": [
+      "khách sạn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-25",
+    "hanzi": "冰箱",
+    "pinyin": "bīngxiāng",
+    "translations": [
+      "tủ lạnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-26",
+    "hanzi": "才",
+    "pinyin": "cái",
+    "translations": [
+      "mới (nhấn mạnh thời gian muộn, trễ)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-27",
+    "hanzi": "菜单",
+    "pinyin": "càidān",
+    "translations": [
+      "thực đơn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-28",
+    "hanzi": "参加",
+    "pinyin": "cānjiā",
+    "translations": [
+      "tham gia"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-29",
+    "hanzi": "草",
+    "pinyin": "cǎo",
+    "translations": [
+      "cỏ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-30",
+    "hanzi": "层",
+    "pinyin": "céng",
+    "translations": [
+      "tầng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-31",
+    "hanzi": "差",
+    "pinyin": "chà",
+    "translations": [
+      "kém, thiếu, tệ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-32",
+    "hanzi": "超市",
+    "pinyin": "chāoshì",
+    "translations": [
+      "siêu thị"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-33",
+    "hanzi": "衬衫",
+    "pinyin": "chènshān",
+    "translations": [
+      "áo sơ mi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-34",
+    "hanzi": "成绩",
+    "pinyin": "chéngjì",
+    "translations": [
+      "thành tích"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-35",
+    "hanzi": "城市",
+    "pinyin": "chéngshì",
+    "translations": [
+      "thành phố"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-36",
+    "hanzi": "迟到",
+    "pinyin": "chídào",
+    "translations": [
+      "đến trễ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-37",
+    "hanzi": "出现",
+    "pinyin": "chūxiàn",
+    "translations": [
+      "xuất hiện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-38",
+    "hanzi": "厨房",
+    "pinyin": "chúfáng",
+    "translations": [
+      "nhà bếp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-39",
+    "hanzi": "除了",
+    "pinyin": "chúle",
+    "translations": [
+      "ngoài ra, trừ ra"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-40",
+    "hanzi": "春",
+    "pinyin": "chūn",
+    "translations": [
+      "mùa xuân"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-41",
+    "hanzi": "词语",
+    "pinyin": "cíyǔ",
+    "translations": [
+      "từ ngữ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-42",
+    "hanzi": "聪明",
+    "pinyin": "cōngmíng",
+    "translations": [
+      "thông minh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-43",
+    "hanzi": "打扫",
+    "pinyin": "dǎsǎo",
+    "translations": [
+      "quét dọn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-44",
+    "hanzi": "打算",
+    "pinyin": "dǎsuàn",
+    "translations": [
+      "dự định"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-45",
+    "hanzi": "带",
+    "pinyin": "dài",
+    "translations": [
+      "mang theo, dẫn theo"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-46",
+    "hanzi": "担心",
+    "pinyin": "dānxīn",
+    "translations": [
+      "lo lắng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-47",
+    "hanzi": "蛋糕",
+    "pinyin": "dàngāo",
+    "translations": [
+      "bánh ngọt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-48",
+    "hanzi": "当然",
+    "pinyin": "dāngrán",
+    "translations": [
+      "đương nhiên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-49",
+    "hanzi": "地",
+    "pinyin": "de",
+    "translations": [
+      "trợ từ của động từ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-50",
+    "hanzi": "灯",
+    "pinyin": "dēng",
+    "translations": [
+      "đèn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-51",
+    "hanzi": "低",
+    "pinyin": "dī",
+    "translations": [
+      "thấp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-52",
+    "hanzi": "地方",
+    "pinyin": "dìfāng",
+    "translations": [
+      "nơi, chỗ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-53",
+    "hanzi": "地铁",
+    "pinyin": "dìtiě",
+    "translations": [
+      "tàu điện ngầm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-54",
+    "hanzi": "地图",
+    "pinyin": "dìtú",
+    "translations": [
+      "bản đồ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-55",
+    "hanzi": "电梯",
+    "pinyin": "diàntī",
+    "translations": [
+      "thang máy"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-56",
+    "hanzi": "电子邮箱",
+    "pinyin": "diànzǐ yóuxiāng",
+    "translations": [
+      "hộp thư điện tử (email)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-57",
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "translations": [
+      "đông (hướng đông)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-58",
+    "hanzi": "冬",
+    "pinyin": "dōng",
+    "translations": [
+      "mùa đông"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-59",
+    "hanzi": "动物",
+    "pinyin": "dòngwù",
+    "translations": [
+      "động vật"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-60",
+    "hanzi": "短",
+    "pinyin": "duǎn",
+    "translations": [
+      "ngắn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-61",
+    "hanzi": "段",
+    "pinyin": "duàn",
+    "translations": [
+      "đoạn, quãng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-62",
+    "hanzi": "锻炼",
+    "pinyin": "duànliàn",
+    "translations": [
+      "luyện tập, rèn luyện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-63",
+    "hanzi": "多么",
+    "pinyin": "duōme",
+    "translations": [
+      "bao nhiêu, biết bao"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-64",
+    "hanzi": "饿",
+    "pinyin": "è",
+    "translations": [
+      "đói"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-65",
+    "hanzi": "而且",
+    "pinyin": "érqiě",
+    "translations": [
+      "mà còn, hơn nữa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-66",
+    "hanzi": "耳朵",
+    "pinyin": "ěrduo",
+    "translations": [
+      "tai"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-67",
+    "hanzi": "发烧",
+    "pinyin": "fāshāo",
+    "translations": [
+      "sốt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-68",
+    "hanzi": "发现",
+    "pinyin": "fāxiàn",
+    "translations": [
+      "phát hiện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-69",
+    "hanzi": "方便",
+    "pinyin": "fāngbiàn",
+    "translations": [
+      "thuận tiện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-70",
+    "hanzi": "放",
+    "pinyin": "fàng",
+    "translations": [
+      "đặt, để"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-71",
+    "hanzi": "放心",
+    "pinyin": "fàngxīn",
+    "translations": [
+      "yên tâm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-72",
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "translations": [
+      "phút, phân"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-73",
+    "hanzi": "附近",
+    "pinyin": "fùjìn",
+    "translations": [
+      "gần đây, vùng lân cận"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-74",
+    "hanzi": "复习",
+    "pinyin": "fùxí",
+    "translations": [
+      "ôn tập"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-75",
+    "hanzi": "干净",
+    "pinyin": "gānjìng",
+    "translations": [
+      "sạch sẽ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-76",
+    "hanzi": "敢",
+    "pinyin": "gǎn",
+    "translations": [
+      "dám"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-77",
+    "hanzi": "感冒",
+    "pinyin": "gǎnmào",
+    "translations": [
+      "cảm mạo, cảm lạnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-78",
+    "hanzi": "刚才",
+    "pinyin": "gāngcái",
+    "translations": [
+      "vừa mới"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-79",
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "translations": [
+      "cùng với"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-80",
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "translations": [
+      "căn cứ vào"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-81",
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "translations": [
+      "hơn, càng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-82",
+    "hanzi": "公园",
+    "pinyin": "gōngyuán",
+    "translations": [
+      "công viên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-83",
+    "hanzi": "故事",
+    "pinyin": "gùshì",
+    "translations": [
+      "câu chuyện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-84",
+    "hanzi": "刮风",
+    "pinyin": "guā fēng",
+    "translations": [
+      "gió thổi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-85",
+    "hanzi": "关",
+    "pinyin": "guān",
+    "translations": [
+      "đóng, tắt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-86",
+    "hanzi": "关系",
+    "pinyin": "guānxì",
+    "translations": [
+      "quan hệ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-87",
+    "hanzi": "关心",
+    "pinyin": "guānxīn",
+    "translations": [
+      "quan tâm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-88",
+    "hanzi": "关于",
+    "pinyin": "guānyú",
+    "translations": [
+      "về (liên quan đến)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-89",
+    "hanzi": "国家",
+    "pinyin": "guójiā",
+    "translations": [
+      "quốc gia"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-90",
+    "hanzi": "果汁",
+    "pinyin": "guǒzhī",
+    "translations": [
+      "nước ép trái cây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-91",
+    "hanzi": "过去",
+    "pinyin": "guòqù",
+    "translations": [
+      "quá khứ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-92",
+    "hanzi": "还是",
+    "pinyin": "háishì",
+    "translations": [
+      "vẫn còn, hay là"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-93",
+    "hanzi": "害怕",
+    "pinyin": "hàipà",
+    "translations": [
+      "sợ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-94",
+    "hanzi": "河",
+    "pinyin": "hé",
+    "translations": [
+      "sông"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-95",
+    "hanzi": "黑板",
+    "pinyin": "hēibǎn",
+    "translations": [
+      "bảng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-96",
+    "hanzi": "护照",
+    "pinyin": "hùzhào",
+    "translations": [
+      "hộ chiếu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-97",
+    "hanzi": "花",
+    "pinyin": "huā",
+    "translations": [
+      "hoa, tiêu (tiền, thời gian)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-98",
+    "hanzi": "花园",
+    "pinyin": "huāyuán",
+    "translations": [
+      "vườn hoa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-99",
+    "hanzi": "画",
+    "pinyin": "huà",
+    "translations": [
+      "vẽ, tranh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-100",
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "translations": [
+      "hỏng, xấu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-101",
+    "hanzi": "还",
+    "pinyin": "huán",
+    "translations": [
+      "trả lại, hoàn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-102",
+    "hanzi": "环境",
+    "pinyin": "huánjìng",
+    "translations": [
+      "môi trường"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-103",
+    "hanzi": "换",
+    "pinyin": "huàn",
+    "translations": [
+      "đổi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-104",
+    "hanzi": "黄",
+    "pinyin": "huáng",
+    "translations": [
+      "màu vàng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-105",
+    "hanzi": "会议",
+    "pinyin": "huìyì",
+    "translations": [
+      "hội nghị, cuộc họp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-106",
+    "hanzi": "或者",
+    "pinyin": "huòzhě",
+    "translations": [
+      "hoặc là"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-107",
+    "hanzi": "机会",
+    "pinyin": "jīhuì",
+    "translations": [
+      "cơ hội"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-108",
+    "hanzi": "几乎",
+    "pinyin": "jīhū",
+    "translations": [
+      "hầu như, gần như"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-109",
+    "hanzi": "极",
+    "pinyin": "jí",
+    "translations": [
+      "cực kỳ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-110",
+    "hanzi": "记得",
+    "pinyin": "jìdé",
+    "translations": [
+      "nhớ, nhớ đến"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-111",
+    "hanzi": "季节",
+    "pinyin": "jìjié",
+    "translations": [
+      "mùa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-112",
+    "hanzi": "检查",
+    "pinyin": "jiǎnchá",
+    "translations": [
+      "kiểm tra"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-113",
+    "hanzi": "简单",
+    "pinyin": "jiǎndān",
+    "translations": [
+      "đơn giản"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-114",
+    "hanzi": "健康",
+    "pinyin": "jiànkāng",
+    "translations": [
+      "khỏe mạnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-115",
+    "hanzi": "见面",
+    "pinyin": "jiànmiàn",
+    "translations": [
+      "gặp mặt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-116",
+    "hanzi": "讲",
+    "pinyin": "jiǎng",
+    "translations": [
+      "nói, giảng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-117",
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "translations": [
+      "dạy"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-118",
+    "hanzi": "角",
+    "pinyin": "jiǎo",
+    "translations": [
+      "góc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-119",
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "translations": [
+      "chân"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-120",
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "translations": [
+      "nhận, tiếp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-121",
+    "hanzi": "街道",
+    "pinyin": "jiēdào",
+    "translations": [
+      "đường phố"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-122",
+    "hanzi": "结婚",
+    "pinyin": "jiéhūn",
+    "translations": [
+      "kết hôn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-123",
+    "hanzi": "结束",
+    "pinyin": "jiéshù",
+    "translations": [
+      "kết thúc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-124",
+    "hanzi": "节目",
+    "pinyin": "jiémù",
+    "translations": [
+      "chương trình"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-125",
+    "hanzi": "节日",
+    "pinyin": "jiérì",
+    "translations": [
+      "ngày lễ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-126",
+    "hanzi": "解决",
+    "pinyin": "jiějué",
+    "translations": [
+      "giải quyết"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-127",
+    "hanzi": "借",
+    "pinyin": "jiè",
+    "translations": [
+      "mượn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-128",
+    "hanzi": "经常",
+    "pinyin": "jīngcháng",
+    "translations": [
+      "thường xuyên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-129",
+    "hanzi": "经过",
+    "pinyin": "jīngguò",
+    "translations": [
+      "trải qua"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-130",
+    "hanzi": "经历",
+    "pinyin": "jīnglì",
+    "translations": [
+      "kinh nghiệm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-131",
+    "hanzi": "久",
+    "pinyin": "jiǔ",
+    "translations": [
+      "lâu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-132",
+    "hanzi": "旧",
+    "pinyin": "jiù",
+    "translations": [
+      "cũ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-133",
+    "hanzi": "举行",
+    "pinyin": "jǔxíng",
+    "translations": [
+      "tổ chức"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-134",
+    "hanzi": "句子",
+    "pinyin": "jùzi",
+    "translations": [
+      "câu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-135",
+    "hanzi": "决定",
+    "pinyin": "juédìng",
+    "translations": [
+      "quyết định"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-136",
+    "hanzi": "可爱",
+    "pinyin": "kě'ài",
+    "translations": [
+      "đáng yêu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-137",
+    "hanzi": "刻",
+    "pinyin": "kè",
+    "translations": [
+      "khắc (15 phút)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-138",
+    "hanzi": "客人",
+    "pinyin": "kèrén",
+    "translations": [
+      "khách"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-139",
+    "hanzi": "空调",
+    "pinyin": "kòngtiáo",
+    "translations": [
+      "máy điều hòa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-140",
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "translations": [
+      "miệng, khẩu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-141",
+    "hanzi": "哭",
+    "pinyin": "kū",
+    "translations": [
+      "khóc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-142",
+    "hanzi": "裤子",
+    "pinyin": "kùzi",
+    "translations": [
+      "quần"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-143",
+    "hanzi": "筷子",
+    "pinyin": "kuàizi",
+    "translations": [
+      "đũa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-144",
+    "hanzi": "蓝",
+    "pinyin": "lán",
+    "translations": [
+      "màu xanh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-145",
+    "hanzi": "老",
+    "pinyin": "lǎo",
+    "translations": [
+      "già, cũ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-146",
+    "hanzi": "离开",
+    "pinyin": "líkāi",
+    "translations": [
+      "rời khỏi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-147",
+    "hanzi": "礼物",
+    "pinyin": "lǐwù",
+    "translations": [
+      "quà"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-148",
+    "hanzi": "历史",
+    "pinyin": "lìshǐ",
+    "translations": [
+      "lịch sử"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-149",
+    "hanzi": "脸",
+    "pinyin": "liǎn",
+    "translations": [
+      "mặt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-150",
+    "hanzi": "练习",
+    "pinyin": "liànxí",
+    "translations": [
+      "luyện tập"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-151",
+    "hanzi": "辆",
+    "pinyin": "liàng",
+    "translations": [
+      "chiếc (xe)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-152",
+    "hanzi": "了解",
+    "pinyin": "liǎojiě",
+    "translations": [
+      "hiểu rõ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-153",
+    "hanzi": "邻居",
+    "pinyin": "línjū",
+    "translations": [
+      "hàng xóm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-154",
+    "hanzi": "楼",
+    "pinyin": "lóu",
+    "translations": [
+      "tòa nhà"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-155",
+    "hanzi": "马",
+    "pinyin": "mǎ",
+    "translations": [
+      "con ngựa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-156",
+    "hanzi": "马上",
+    "pinyin": "mǎshàng",
+    "translations": [
+      "ngay lập tức"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-157",
+    "hanzi": "满意",
+    "pinyin": "mǎnyì",
+    "translations": [
+      "hài lòng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-158",
+    "hanzi": "帽子",
+    "pinyin": "màozi",
+    "translations": [
+      "mũ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-159",
+    "hanzi": "米",
+    "pinyin": "mǐ",
+    "translations": [
+      "gạo, mét"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-160",
+    "hanzi": "面包",
+    "pinyin": "miànbāo",
+    "translations": [
+      "bánh mì"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-161",
+    "hanzi": "面条",
+    "pinyin": "miàntiáo",
+    "translations": [
+      "mì sợi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-162",
+    "hanzi": "明白",
+    "pinyin": "míngbái",
+    "translations": [
+      "hiểu rõ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-163",
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "translations": [
+      "cầm, lấy"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-164",
+    "hanzi": "奶奶",
+    "pinyin": "nǎinai",
+    "translations": [
+      "bà nội"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-165",
+    "hanzi": "南",
+    "pinyin": "nán",
+    "translations": [
+      "phía nam"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-166",
+    "hanzi": "难",
+    "pinyin": "nán",
+    "translations": [
+      "khó"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-167",
+    "hanzi": "难过",
+    "pinyin": "nánguò",
+    "translations": [
+      "buồn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-168",
+    "hanzi": "年级",
+    "pinyin": "niánjí",
+    "translations": [
+      "lớp, năm học"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-169",
+    "hanzi": "年轻",
+    "pinyin": "niánqīng",
+    "translations": [
+      "trẻ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-170",
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "translations": [
+      "chim"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-171",
+    "hanzi": "努力",
+    "pinyin": "nǔlì",
+    "translations": [
+      "nỗ lực, chăm chỉ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-172",
+    "hanzi": "爬山",
+    "pinyin": "páshān",
+    "translations": [
+      "leo núi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-173",
+    "hanzi": "盘子",
+    "pinyin": "pánzi",
+    "translations": [
+      "đĩa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-174",
+    "hanzi": "胖",
+    "pinyin": "pàng",
+    "translations": [
+      "béo"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-175",
+    "hanzi": "啤酒",
+    "pinyin": "píjiǔ",
+    "translations": [
+      "bia"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-176",
+    "hanzi": "葡萄",
+    "pinyin": "pútao",
+    "translations": [
+      "nho"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-177",
+    "hanzi": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "translations": [
+      "tiếng Phổ thông (tiếng Trung chuẩn)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-178",
+    "hanzi": "骑",
+    "pinyin": "qí",
+    "translations": [
+      "cưỡi, đi (xe đạp, xe máy)"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-179",
+    "hanzi": "其实",
+    "pinyin": "qíshí",
+    "translations": [
+      "thực ra"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-180",
+    "hanzi": "其他",
+    "pinyin": "qítā",
+    "translations": [
+      "khác"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-181",
+    "hanzi": "奇怪",
+    "pinyin": "qíguài",
+    "translations": [
+      "kỳ lạ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-182",
+    "hanzi": "铅笔",
+    "pinyin": "qiānbǐ",
+    "translations": [
+      "bút chì"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-183",
+    "hanzi": "清楚",
+    "pinyin": "qīngchǔ",
+    "translations": [
+      "rõ ràng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-184",
+    "hanzi": "秋",
+    "pinyin": "qiū",
+    "translations": [
+      "mùa thu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-185",
+    "hanzi": "裙子",
+    "pinyin": "qúnzi",
+    "translations": [
+      "váy"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-186",
+    "hanzi": "然后",
+    "pinyin": "ránhòu",
+    "translations": [
+      "sau đó"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-187",
+    "hanzi": "热情",
+    "pinyin": "rèqíng",
+    "translations": [
+      "nhiệt tình"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-188",
+    "hanzi": "认为",
+    "pinyin": "rènwéi",
+    "translations": [
+      "cho rằng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-189",
+    "hanzi": "认真",
+    "pinyin": "rènzhēn",
+    "translations": [
+      "nghiêm túc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-190",
+    "hanzi": "容易",
+    "pinyin": "róngyì",
+    "translations": [
+      "dễ dàng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-191",
+    "hanzi": "如果",
+    "pinyin": "rúguǒ",
+    "translations": [
+      "nếu như"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-192",
+    "hanzi": "伞",
+    "pinyin": "sǎn",
+    "translations": [
+      "ô, dù"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-193",
+    "hanzi": "上网",
+    "pinyin": "shàngwǎng",
+    "translations": [
+      "lên mạng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-194",
+    "hanzi": "生气",
+    "pinyin": "shēngqì",
+    "translations": [
+      "giận dữ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-195",
+    "hanzi": "声音",
+    "pinyin": "shēngyīn",
+    "translations": [
+      "âm thanh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-196",
+    "hanzi": "使",
+    "pinyin": "shǐ",
+    "translations": [
+      "khiến, làm cho"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-197",
+    "hanzi": "世界",
+    "pinyin": "shìjiè",
+    "translations": [
+      "thế giới"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-198",
+    "hanzi": "瘦",
+    "pinyin": "shòu",
+    "translations": [
+      "gầy"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-199",
+    "hanzi": "舒服",
+    "pinyin": "shūfu",
+    "translations": [
+      "thoải mái"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-200",
+    "hanzi": "叔叔",
+    "pinyin": "shūshu",
+    "translations": [
+      "chú"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-201",
+    "hanzi": "树",
+    "pinyin": "shù",
+    "translations": [
+      "cây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-202",
+    "hanzi": "数学",
+    "pinyin": "shùxué",
+    "translations": [
+      "toán học"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-203",
+    "hanzi": "刷牙",
+    "pinyin": "shuāyá",
+    "translations": [
+      "đánh răng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-204",
+    "hanzi": "双",
+    "pinyin": "shuāng",
+    "translations": [
+      "đôi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-205",
+    "hanzi": "水平",
+    "pinyin": "shuǐpíng",
+    "translations": [
+      "trình độ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-206",
+    "hanzi": "司机",
+    "pinyin": "sījī",
+    "translations": [
+      "lái xe, tài xế"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-207",
+    "hanzi": "虽然",
+    "pinyin": "suīrán",
+    "translations": [
+      "tuy rằng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-208",
+    "hanzi": "太阳",
+    "pinyin": "tàiyáng",
+    "translations": [
+      "mặt trời"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-209",
+    "hanzi": "糖",
+    "pinyin": "táng",
+    "translations": [
+      "kẹo, đường"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-210",
+    "hanzi": "特别",
+    "pinyin": "tèbié",
+    "translations": [
+      "đặc biệt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-211",
+    "hanzi": "疼",
+    "pinyin": "téng",
+    "translations": [
+      "đau"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-212",
+    "hanzi": "提高",
+    "pinyin": "tígāo",
+    "translations": [
+      "nâng cao"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-213",
+    "hanzi": "体育",
+    "pinyin": "tǐyù",
+    "translations": [
+      "thể dục, thể thao"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-214",
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "translations": [
+      "ngọt"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-215",
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "translations": [
+      "sợi, cái"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-216",
+    "hanzi": "同事",
+    "pinyin": "tóngshì",
+    "translations": [
+      "đồng nghiệp"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-217",
+    "hanzi": "同意",
+    "pinyin": "tóngyì",
+    "translations": [
+      "đồng ý"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-218",
+    "hanzi": "头发",
+    "pinyin": "tóufa",
+    "translations": [
+      "tóc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-219",
+    "hanzi": "突然",
+    "pinyin": "tūrán",
+    "translations": [
+      "đột nhiên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-220",
+    "hanzi": "图书馆",
+    "pinyin": "túshūguǎn",
+    "translations": [
+      "thư viện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-221",
+    "hanzi": "腿",
+    "pinyin": "tuǐ",
+    "translations": [
+      "chân"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-222",
+    "hanzi": "完成",
+    "pinyin": "wánchéng",
+    "translations": [
+      "hoàn thành"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-223",
+    "hanzi": "碗",
+    "pinyin": "wǎn",
+    "translations": [
+      "bát"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-224",
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "translations": [
+      "vạn, mười nghìn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-225",
+    "hanzi": "忘记",
+    "pinyin": "wàngjì",
+    "translations": [
+      "quên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-226",
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "translations": [
+      "vị, ngài"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-227",
+    "hanzi": "为",
+    "pinyin": "wèi",
+    "translations": [
+      "vì"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-228",
+    "hanzi": "为了",
+    "pinyin": "wèile",
+    "translations": [
+      "để, vì"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-229",
+    "hanzi": "文化",
+    "pinyin": "wénhuà",
+    "translations": [
+      "văn hóa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-230",
+    "hanzi": "西",
+    "pinyin": "xī",
+    "translations": [
+      "phía tây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-231",
+    "hanzi": "习惯",
+    "pinyin": "xíguàn",
+    "translations": [
+      "thói quen"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-232",
+    "hanzi": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "translations": [
+      "nhà vệ sinh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-233",
+    "hanzi": "洗澡",
+    "pinyin": "xǐzǎo",
+    "translations": [
+      "tắm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-234",
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuān",
+    "translations": [
+      "thích"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-235",
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "translations": [
+      "hiện"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-236",
+    "hanzi": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "translations": [
+      "chuối"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-237",
+    "hanzi": "相同",
+    "pinyin": "xiāngtóng",
+    "translations": [
+      "giống nhau"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-238",
+    "hanzi": "相信",
+    "pinyin": "xiāngxìn",
+    "translations": [
+      "tin tưởng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-239",
+    "hanzi": "像",
+    "pinyin": "xiàng",
+    "translations": [
+      "giống"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-240",
+    "hanzi": "小心",
+    "pinyin": "xiǎoxīn",
+    "translations": [
+      "cẩn thận"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-241",
+    "hanzi": "校长",
+    "pinyin": "xiàozhǎng",
+    "translations": [
+      "hiệu trưởng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-242",
+    "hanzi": "鞋",
+    "pinyin": "xié",
+    "translations": [
+      "giày"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-243",
+    "hanzi": "新闻",
+    "pinyin": "xīnwén",
+    "translations": [
+      "tin tức"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-244",
+    "hanzi": "新鲜",
+    "pinyin": "xīnxiān",
+    "translations": [
+      "tươi mới"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-245",
+    "hanzi": "信",
+    "pinyin": "xìn",
+    "translations": [
+      "thư, tin tưởng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-246",
+    "hanzi": "行李箱",
+    "pinyin": "xínglǐxiāng",
+    "translations": [
+      "vali"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-247",
+    "hanzi": "兴趣",
+    "pinyin": "xìngqù",
+    "translations": [
+      "hứng thú"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-248",
+    "hanzi": "熊猫",
+    "pinyin": "xióngmāo",
+    "translations": [
+      "gấu trúc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-249",
+    "hanzi": "需要",
+    "pinyin": "xūyào",
+    "translations": [
+      "cần"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-250",
+    "hanzi": "选择",
+    "pinyin": "xuǎnzé",
+    "translations": [
+      "lựa chọn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-251",
+    "hanzi": "眼镜",
+    "pinyin": "yǎnjìng",
+    "translations": [
+      "kính"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-252",
+    "hanzi": "要求",
+    "pinyin": "yāoqiú",
+    "translations": [
+      "yêu cầu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-253",
+    "hanzi": "爷爷",
+    "pinyin": "yéye",
+    "translations": [
+      "ông nội"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-254",
+    "hanzi": "一定",
+    "pinyin": "yīdìng",
+    "translations": [
+      "nhất định"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-255",
+    "hanzi": "一共",
+    "pinyin": "yīgòng",
+    "translations": [
+      "tổng cộng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-256",
+    "hanzi": "一会儿",
+    "pinyin": "yīhuìr",
+    "translations": [
+      "một lát"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-257",
+    "hanzi": "一样",
+    "pinyin": "yīyàng",
+    "translations": [
+      "giống nhau"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-258",
+    "hanzi": "以后",
+    "pinyin": "yǐhòu",
+    "translations": [
+      "sau này"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-259",
+    "hanzi": "以前",
+    "pinyin": "yǐqián",
+    "translations": [
+      "trước đây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-260",
+    "hanzi": "以为",
+    "pinyin": "yǐwéi",
+    "translations": [
+      "cho rằng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-261",
+    "hanzi": "一般",
+    "pinyin": "yībān",
+    "translations": [
+      "thông thường"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-262",
+    "hanzi": "一边",
+    "pinyin": "yībiān",
+    "translations": [
+      "vừa ... vừa ..."
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-263",
+    "hanzi": "一直",
+    "pinyin": "yīzhí",
+    "translations": [
+      "luôn luôn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-264",
+    "hanzi": "音乐",
+    "pinyin": "yīnyuè",
+    "translations": [
+      "âm nhạc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-265",
+    "hanzi": "银行",
+    "pinyin": "yínháng",
+    "translations": [
+      "ngân hàng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-266",
+    "hanzi": "应该",
+    "pinyin": "yīnggāi",
+    "translations": [
+      "nên"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-267",
+    "hanzi": "影响",
+    "pinyin": "yǐngxiǎng",
+    "translations": [
+      "ảnh hưởng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-268",
+    "hanzi": "用",
+    "pinyin": "yòng",
+    "translations": [
+      "dùng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-269",
+    "hanzi": "游戏",
+    "pinyin": "yóuxì",
+    "translations": [
+      "trò chơi"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-270",
+    "hanzi": "又",
+    "pinyin": "yòu",
+    "translations": [
+      "lại, vừa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-271",
+    "hanzi": "有名",
+    "pinyin": "yǒumíng",
+    "translations": [
+      "nổi tiếng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-272",
+    "hanzi": "遇到",
+    "pinyin": "yùdào",
+    "translations": [
+      "gặp phải"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-273",
+    "hanzi": "月亮",
+    "pinyin": "yuèliàng",
+    "translations": [
+      "mặt trăng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-274",
+    "hanzi": "云",
+    "pinyin": "yún",
+    "translations": [
+      "mây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-275",
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "translations": [
+      "đứng, trạm"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-276",
+    "hanzi": "长",
+    "pinyin": "zhǎng",
+    "translations": [
+      "dài"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-277",
+    "hanzi": "着急",
+    "pinyin": "zhāojí",
+    "translations": [
+      "lo lắng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-278",
+    "hanzi": "照顾",
+    "pinyin": "zhàogu",
+    "translations": [
+      "chăm sóc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-279",
+    "hanzi": "照片",
+    "pinyin": "zhàopiàn",
+    "translations": [
+      "bức ảnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-280",
+    "hanzi": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "translations": [
+      "máy ảnh"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-281",
+    "hanzi": "只",
+    "pinyin": "zhǐ",
+    "translations": [
+      "chỉ"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-282",
+    "hanzi": "中间",
+    "pinyin": "zhōngjiān",
+    "translations": [
+      "ở giữa"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-283",
+    "hanzi": "终于",
+    "pinyin": "zhōngyú",
+    "translations": [
+      "cuối cùng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-284",
+    "hanzi": "种",
+    "pinyin": "zhǒng",
+    "translations": [
+      "loại, hạt giống"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-285",
+    "hanzi": "重要",
+    "pinyin": "zhòngyào",
+    "translations": [
+      "quan trọng"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-286",
+    "hanzi": "主要",
+    "pinyin": "zhǔyào",
+    "translations": [
+      "chủ yếu"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-287",
+    "hanzi": "周末",
+    "pinyin": "zhōumò",
+    "translations": [
+      "cuối tuần"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-288",
+    "hanzi": "祝",
+    "pinyin": "zhù",
+    "translations": [
+      "chúc"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-289",
+    "hanzi": "注意",
+    "pinyin": "zhùyì",
+    "translations": [
+      "chú ý"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-290",
+    "hanzi": "字典",
+    "pinyin": "zìdiǎn",
+    "translations": [
+      "từ điển"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-291",
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "translations": [
+      "bản thân"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-292",
+    "hanzi": "总是",
+    "pinyin": "zǒngshì",
+    "translations": [
+      "luôn luôn"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-293",
+    "hanzi": "最近",
+    "pinyin": "zuìjìn",
+    "translations": [
+      "gần đây"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-294",
+    "hanzi": "作业",
+    "pinyin": "zuòyè",
+    "translations": [
+      "bài tập về nhà"
+    ],
+    "level": 3
+  },
+  {
+    "id": "3-295",
+    "hanzi": "作用",
+    "pinyin": "zuòyòng",
+    "translations": [
+      "tác dụng"
+    ],
+    "level": 3
+  }
+]
