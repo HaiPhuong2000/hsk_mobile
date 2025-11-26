@@ -3,14 +3,17 @@ import * as Speech from 'expo-speech';
 import React, { useState } from 'react';
 import { Animated, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
+import { Example } from '../types';
+
 interface FlashcardProps {
   hanzi: string;
   pinyin: string;
   translations: string[];
+  examples?: Example[];
   onNext: () => void;
 }
 
-export const Flashcard: React.FC<FlashcardProps> = ({ hanzi, pinyin, translations, onNext }) => {
+export const Flashcard: React.FC<FlashcardProps> = ({ hanzi, pinyin, translations, examples, onNext }) => {
   const [isFlipped, setIsFlipped] = useState(false);
   const [flipAnim] = useState(new Animated.Value(0));
 
@@ -98,20 +101,56 @@ export const Flashcard: React.FC<FlashcardProps> = ({ hanzi, pinyin, translation
                 opacity: backOpacity,
               }
             ]}
-            className="absolute w-full h-full bg-dark-800/90 backdrop-blur-lg border-2 border-primary-500/30 rounded-3xl p-8 items-center justify-center shadow-2xl"
+            className="absolute w-full h-full bg-dark-800/90 backdrop-blur-lg border-2 border-primary-500/30 rounded-3xl p-6 shadow-2xl"
           >
-            <View className="items-center flex-1 justify-center">
-              <Text className="text-4xl font-bold text-white mb-3">{hanzi}</Text>
-              <Text className="text-xl text-primary-300 mb-8">{pinyin}</Text>
-              <View className="w-full px-4">
+            <View className="flex-1">
+              {/* Word Header */}
+              <View className="items-center mb-4">
+                <Text className="text-4xl font-bold text-white mb-2">{hanzi}</Text>
+                <Text className="text-xl text-primary-300 mb-1">{pinyin}</Text>
+              </View>
+
+              {/* Translations */}
+              <View className="mb-4">
                 {translations.map((translation, index) => (
-                  <Text key={index} className="text-dark-200 text-lg text-center leading-7 mb-2">
+                  <Text key={index} className="text-dark-200 text-base text-center leading-6 mb-1">
                     {translation}
                   </Text>
                 ))}
               </View>
+
+              {/* Examples */}
+              {examples && examples.length > 0 && (
+                <View className="flex-1">
+                  <View className="border-t border-white/10 pt-3 mb-2">
+                    <Text className="text-dark-400 text-xs font-semibold">VÍ DỤ</Text>
+                  </View>
+                  {examples.map((example, index) => (
+                    <View key={index} className="mb-3 bg-dark-700/30 rounded-xl p-3">
+                      <View className="flex-row justify-between items-start mb-1">
+                        <Text className="text-white text-base flex-1">{example.chinese}</Text>
+                        <TouchableOpacity 
+                          onPress={(e) => {
+                            e.stopPropagation();
+                            Speech.speak(example.chinese, {
+                              language: 'zh-CN',
+                              pitch: 1.0,
+                              rate: 0.75,
+                            });
+                          }}
+                          className="bg-primary-500/20 p-1.5 rounded-full ml-2"
+                        >
+                          <Ionicons name="volume-high" size={14} color="#a5b4fc" />
+                        </TouchableOpacity>
+                      </View>
+                      <Text className="text-primary-300 text-sm mb-0.5">{example.pinyin}</Text>
+                      <Text className="text-dark-300 text-sm">{example.vietnamese}</Text>
+                    </View>
+                  ))}
+                </View>
+              )}
             </View>
-            <View className="absolute bottom-6">
+            <View className="absolute bottom-6 left-0 right-0 items-center">
               <Text className="text-dark-400 text-sm">Nhấn để lật lại</Text>
             </View>
           </Animated.View>

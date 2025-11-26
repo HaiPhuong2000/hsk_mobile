@@ -201,8 +201,13 @@ export default function QuizScreen() {
   if (!selectedLevel) {
     return (
       <View className="flex-1 bg-dark-900 p-4">
-        <Text className="text-3xl font-bold text-white mb-3 text-center mt-10">
-          Chọn cấp độ HSK
+        <View className="flex-row items-center mb-6">
+          <TouchableOpacity onPress={() => router.back()} className="mr-4 bg-dark-800/80 p-3 rounded-full border border-white/10">
+            <Ionicons name="arrow-back" size={24} color="#a5b4fc" />
+          </TouchableOpacity>
+        </View>
+        <Text className="text-3xl font-bold text-white mb-3 text-center">
+          Trắc nghiệm
         </Text>
         <Text className="text-dark-300 text-center mb-8">
           Chọn cấp độ để bắt đầu trắc nghiệm

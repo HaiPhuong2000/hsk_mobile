@@ -142,7 +142,7 @@ export default function DashboardScreen() {
         {levelStats.map((stat) => (
           <TouchableOpacity
             key={stat.level}
-            onPress={() => router.push('/(tabs)/practice/quiz')}
+            onPress={() => router.push('/(tabs)/practice')}
             className="bg-dark-800/80 backdrop-blur-lg border border-white/10 rounded-2xl p-5 mb-3 shadow-lg active:bg-dark-800"
           >
             <View className="flex-row justify-between items-center mb-3">

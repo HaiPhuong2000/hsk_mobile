@@ -1,10 +1,12 @@
 import { WordCard } from '@/src/components/WordCard';
 import { allVocab } from '@/src/data';
 import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
 import React, { useMemo, useState } from 'react';
 import { FlatList, Text, TextInput, TouchableOpacity, View } from 'react-native';
 
 export default function VocabScreen() {
+  const router = useRouter();
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLevel, setSelectedLevel] = useState<number>(1); // Mặc định HSK 1
 
@@ -90,6 +92,7 @@ export default function VocabScreen() {
               pinyin={item.pinyin}
               translations={item.translations}
               level={item.level}
+              onPress={() => router.push(`/vocab/${item.id}`)}
             />
           </View>
         )}

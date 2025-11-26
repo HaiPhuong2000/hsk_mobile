@@ -8,9 +8,10 @@ interface WordCardProps {
   pinyin: string;
   translations: string[];
   level?: number;
+  onPress?: () => void;
 }
 
-export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations, level }) => {
+export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations, level, onPress }) => {
   const handleSpeak = () => {
     Speech.speak(hanzi, {
       language: 'zh-CN',
@@ -20,7 +21,11 @@ export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations,
   };
 
   return (
-    <View className="bg-dark-800/80 backdrop-blur-lg border border-white/10 rounded-2xl p-5 mb-3 shadow-lg">
+    <TouchableOpacity 
+      onPress={onPress}
+      activeOpacity={0.7}
+      className="bg-dark-800/80 backdrop-blur-lg border border-white/10 rounded-2xl p-5 mb-3 shadow-lg"
+    >
       <View className="flex-row justify-between items-start mb-3">
         <View className="flex-1">
           <Text className="text-4xl font-bold text-white mb-2">{hanzi}</Text>
@@ -33,7 +38,10 @@ export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations,
             </View>
           )}
           <TouchableOpacity 
-            onPress={handleSpeak}
+            onPress={(e) => {
+              e.stopPropagation();
+              handleSpeak();
+            }}
             className="bg-primary-500/20 p-3 rounded-full border border-primary-500/30 active:bg-primary-500/30"
           >
             <Ionicons name="volume-high" size={20} color="#a5b4fc" />
@@ -48,6 +56,6 @@ export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations,
           </Text>
         ))}
       </View>
-    </View>
+    </TouchableOpacity>
   );
 };

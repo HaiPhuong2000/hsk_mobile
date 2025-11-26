@@ -4,7 +4,10 @@ import { Ionicons } from '@expo/vector-icons';
 import React, { useEffect, useState } from 'react';
 import { FlatList, Text, TouchableOpacity, View } from 'react-native';
 
+import { useRouter } from 'expo-router';
+
 export default function FlashcardsScreen() {
+  const router = useRouter();
   const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [shuffledData, setShuffledData] = useState<any[]>([]);
@@ -29,11 +32,16 @@ export default function FlashcardsScreen() {
   if (!selectedLevel) {
     return (
       <View className="flex-1 bg-dark-900 p-4">
-        <Text className="text-3xl font-bold text-white mb-3 text-center mt-10">
-          Chọn cấp độ HSK
+        <View className="flex-row items-center mb-6">
+          <TouchableOpacity onPress={() => router.back()} className="mr-4 bg-dark-800/80 p-3 rounded-full border border-white/10">
+            <Ionicons name="arrow-back" size={24} color="#a5b4fc" />
+          </TouchableOpacity>
+        </View>
+        <Text className="text-3xl font-bold text-white mb-3 text-center">
+          Thẻ ghi nhớ
         </Text>
         <Text className="text-dark-300 text-center mb-8">
-          Chọn cấp độ để bắt đầu học
+          Chọn cấp độ để bắt đầu học từ vựng
         </Text>
         <FlatList
           data={[1, 2, 3, 4, 5, 6]}
@@ -84,6 +92,7 @@ export default function FlashcardsScreen() {
         hanzi={currentWord.hanzi}
         pinyin={currentWord.pinyin}
         translations={currentWord.translations}
+        examples={currentWord.examples}
         onNext={handleNext}
       />
     </View>

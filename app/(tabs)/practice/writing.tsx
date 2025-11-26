@@ -1,50 +1,77 @@
-import { HanziWriter } from '@/src/components/HanziWriter';
+import { WritingPractice } from '@/src/components/WritingPractice';
 import { getVocabByLevel } from '@/src/data';
+import { updateWordProgress } from '@/src/utils/storage';
 import { Ionicons } from '@expo/vector-icons';
-import React, { useEffect, useState } from 'react';
-import { FlatList, Switch, Text, TouchableOpacity, View } from 'react-native';
+import { useRouter } from 'expo-router';
+import React, { useState } from 'react';
+import { FlatList, Text, TouchableOpacity, View } from 'react-native';
 
 export default function WritingScreen() {
+  const router = useRouter();
   const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [isQuizMode, setIsQuizMode] = useState(false);
-  const [showOutline, setShowOutline] = useState(true);
-  const [feedback, setFeedback] = useState('');
-  const [vocabData, setVocabData] = useState<any[]>([]);
+  const [completed, setCompleted] = useState(false);
 
-  useEffect(() => {
-    if (selectedLevel) {
-      setVocabData(getVocabByLevel(selectedLevel));
-      setCurrentIndex(0);
+  const handleComplete = async (results: { wordId: string; correct: boolean }[]) => {
+    // Update progress for each word
+    for (const result of results) {
+      await updateWordProgress(result.wordId, result.correct);
     }
-  }, [selectedLevel]);
-
-  const handleNext = () => {
-    setFeedback('');
-    if (currentIndex < vocabData.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    } else {
-      setCurrentIndex(0);
-    }
+    setCompleted(true);
   };
 
-  const handleCorrect = () => {
-    setFeedback('Correct! Great job!');
+  const handleRestart = () => {
+    setCompleted(false);
+    setSelectedLevel(null);
   };
 
-  const handleMistake = () => {
-    setFeedback('Oops! Try again.');
-  };
+  if (completed) {
+    return (
+      <View className="flex-1 bg-dark-900 items-center justify-center p-6">
+        <View className="bg-dark-800/90 rounded-3xl p-8 items-center border border-primary-500/30">
+          <Ionicons name="ribbon" size={80} color="#a78bfa" />
+          <Text className="text-white text-3xl font-bold mt-4 mb-2">
+            Hoàn thành!
+          </Text>
+          <Text className="text-dark-300 text-lg mb-6">
+            Tiến độ đã được cập nhật
+          </Text>
+          <View className="flex-row gap-3">
+            <TouchableOpacity
+              onPress={handleRestart}
+              className="bg-primary-500 px-6 py-3 rounded-xl"
+            >
+              <Text className="text-white font-semibold">Làm lại</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => router.back()}
+              className="bg-dark-700 px-6 py-3 rounded-xl"
+            >
+              <Text className="text-dark-300 font-semibold">Quay lại</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </View>
+    );
+  }
 
   if (!selectedLevel) {
     return (
       <View className="flex-1 bg-dark-900 p-4">
-        <Text className="text-3xl font-bold text-white mb-3 text-center mt-10">
-          Chọn cấp độ luyện tập
-        </Text>
-        <Text className="text-dark-300 text-center mb-8">
-          Chọn cấp độ để luyện viết
-        </Text>
+        <View className="mb-6">
+          <TouchableOpacity
+            onPress={() => router.back()}
+            className="flex-row items-center gap-2 mb-4"
+          >
+            <Ionicons name="arrow-back" size={24} color="#a5b4fc" />
+            <Text className="text-primary-300 text-lg">Quay lại</Text>
+          </TouchableOpacity>
+          <Text className="text-3xl font-bold text-white mb-3 text-center mt-4">
+            Chọn cấp độ HSK
+          </Text>
+          <Text className="text-dark-300 text-center mb-8">
+            Chọn cấp độ để bắt đầu luyện viết chữ
+          </Text>
+        </View>
         <FlatList
           data={[1, 2, 3, 4, 5, 6]}
           numColumns={2}
@@ -65,67 +92,7 @@ export default function WritingScreen() {
     );
   }
 
-  const currentWord = vocabData[currentIndex];
-  if (!currentWord) return null;
-  
-  // HanziWriter works best with single characters. 
-  // For multi-char words, we might need multiple writers or just pick the first char for now.
-  // Let's just pick the first character of the word for simplicity in this MVP.
-  const charToPractice = currentWord.hanzi.charAt(0);
+  const words = getVocabByLevel(selectedLevel).slice(0, 5); // Limit to 5 words per session (writing takes longer)
 
-  return (
-    <View className="flex-1 bg-dark-900 p-4">
-      <View className="flex-row items-center mb-4">
-        <TouchableOpacity onPress={() => setSelectedLevel(null)} className="mr-4 bg-dark-800/80 p-3 rounded-full border border-white/10">
-          <Ionicons name="arrow-back" size={24} color="#a5b4fc" />
-        </TouchableOpacity>
-        <View className="flex-1 flex-row justify-between items-center bg-dark-800/80 backdrop-blur-lg border border-white/10 p-4 rounded-2xl shadow-lg">
-          <View>
-            <Text className="text-xl font-bold text-white">{currentWord.hanzi}</Text>
-            <Text className="text-primary-300">{currentWord.pinyin}</Text>
-          </View>
-          <View>
-            <Text className="text-dark-300 text-right text-sm">Cấp độ {currentWord.level}</Text>
-            <Text className="text-dark-400 text-xs text-right">Ký tự: {charToPractice}</Text>
-          </View>
-        </View>
-      </View>
-
-      <View className="h-80 w-full bg-white dark:bg-slate-800 rounded-xl shadow-sm overflow-hidden mb-4 border border-slate-200 dark:border-slate-700">
-        <HanziWriter 
-          key={`${charToPractice}-${isQuizMode}-${showOutline}`} // Force re-render on mode change
-          character={charToPractice}
-          mode={isQuizMode ? 'quiz' : 'animate'}
-          showOutline={showOutline}
-          onCorrect={handleCorrect}
-          onMistake={handleMistake}
-        />
-      </View>
-
-      {feedback ? (
-        <Text className={`text-center text-lg font-bold mb-4 ${feedback.includes('Correct') ? 'text-green-500' : 'text-red-500'}`}>
-          {feedback}
-        </Text>
-      ) : <View className="h-7" />}
-
-      <View className="bg-dark-800/80 backdrop-blur-lg border border-white/10 p-5 rounded-2xl shadow-lg mb-4">
-        <View className="flex-row justify-between items-center mb-4">
-          <Text className="text-white font-semibold">Chế độ kiểm tra</Text>
-          <Switch value={isQuizMode} onValueChange={setIsQuizMode} />
-        </View>
-        <View className="flex-row justify-between items-center">
-          <Text className="text-white font-semibold">Hiển thị viền</Text>
-          <Switch value={showOutline} onValueChange={setShowOutline} disabled={isQuizMode} />
-        </View>
-      </View>
-
-      <TouchableOpacity 
-        onPress={handleNext}
-        className="bg-purple-500 w-full py-4 rounded-2xl flex-row justify-center items-center shadow-lg active:bg-purple-600"
-      >
-        <Text className="text-white font-bold text-lg mr-2">Ký tự tiếp theo</Text>
-        <Ionicons name="arrow-forward" size={20} color="white" />
-      </TouchableOpacity>
-    </View>
-  );
+  return <WritingPractice words={words} onComplete={handleComplete} />;
 }

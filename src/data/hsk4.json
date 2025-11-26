@@ -6,7 +6,14 @@
     "translations": [
       "tình yêu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们的爱情很美好。",
+        "pinyin": "Tāmen de àiqíng hěn měihǎo.",
+        "vietnamese": "Tình yêu của họ rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-2",
@@ -15,7 +22,14 @@
     "translations": [
       "sắp xếp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我已经安排好了行程。",
+        "pinyin": "Wǒ yǐjīng ānpái hǎo le xíngchéng.",
+        "vietnamese": "Tôi đã sắp xếp xong hành trình."
+      }
+    ]
   },
   {
     "id": "4-3",
@@ -24,7 +38,14 @@
     "translations": [
       "an toàn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个地方很安全。",
+        "pinyin": "Zhège dìfāng hěn ānquán.",
+        "vietnamese": "Nơi này rất an toàn."
+      }
+    ]
   },
   {
     "id": "4-4",
@@ -33,7 +54,14 @@
     "translations": [
       "đúng hạn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们必须按时完成任务。",
+        "pinyin": "Wǒmen bìxū ànshí wánchéng rènwù.",
+        "vietnamese": "Chúng ta phải hoàn thành nhiệm vụ đúng giờ."
+      }
+    ]
   },
   {
     "id": "4-5",
@@ -42,7 +70,14 @@
     "translations": [
       "dựa vào, theo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请按照说明操作。",
+        "pinyin": "Qǐng ànzhào shuōmíng cāozuò.",
+        "vietnamese": "Vui lòng làm theo hướng dẫn."
+      }
+    ]
   },
   {
     "id": "4-6",
@@ -51,7 +86,14 @@
     "translations": [
       "%"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的考试成绩是百分之九十。",
+        "pinyin": "Tā de kǎoshì chéngjī shì bǎifēn zhī jiǔshí.",
+        "vietnamese": "Điểm thi của anh ấy là 90%."
+      }
+    ]
   },
   {
     "id": "4-7",
@@ -60,7 +102,14 @@
     "translations": [
       "cây gậy/ giỏi, tốt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你真棒！",
+        "pinyin": "Nǐ zhēn bàng!",
+        "vietnamese": "Bạn thật tuyệt!"
+      }
+    ]
   },
   {
     "id": "4-8",
@@ -69,7 +118,14 @@
     "translations": [
       "bánh bao"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢吃包子。",
+        "pinyin": "Wǒ xǐhuān chī bāozi.",
+        "vietnamese": "Tôi thích ăn bánh bao."
+      }
+    ]
   },
   {
     "id": "4-9",
@@ -78,7 +134,14 @@
     "translations": [
       "che chở, bảo vệ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们要保护环境。",
+        "pinyin": "Wǒmen yào bǎohù huánjìng.",
+        "vietnamese": "Chúng ta cần bảo vệ môi trường."
+      }
+    ]
   },
   {
     "id": "4-10",
@@ -87,7 +150,14 @@
     "translations": [
       "đảm bảo, cam đoan"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我保证完成任务。",
+        "pinyin": "Wǒ bǎozhèng wánchéng rènwù.",
+        "vietnamese": "Tôi cam đoan hoàn thành nhiệm vụ."
+      }
+    ]
   },
   {
     "id": "4-11",
@@ -96,7 +166,14 @@
     "translations": [
       "đăng kí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我报名参加了比赛。",
+        "pinyin": "Wǒ bàomíng cānjiā le bǐsài.",
+        "vietnamese": "Tôi đã đăng ký tham gia cuộc thi."
+      }
+    ]
   },
   {
     "id": "4-12",
@@ -105,7 +182,14 @@
     "translations": [
       "ôm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他抱了我。",
+        "pinyin": "Tā bào le wǒ.",
+        "vietnamese": "Anh ấy đã ôm tôi."
+      }
+    ]
   },
   {
     "id": "4-13",
@@ -114,7 +198,14 @@
     "translations": [
       "xin lỗi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "很抱歉，我来晚了。",
+        "pinyin": "Hěn bàoqiàn, wǒ lái wǎn le.",
+        "vietnamese": "Xin lỗi, tôi đến muộn."
+      }
+    ]
   },
   {
     "id": "4-14",
@@ -123,7 +214,14 @@
     "translations": [
       "lần"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "价格翻了两倍。",
+        "pinyin": "Jiàgé fān le liǎng bèi.",
+        "vietnamese": "Giá cả tăng gấp đôi."
+      }
+    ]
   },
   {
     "id": "4-15",
@@ -132,7 +230,14 @@
     "translations": [
       "vốn có"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "本来我不想去的。",
+        "pinyin": "Běnlái wǒ bù xiǎng qù de.",
+        "vietnamese": "Ban đầu tôi không muốn đi."
+      }
+    ]
   },
   {
     "id": "4-16",
@@ -141,7 +246,14 @@
     "translations": [
       "ngốc nghếch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有点笨，但很努力。",
+        "pinyin": "Tā yǒudiǎn bèn, dàn hěn nǔlì.",
+        "vietnamese": "Anh ấy hơi ngốc, nhưng rất nỗ lực."
+      }
+    ]
   },
   {
     "id": "4-17",
@@ -150,7 +262,14 @@
     "translations": [
       "ví dụ như"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "比如说，苹果和香蕉。",
+        "pinyin": "Bǐrú shuō, píngguǒ hé xiāngjiāo.",
+        "vietnamese": "Ví dụ như, táo và chuối."
+      }
+    ]
   },
   {
     "id": "4-18",
@@ -159,7 +278,14 @@
     "translations": [
       "tốt nghiệp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他今年大学毕业了。",
+        "pinyin": "Tā jīnnián dàxué bìyè le.",
+        "vietnamese": "Năm nay anh ấy tốt nghiệp đại học."
+      }
+    ]
   },
   {
     "id": "4-19",
@@ -168,7 +294,14 @@
     "translations": [
       "lần, lượt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书我看三遍了。",
+        "pinyin": "Zhè běn shū wǒ kàn sān biàn le.",
+        "vietnamese": "Tôi đã đọc cuốn sách này ba lần."
+      }
+    ]
   },
   {
     "id": "4-20",
@@ -177,7 +310,14 @@
     "translations": [
       "tiêu chuẩn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的中文发音很标准。",
+        "pinyin": "Tā de Zhōngwén fāyīn hěn biāozhǔn.",
+        "vietnamese": "Phát âm tiếng Trung của anh ấy rất chuẩn."
+      }
+    ]
   },
   {
     "id": "4-21",
@@ -186,7 +326,14 @@
     "translations": [
       "bảng biểu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请填写这张表格。",
+        "pinyin": "Qǐng tiánxiě zhè zhāng biǎogé.",
+        "vietnamese": "Vui lòng điền vào mẫu đơn này."
+      }
+    ]
   },
   {
     "id": "4-22",
@@ -195,7 +342,14 @@
     "translations": [
       "biểu thị, cho thấy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他表示同意。",
+        "pinyin": "Tā biǎoshì tóngyì.",
+        "vietnamese": "Anh ấy biểu thị đồng ý."
+      }
+    ]
   },
   {
     "id": "4-23",
@@ -204,7 +358,14 @@
     "translations": [
       "biểu diễn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的表演很精彩。",
+        "pinyin": "Tā de biǎoyǎn hěn jīngcǎi.",
+        "vietnamese": "Màn biểu diễn của cô ấy rất xuất sắc."
+      }
+    ]
   },
   {
     "id": "4-24",
@@ -213,7 +374,14 @@
     "translations": [
       "tuyên dương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "老师表扬了他。",
+        "pinyin": "Lǎoshī biǎoyáng le tā.",
+        "vietnamese": "Thầy giáo khen ngợi anh ấy."
+      }
+    ]
   },
   {
     "id": "4-25",
@@ -222,7 +390,14 @@
     "translations": [
       "bánh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢吃饼干。",
+        "pinyin": "Wǒ xǐhuān chī bǐnggān.",
+        "vietnamese": "Tôi thích ăn bánh quy."
+      }
+    ]
   },
   {
     "id": "4-26",
@@ -231,7 +406,14 @@
     "translations": [
       "đồng thời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她聪明并且努力。",
+        "pinyin": "Tā cōngmíng bìngqiě nǔlì.",
+        "vietnamese": "Cô ấy thông minh và chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-27",
@@ -240,7 +422,14 @@
     "translations": [
       "tiến sĩ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一个博士。",
+        "pinyin": "Tā shì yīgè bóshì.",
+        "vietnamese": "Anh ấy là một tiến sĩ."
+      }
+    ]
   },
   {
     "id": "4-28",
@@ -249,7 +438,14 @@
     "translations": [
       "đành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不得不去工作。",
+        "pinyin": "Wǒ bùdébù qù gōngzuò.",
+        "vietnamese": "Tôi không thể không đi làm."
+      }
+    ]
   },
   {
     "id": "4-29",
@@ -258,7 +454,14 @@
     "translations": [
       "bất kể"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "不管天气如何，我都会去。",
+        "pinyin": "Bùguǎn tiānqì rúhé, wǒ dōu huì qù.",
+        "vietnamese": "Bất kể thời tiết thế nào, tôi cũng sẽ đi."
+      }
+    ]
   },
   {
     "id": "4-30",
@@ -267,7 +470,14 @@
     "translations": [
       "nhưng, có điều"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "不过，这样更好。",
+        "pinyin": "Bùguò, zhèyàng gèng hǎo.",
+        "vietnamese": "có điều, như vậy tốt hơn."
+      }
+    ]
   },
   {
     "id": "4-31",
@@ -276,7 +486,14 @@
     "translations": [
       "không những"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他不仅聪明，而且很努力。",
+        "pinyin": "Tā bùjǐn cōngmíng, érqiě hěn nǔlì.",
+        "vietnamese": "Anh ấy không chỉ thông minh mà còn rất chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-32",
@@ -285,7 +502,14 @@
     "translations": [
       "bộ phận, phần"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这只是问题的一部分。",
+        "pinyin": "Zhè zhǐshì wèntí de yī bùfèn.",
+        "vietnamese": "Đây chỉ là một phần của vấn đề."
+      }
+    ]
   },
   {
     "id": "4-33",
@@ -294,7 +518,14 @@
     "translations": [
       "lau"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把桌子擦干净。",
+        "pinyin": "Qǐng bǎ zhuōzi cā gānjìng.",
+        "vietnamese": "Hãy lau sạch bàn."
+      }
+    ]
   },
   {
     "id": "4-34",
@@ -303,7 +534,14 @@
     "translations": [
       "đoán"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我猜他不会来。",
+        "pinyin": "Wǒ cāi tā bù huì lái.",
+        "vietnamese": "Tôi đoán anh ấy sẽ không đến."
+      }
+    ]
   },
   {
     "id": "4-35",
@@ -312,7 +550,14 @@
     "translations": [
       "tài liệu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请准备好材料。",
+        "pinyin": "Qǐng zhǔnbèi hǎo cáiliào.",
+        "vietnamese": "Hãy chuẩn bị sẵn tài liệu."
+      }
+    ]
   },
   {
     "id": "4-36",
@@ -321,7 +566,14 @@
     "translations": [
       "tham quan"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们要去参观博物馆。",
+        "pinyin": "Wǒmen yào qù cānguān bówùguǎn.",
+        "vietnamese": "Chúng ta sẽ đi tham quan bảo tàng."
+      }
+    ]
   },
   {
     "id": "4-37",
@@ -330,7 +582,14 @@
     "translations": [
       "căng tin, nhà ăn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们在餐厅吃饭。",
+        "pinyin": "Wǒmen zài cāntīng chīfàn.",
+        "vietnamese": "Chúng tôi ăn ở nhà hàng."
+      }
+    ]
   },
   {
     "id": "4-38",
@@ -339,7 +598,14 @@
     "translations": [
       "phòng vệ sinh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "厕所在那边。",
+        "pinyin": "Cèsuǒ zài nà biān.",
+        "vietnamese": "Nhà vệ sinh ở đằng kia."
+      }
+    ]
   },
   {
     "id": "4-39",
@@ -348,7 +614,14 @@
     "translations": [
       "gần như"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们差不多同岁。",
+        "pinyin": "Wǒmen chàbùduō tóng suì.",
+        "vietnamese": "Chúng ta gần bằng tuổi nhau."
+      }
+    ]
   },
   {
     "id": "4-40",
@@ -357,7 +630,14 @@
     "translations": [
       "Trường Thành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们参观了长城。",
+        "pinyin": "Wǒmen cānguān le Chángchéng.",
+        "vietnamese": "Chúng tôi đã tham quan Vạn Lý Trường Thành."
+      }
+    ]
   },
   {
     "id": "4-41",
@@ -366,7 +646,14 @@
     "translations": [
       "Trường Giang"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "长江是中国最长的河流。",
+        "pinyin": "Chángjiāng shì Zhōngguó zuì cháng de héliú.",
+        "vietnamese": "Trường Giang là con sông dài nhất Trung Quốc."
+      }
+    ]
   },
   {
     "id": "4-42",
@@ -375,7 +662,14 @@
     "translations": [
       "nếm thử"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你尝过这道菜吗？",
+        "pinyin": "Nǐ cháng guò zhè dào cài ma?",
+        "vietnamese": "Bạn đã từng thử món này chưa?"
+      }
+    ]
   },
   {
     "id": "4-43",
@@ -384,7 +678,14 @@
     "translations": [
       "trận, suất"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这场比赛很重要。",
+        "pinyin": "Zhè chǎng bǐsài hěn zhòngyào.",
+        "vietnamese": "Trận đấu này rất quan trọng."
+      }
+    ]
   },
   {
     "id": "4-44",
@@ -393,7 +694,14 @@
     "translations": [
       "vượt trên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他超过了我。",
+        "pinyin": "Tā chāoguò le wǒ.",
+        "vietnamese": "Anh ấy vượt qua tôi."
+      }
+    ]
   },
   {
     "id": "4-45",
@@ -402,7 +710,14 @@
     "translations": [
       "thành công"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她终于成功了。",
+        "pinyin": "Tā zhōngyú chénggōng le.",
+        "vietnamese": "Cuối cùng cô ấy đã thành công."
+      }
+    ]
   },
   {
     "id": "4-46",
@@ -411,7 +726,14 @@
     "translations": [
       "trở thành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他想成为医生。",
+        "pinyin": "Tā xiǎng chéngwéi yīshēng.",
+        "vietnamese": "Anh ấy muốn trở thành bác sĩ."
+      }
+    ]
   },
   {
     "id": "4-47",
@@ -420,7 +742,14 @@
     "translations": [
       "trung thực"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是个诚实的人。",
+        "pinyin": "Tā shì gè chéngshí de rén.",
+        "vietnamese": "Anh ấy là người thật thà."
+      }
+    ]
   },
   {
     "id": "4-48",
@@ -429,7 +758,14 @@
     "translations": [
       "ngồi xe"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们乘坐飞机去北京。",
+        "pinyin": "Wǒmen chéngzuò fēijī qù Běijīng.",
+        "vietnamese": "Chúng tôi đi máy bay đến Bắc Kinh."
+      }
+    ]
   },
   {
     "id": "4-49",
@@ -438,7 +774,14 @@
     "translations": [
       "ngạc nhiên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的消息让我很吃惊。",
+        "pinyin": "Tā de xiāoxi ràng wǒ hěn chījīng.",
+        "vietnamese": "Tin tức của cô ấy làm tôi rất ngạc nhiên."
+      }
+    ]
   },
   {
     "id": "4-50",
@@ -447,7 +790,14 @@
     "translations": [
       "làm lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我重新开始学习中文。",
+        "pinyin": "Wǒ chóngxīn kāishǐ xuéxí Zhōngwén.",
+        "vietnamese": "Tôi bắt đầu học lại tiếng Trung."
+      }
+    ]
   },
   {
     "id": "4-51",
@@ -456,7 +806,14 @@
     "translations": [
       "hút thuốc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请不要在这里抽烟。",
+        "pinyin": "Qǐng bùyào zài zhèlǐ chōuyān.",
+        "vietnamese": "Vui lòng không hút thuốc ở đây."
+      }
+    ]
   },
   {
     "id": "4-52",
@@ -465,7 +822,14 @@
     "translations": [
       "đi công tác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他经常出差。",
+        "pinyin": "Tā jīngcháng chūchāi.",
+        "vietnamese": "Anh ấy thường đi công tác."
+      }
+    ]
   },
   {
     "id": "4-53",
@@ -474,7 +838,14 @@
     "translations": [
       "xuất phát"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们早上七点出发。",
+        "pinyin": "Wǒmen zǎoshang qī diǎn chūfā.",
+        "vietnamese": "Chúng tôi khởi hành lúc 7 giờ sáng."
+      }
+    ]
   },
   {
     "id": "4-54",
@@ -483,7 +854,14 @@
     "translations": [
       "ra đời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我在越南出生。",
+        "pinyin": "Wǒ zài Yuènán chūshēng.",
+        "vietnamese": "Tôi sinh ra ở Việt Nam."
+      }
+    ]
   },
   {
     "id": "4-55",
@@ -492,7 +870,14 @@
     "translations": [
       "xuất hiện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "问题突然出现了。",
+        "pinyin": "Wèntí tūrán chūxiàn le.",
+        "vietnamese": "Vấn đề đột nhiên xuất hiện."
+      }
+    ]
   },
   {
     "id": "4-56",
@@ -501,7 +886,14 @@
     "translations": [
       "phòng bếp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她在厨房做饭。",
+        "pinyin": "Tā zài chúfáng zuòfàn.",
+        "vietnamese": "Cô ấy nấu ăn trong bếp."
+      }
+    ]
   },
   {
     "id": "4-57",
@@ -510,7 +902,14 @@
     "translations": [
       "fax, bản fax"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请发送传真。",
+        "pinyin": "Qǐng fāsòng chuánzhēn.",
+        "vietnamese": "Vui lòng gửi fax."
+      }
+    ]
   },
   {
     "id": "4-58",
@@ -519,7 +918,14 @@
     "translations": [
       "cửa sổ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "窗户开着。",
+        "pinyin": "Chuānghu kāizhe.",
+        "vietnamese": "Cửa sổ đang mở."
+      }
+    ]
   },
   {
     "id": "4-59",
@@ -528,7 +934,14 @@
     "translations": [
       "từ ngữ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请学习这些词语。",
+        "pinyin": "Qǐng xuéxí zhèxiē cíyǔ.",
+        "vietnamese": "Vui lòng học những từ này."
+      }
+    ]
   },
   {
     "id": "4-60",
@@ -537,7 +950,14 @@
     "translations": [
       "từ trước đến nay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我从来没见过他。",
+        "pinyin": "Wǒ cónglái méi jiànguò tā.",
+        "vietnamese": "Tôi chưa bao giờ gặp anh ấy."
+      }
+    ]
   },
   {
     "id": "4-61",
@@ -546,7 +966,14 @@
     "translations": [
       "thô lỗ, cẩu thả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他做事很粗心。",
+        "pinyin": "Tā zuòshì hěn cūxīn.",
+        "vietnamese": "Anh ấy làm việc rất cẩu thả."
+      }
+    ]
   },
   {
     "id": "4-62",
@@ -555,7 +982,14 @@
     "translations": [
       "giữ, tiết kiệm, tồn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我在银行存了钱。",
+        "pinyin": "Wǒ zài yínháng cún le qián.",
+        "vietnamese": "Tôi gửi tiền vào ngân hàng."
+      }
+    ]
   },
   {
     "id": "4-63",
@@ -564,7 +998,14 @@
     "translations": [
       "sai lầm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是我们的错误。",
+        "pinyin": "Zhè shì wǒmen de cuòwù.",
+        "vietnamese": "Đây là lỗi của chúng tôi."
+      }
+    ]
   },
   {
     "id": "4-64",
@@ -573,7 +1014,14 @@
     "translations": [
       "đáp án"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是正确的答案。",
+        "pinyin": "Zhè shì zhèngquè de dá'àn.",
+        "vietnamese": "Đây là đáp án đúng."
+      }
+    ]
   },
   {
     "id": "4-65",
@@ -582,7 +1030,14 @@
     "translations": [
       "trau chuốt, trang điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她打扮得很漂亮。",
+        "pinyin": "Tā dǎbàn de hěn piàoliang.",
+        "vietnamese": "Cô ấy trang điểm rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-66",
@@ -591,7 +1046,14 @@
     "translations": [
       "làm phiền"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "对不起，打扰一下。",
+        "pinyin": "Duìbùqǐ, dǎrǎo yīxià.",
+        "vietnamese": "Xin lỗi, làm phiền một chút."
+      }
+    ]
   },
   {
     "id": "4-67",
@@ -600,7 +1062,14 @@
     "translations": [
       "in ấn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请帮我打印这份文件。",
+        "pinyin": "Qǐng bāng wǒ dǎyìn zhè fèn wénjiàn.",
+        "vietnamese": "Vui lòng in giúp tôi tài liệu này."
+      }
+    ]
   },
   {
     "id": "4-68",
@@ -609,7 +1078,14 @@
     "translations": [
       "chào hỏi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他向我打招呼。",
+        "pinyin": "Tā xiàng wǒ dǎzhāohū.",
+        "vietnamese": "Anh ấy chào tôi."
+      }
+    ]
   },
   {
     "id": "4-69",
@@ -618,7 +1094,14 @@
     "translations": [
       "giảm giá"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "商店正在打折。",
+        "pinyin": "Shāngdiàn zhèngzài dǎzhé.",
+        "vietnamese": "Cửa hàng đang giảm giá."
+      }
+    ]
   },
   {
     "id": "4-70",
@@ -627,7 +1110,14 @@
     "translations": [
       "tiêm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不喜欢打针。",
+        "pinyin": "Wǒ bù xǐhuān dǎzhēn.",
+        "vietnamese": "Tôi không thích tiêm."
+      }
+    ]
   },
   {
     "id": "4-71",
@@ -636,7 +1126,14 @@
     "translations": [
       "khoảng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他大概十岁。",
+        "pinyin": "Tā dàgài shí suì.",
+        "vietnamese": "Cậu ấy khoảng mười tuổi."
+      }
+    ]
   },
   {
     "id": "4-72",
@@ -645,7 +1142,14 @@
     "translations": [
       "đại sứ quán"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们去了大使馆。",
+        "pinyin": "Wǒmen qùle dàshǐguǎn.",
+        "vietnamese": "Chúng tôi đã đến đại sứ quán."
+      }
+    ]
   },
   {
     "id": "4-73",
@@ -654,7 +1158,14 @@
     "translations": [
       "khoảng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们大约八点到。",
+        "pinyin": "Tāmen dàyuē bā diǎn dào.",
+        "vietnamese": "Họ đến khoảng tám giờ."
+      }
+    ]
   },
   {
     "id": "4-74",
@@ -663,7 +1174,14 @@
     "translations": [
       "bác sĩ, đại phu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "张大夫在医院工作。",
+        "pinyin": "Zhāng dàifū zài yīyuàn gōngzuò.",
+        "vietnamese": "Bác sĩ Trương làm việc ở bệnh viện."
+      }
+    ]
   },
   {
     "id": "4-75",
@@ -672,7 +1190,14 @@
     "translations": [
       "đeo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她戴着一顶帽子。",
+        "pinyin": "Tā dàizhe yī dǐng màozi.",
+        "vietnamese": "Cô ấy đội một chiếc mũ."
+      }
+    ]
   },
   {
     "id": "4-76",
@@ -681,7 +1206,14 @@
     "translations": [
       "làm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我当老师。",
+        "pinyin": "Wǒ dāng lǎoshī.",
+        "vietnamese": "Tôi làm giáo viên."
+      }
+    ]
   },
   {
     "id": "4-77",
@@ -690,7 +1222,14 @@
     "translations": [
       "lúc đó"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "当时我在学校。",
+        "pinyin": "Dāngshí wǒ zài xuéxiào.",
+        "vietnamese": "Lúc đó tôi đang ở trường."
+      }
+    ]
   },
   {
     "id": "4-78",
@@ -699,7 +1238,14 @@
     "translations": [
       "cái dao"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请小心那把刀。",
+        "pinyin": "Qǐng xiǎoxīn nà bǎ dāo.",
+        "vietnamese": "Hãy cẩn thận với con dao đó."
+      }
+    ]
   },
   {
     "id": "4-79",
@@ -708,7 +1254,14 @@
     "translations": [
       "hướng dẫn viên du lịch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "导游带我们参观了城市。",
+        "pinyin": "Dǎoyóu dài wǒmen cānguān le chéngshì.",
+        "vietnamese": "Hướng dẫn viên đã dẫn chúng tôi tham quan thành phố."
+      }
+    ]
   },
   {
     "id": "4-80",
@@ -717,7 +1270,14 @@
     "translations": [
       "khắp nơi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们到处找你。",
+        "pinyin": "Wǒmen dàochù zhǎo nǐ.",
+        "vietnamese": "Chúng tôi tìm bạn khắp nơi."
+      }
+    ]
   },
   {
     "id": "4-81",
@@ -726,7 +1286,14 @@
     "translations": [
       "cuối cùng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你到底在做什么？",
+        "pinyin": "Nǐ dàodǐ zài zuò shénme?",
+        "vietnamese": "Rốt cuộc bạn đang làm gì vậy?"
+      }
+    ]
   },
   {
     "id": "4-82",
@@ -735,7 +1302,14 @@
     "translations": [
       "đổ, ngã"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他把茶倒在了桌子上。",
+        "pinyin": "Tā bǎ chá dào zài le zhuōzi shàng.",
+        "vietnamese": "Anh ấy đổ trà lên bàn."
+      }
+    ]
   },
   {
     "id": "4-83",
@@ -744,7 +1318,14 @@
     "translations": [
       "xin lỗi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我向你道歉。",
+        "pinyin": "Wǒ xiàng nǐ dàoqiàn.",
+        "vietnamese": "Tôi xin lỗi bạn."
+      }
+    ]
   },
   {
     "id": "4-84",
@@ -753,7 +1334,14 @@
     "translations": [
       "đắc ý"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很得意自己的成绩。",
+        "pinyin": "Tā hěn déyì zìjǐ de chéngjī.",
+        "vietnamese": "Anh ấy rất tự hào về thành tích của mình."
+      }
+    ]
   },
   {
     "id": "4-85",
@@ -762,7 +1350,14 @@
     "translations": [
       "trợ từ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她学汉语学得很好。",
+        "pinyin": "Tā xué Hànyǔ xué de hěn hǎo",
+        "vietnamese": "Cô ấy học tiếng Hán rất giỏi."
+      }
+    ]
   },
   {
     "id": "4-86",
@@ -771,7 +1366,14 @@
     "translations": [
       "thẻ lên tàu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请拿好你的登机牌。",
+        "pinyin": "Qǐng ná hǎo nǐ de dēngjīpái.",
+        "vietnamese": "Vui lòng giữ kỹ thẻ lên máy bay của bạn."
+      }
+    ]
   },
   {
     "id": "4-87",
@@ -780,7 +1382,14 @@
     "translations": [
       "vân vân"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢听音乐、看电影等等。",
+        "pinyin": "Wǒ xǐhuān tīng yīnyuè, kàn diànyǐng, děng děng.",
+        "vietnamese": "Tôi thích nghe nhạc, xem phim,vv.."
+      }
+    ]
   },
   {
     "id": "4-88",
@@ -789,7 +1398,14 @@
     "translations": [
       "thấp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "一场大雨过后，地势低的地方积满了雨水。",
+        "pinyin": "Yī chǎng dàyǔ guòhòu, dìshì dī dì dìfāng jī mǎnle yǔshuǐ.",
+        "vietnamese": "Sau 1 trận mưa lớn, nơi địa thế thấp tích đầy nước mưa."
+      }
+    ]
   },
   {
     "id": "4-89",
@@ -798,7 +1414,14 @@
     "translations": [
       "đáy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "快到年底时谁都忙起来。",
+        "pinyin": "Kuài dào niándǐ shí shéi dōu máng qǐlái.",
+        "vietnamese": "Lúc sắp đến cuối năm ai cũng trở nên bận rộn."
+      }
+    ]
   },
   {
     "id": "4-90",
@@ -807,7 +1430,14 @@
     "translations": [
       "địa điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "会议地点在这里。",
+        "pinyin": "Huìyì dìdiǎn zài zhèlǐ.",
+        "vietnamese": "Địa điểm cuộc họp ở đây."
+      }
+    ]
   },
   {
     "id": "4-91",
@@ -816,7 +1446,14 @@
     "translations": [
       "địa cầu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "地球是圆的。",
+        "pinyin": "Dìqiú shì yuán de.",
+        "vietnamese": "Trái đất là hình tròn."
+      }
+    ]
   },
   {
     "id": "4-92",
@@ -825,7 +1462,14 @@
     "translations": [
       "địa chỉ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请告诉我你的地址。",
+        "pinyin": "Qǐng gàosu wǒ nǐ de dìzhǐ.",
+        "vietnamese": "Hãy cho tôi biết địa chỉ của bạn."
+      }
+    ]
   },
   {
     "id": "4-93",
@@ -834,7 +1478,14 @@
     "translations": [
       "điều tra"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要进行调查。",
+        "pinyin": "Wǒmen xūyào jìnxíng diàochá.",
+        "vietnamese": "Chúng tôi cần tiến hành điều tra."
+      }
+    ]
   },
   {
     "id": "4-94",
@@ -843,7 +1494,14 @@
     "translations": [
       "rơi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他掉了钥匙。",
+        "pinyin": "Tā diào le yàoshi.",
+        "vietnamese": "Anh ấy làm rơi chìa khóa."
+      }
+    ]
   },
   {
     "id": "4-95",
@@ -852,7 +1510,14 @@
     "translations": [
       "mất"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的书丢了。",
+        "pinyin": "Wǒ de shū diū le.",
+        "vietnamese": "Sách của tôi bị mất rồi."
+      }
+    ]
   },
   {
     "id": "4-96",
@@ -861,7 +1526,14 @@
     "translations": [
       "động tác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的动作很快。",
+        "pinyin": "Tā de dòngzuò hěn kuài.",
+        "vietnamese": "Hành động của anh ấy rất nhanh."
+      }
+    ]
   },
   {
     "id": "4-97",
@@ -870,7 +1542,14 @@
     "translations": [
       "tắc đường"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "上班时间常常堵车。",
+        "pinyin": "Shàngbān shíjiān chángcháng dǔchē.",
+        "vietnamese": "Giờ đi làm thường hay tắc đường."
+      }
+    ]
   },
   {
     "id": "4-98",
@@ -879,7 +1558,14 @@
     "translations": [
       "bụng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我肚子疼。",
+        "pinyin": "Wǒ dùzi téng.",
+        "vietnamese": "Tôi đau bụng."
+      }
+    ]
   },
   {
     "id": "4-99",
@@ -888,7 +1574,14 @@
     "translations": [
       "tin nhắn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他发了一条短信。",
+        "pinyin": "Tā fā le yī tiáo duǎnxìn.",
+        "vietnamese": "Anh ấy gửi một tin nhắn."
+      }
+    ]
   },
   {
     "id": "4-100",
@@ -897,7 +1590,14 @@
     "translations": [
       "hội thoại, đối thoại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们在进行对话。",
+        "pinyin": "Tāmen zài jìnxíng duìhuà.",
+        "vietnamese": "Họ đang đối thoại."
+      }
+    ]
   },
   {
     "id": "4-101",
@@ -906,7 +1606,14 @@
     "translations": [
       "đối diện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "银行在街的对面。",
+        "pinyin": "Yínháng zài jiē de duìmiàn.",
+        "vietnamese": "Ngân hàng ở phía đối diện của đường."
+      }
+    ]
   },
   {
     "id": "4-102",
@@ -915,7 +1622,14 @@
     "translations": [
       "về (vấn đề gì đó)"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "对于这个问题，我有不同的看法。",
+        "pinyin": "Duìyú zhège wèntí, wǒ yǒu bùtóng de kànfǎ.",
+        "vietnamese": "Đối với vấn đề này, tôi có quan điểm khác."
+      }
+    ]
   },
   {
     "id": "4-103",
@@ -924,7 +1638,14 @@
     "translations": [
       "trẻ con"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "儿童需要很多关爱。",
+        "pinyin": "Értóng xūyào hěn duō guān'ài.",
+        "vietnamese": "Trẻ em cần nhiều sự quan tâm."
+      }
+    ]
   },
   {
     "id": "4-104",
@@ -933,7 +1654,14 @@
     "translations": [
       "còn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他聪明而且努力。",
+        "pinyin": "Tā cōngmíng érqiě nǔlì.",
+        "vietnamese": "Anh ấy thông minh và chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-105",
@@ -942,7 +1670,14 @@
     "translations": [
       "xảy ra"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "事故晚上发生。",
+        "pinyin": "Shìgù wǎnshàng fāshēng.",
+        "vietnamese": "Tai nạn xảy ra vào buổi tối."
+      }
+    ]
   },
   {
     "id": "4-106",
@@ -951,7 +1686,14 @@
     "translations": [
       "phát triển"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "城市在快速发展。",
+        "pinyin": "Chéngshì zài kuàisù fāzhǎn.",
+        "vietnamese": "Thành phố đang phát triển nhanh chóng."
+      }
+    ]
   },
   {
     "id": "4-107",
@@ -960,7 +1702,14 @@
     "translations": [
       "pháp luật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "每个人都应该遵守法律。",
+        "pinyin": "Měi gèrén dōu yīnggāi zūnshǒu fǎlǜ.",
+        "vietnamese": "Mỗi người đều nên tuân thủ pháp luật."
+      }
+    ]
   },
   {
     "id": "4-108",
@@ -969,7 +1718,14 @@
     "translations": [
       "phiên dịch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把它翻译成越南语。",
+        "pinyin": "Qǐng bǎ tā fānyì chéng Yuènán yǔ.",
+        "vietnamese": "Làm ơn dịch nó sang tiếng Việt."
+      }
+    ]
   },
   {
     "id": "4-109",
@@ -978,7 +1734,14 @@
     "translations": [
       "phiền não"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有些烦恼。",
+        "pinyin": "Wǒ yǒu xiē fánnǎo.",
+        "vietnamese": "Tôi có chút phiền muộn."
+      }
+    ]
   },
   {
     "id": "4-110",
@@ -987,7 +1750,14 @@
     "translations": [
       "phản đối"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他反对这个计划。",
+        "pinyin": "Tā fǎnduì zhège jìhuà.",
+        "vietnamese": "Anh ấy phản đối kế hoạch này."
+      }
+    ]
   },
   {
     "id": "4-111",
@@ -996,7 +1766,14 @@
     "translations": [
       "phương pháp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有很多方法。",
+        "pinyin": "Tā yǒu hěn duō fāngfǎ.",
+        "vietnamese": "Anh ấy có nhiều phương pháp."
+      }
+    ]
   },
   {
     "id": "4-112",
@@ -1005,7 +1782,14 @@
     "translations": [
       "phương diện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们在这个方面有很多经验。",
+        "pinyin": "Wǒmen zài zhège fāngmiàn yǒu hěn duō jīngyàn.",
+        "vietnamese": "Chúng tôi có nhiều kinh nghiệm trong lĩnh vực này."
+      }
+    ]
   },
   {
     "id": "4-113",
@@ -1014,7 +1798,14 @@
     "translations": [
       "phương hướng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们向北走，方向正确。",
+        "pinyin": "Wǒmen xiàng běi zǒu, fāngxiàng zhèngquè.",
+        "vietnamese": "Chúng tôi đi về phía bắc, hướng đi đúng."
+      }
+    ]
   },
   {
     "id": "4-114",
@@ -1023,7 +1814,14 @@
     "translations": [
       "chủ nhà"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "房东每天早上都来。",
+        "pinyin": "Fángdōng měitiān zǎoshang dōu lái.",
+        "vietnamese": "Chủ nhà đến mỗi buổi sáng."
+      }
+    ]
   },
   {
     "id": "4-115",
@@ -1032,7 +1830,14 @@
     "translations": [
       "vứt bỏ, từ bỏ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他放弃了这个机会。",
+        "pinyin": "Tā fàngqì le zhège jīhuì.",
+        "vietnamese": "Anh ấy đã từ bỏ cơ hội này."
+      }
+    ]
   },
   {
     "id": "4-116",
@@ -1041,7 +1846,14 @@
     "translations": [
       "nghỉ hè"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们放暑假了。",
+        "pinyin": "Wǒmen fàng shǔjià le.",
+        "vietnamese": "Chúng tôi đã nghỉ hè."
+      }
+    ]
   },
   {
     "id": "4-117",
@@ -1050,7 +1862,14 @@
     "translations": [
       "thư giãn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "放松一下，别紧张。",
+        "pinyin": "Fàngsōng yīxià, bié jǐnzhāng.",
+        "vietnamese": "Thư giãn một chút, đừng căng thẳng."
+      }
+    ]
   },
   {
     "id": "4-118",
@@ -1059,7 +1878,14 @@
     "translations": [
       "phần"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是一份礼物。",
+        "pinyin": "Zhè shì yī fèn lǐwù.",
+        "vietnamese": "Đây là một món quà."
+      }
+    ]
   },
   {
     "id": "4-119",
@@ -1068,7 +1894,14 @@
     "translations": [
       "phong phú"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有丰富的经验。",
+        "pinyin": "Tā yǒu fēngfù de jīngyàn.",
+        "vietnamese": "Anh ấy có kinh nghiệm phong phú."
+      }
+    ]
   },
   {
     "id": "4-120",
@@ -1077,7 +1910,14 @@
     "translations": [
       "nếu không thì"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你得早点起床，否则会迟到。",
+        "pinyin": "Nǐ děi zǎodiǎn qǐchuáng, fǒuzé huì chídào.",
+        "vietnamese": "Bạn phải dậy sớm, nếu không sẽ bị trễ."
+      }
+    ]
   },
   {
     "id": "4-121",
@@ -1086,7 +1926,14 @@
     "translations": [
       "phù hợp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你的答案符合要求。",
+        "pinyin": "Nǐ de dá'àn fúhé yāoqiú.",
+        "vietnamese": "Câu trả lời của bạn đáp ứng yêu cầu."
+      }
+    ]
   },
   {
     "id": "4-122",
@@ -1095,7 +1942,14 @@
     "translations": [
       "bố"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的父亲很勤劳。",
+        "pinyin": "Wǒ de fùqīn hěn qínláo.",
+        "vietnamese": "Bố tôi rất chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-123",
@@ -1104,7 +1958,14 @@
     "translations": [
       "thanh toán"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们可以用信用卡付款。",
+        "pinyin": "Wǒmen kěyǐ yòng xìnyòngkǎ fùkuǎn.",
+        "vietnamese": "Chúng ta có thể thanh toán bằng thẻ tín dụng."
+      }
+    ]
   },
   {
     "id": "4-124",
@@ -1113,7 +1974,14 @@
     "translations": [
       "phụ trách"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他负责这项工作。",
+        "pinyin": "Tā fùzé zhè xiàng gōngzuò.",
+        "vietnamese": "Anh ấy phụ trách công việc này."
+      }
+    ]
   },
   {
     "id": "4-125",
@@ -1122,7 +1990,14 @@
     "translations": [
       "phô tô"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请帮我复印这份文件。",
+        "pinyin": "Qǐng bāng wǒ fùyìn zhè fèn wénjiàn.",
+        "vietnamese": "Vui lòng photo giúp tôi tài liệu này."
+      }
+    ]
   },
   {
     "id": "4-126",
@@ -1131,7 +2006,14 @@
     "translations": [
       "phức tạp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个问题很复杂。",
+        "pinyin": "Zhège wèntí hěn fùzá.",
+        "vietnamese": "Vấn đề này rất phức tạp."
+      }
+    ]
   },
   {
     "id": "4-127",
@@ -1140,7 +2022,14 @@
     "translations": [
       "giàu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们家很富。",
+        "pinyin": "Tāmen jiā hěn fù.",
+        "vietnamese": "Nhà họ rất giàu."
+      }
+    ]
   },
   {
     "id": "4-128",
@@ -1149,7 +2038,14 @@
     "translations": [
       "thay đổi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要改变计划。",
+        "pinyin": "Wǒmen xūyào gǎibiàn jìhuà.",
+        "vietnamese": "Chúng ta cần thay đổi kế hoạch."
+      }
+    ]
   },
   {
     "id": "4-129",
@@ -1158,7 +2054,14 @@
     "translations": [
       "cạn ly"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "为我们的成功干杯！",
+        "pinyin": "Wèi wǒmen de chénggōng gānbēi!",
+        "vietnamese": "Cạn ly vì thành công của chúng ta!"
+      }
+    ]
   },
   {
     "id": "4-130",
@@ -1167,7 +2070,14 @@
     "translations": [
       "đuổi theo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们必须赶上火车。",
+        "pinyin": "Wǒmen bìxū gǎn shàng huǒchē.",
+        "vietnamese": "Chúng ta phải kịp chuyến tàu."
+      }
+    ]
   },
   {
     "id": "4-131",
@@ -1176,7 +2086,14 @@
     "translations": [
       "dám"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不敢说。",
+        "pinyin": "Wǒ bù gǎn shuō.",
+        "vietnamese": "Tôi không dám nói."
+      }
+    ]
   },
   {
     "id": "4-132",
@@ -1185,7 +2102,14 @@
     "translations": [
       "cảm động"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的故事让我很感动。",
+        "pinyin": "Tā de gùshì ràng wǒ hěn gǎndòng.",
+        "vietnamese": "Câu chuyện của cô ấy làm tôi rất cảm động."
+      }
+    ]
   },
   {
     "id": "4-133",
@@ -1194,7 +2118,14 @@
     "translations": [
       "cảm giác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我感觉很累。",
+        "pinyin": "Wǒ gǎnjué hěn lèi.",
+        "vietnamese": "Tôi cảm thấy rất mệt."
+      }
+    ]
   },
   {
     "id": "4-134",
@@ -1203,7 +2134,14 @@
     "translations": [
       "tình cảm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们之间有很深的感情。",
+        "pinyin": "Tāmen zhī jiān yǒu hěn shēn de gǎnqíng.",
+        "vietnamese": "Giữa họ có tình cảm rất sâu đậm."
+      }
+    ]
   },
   {
     "id": "4-135",
@@ -1212,7 +2150,14 @@
     "translations": [
       "cảm ơn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "非常感谢你的帮助。",
+        "pinyin": "Fēicháng gǎnxiè nǐ de bāngzhù.",
+        "vietnamese": "Rất cảm ơn sự giúp đỡ của bạn."
+      }
+    ]
   },
   {
     "id": "4-136",
@@ -1221,7 +2166,14 @@
     "translations": [
       "khô"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "天气干燥。",
+        "pinyin": "Tiānqì gānzào.",
+        "vietnamese": "Thời tiết khô ráo."
+      }
+    ]
   },
   {
     "id": "4-137",
@@ -1230,7 +2182,14 @@
     "translations": [
       "vừa mới"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我刚到家。",
+        "pinyin": "Wǒ gāng dào jiā.",
+        "vietnamese": "Tôi vừa về đến nhà."
+      }
+    ]
   },
   {
     "id": "4-138",
@@ -1239,7 +2198,14 @@
     "translations": [
       "đường cao tốc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们在高速公路上开车。",
+        "pinyin": "Wǒmen zài gāosù gōnglù shàng kāichē.",
+        "vietnamese": "Chúng tôi lái xe trên đường cao tốc."
+      }
+    ]
   },
   {
     "id": "4-139",
@@ -1248,7 +2214,14 @@
     "translations": [
       "cánh tay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的胳膊疼。",
+        "pinyin": "Wǒ de gēbo téng.",
+        "vietnamese": "Cánh tay của tôi đau."
+      }
+    ]
   },
   {
     "id": "4-140",
@@ -1257,7 +2230,14 @@
     "translations": [
       "các"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "各种水果都很好吃。",
+        "pinyin": "Gè zhǒng shuǐguǒ dōu hěn hǎochī.",
+        "vietnamese": "Các loại trái cây đều rất ngon."
+      }
+    ]
   },
   {
     "id": "4-141",
@@ -1266,7 +2246,14 @@
     "translations": [
       "lương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他每个月的工资很高。",
+        "pinyin": "Tā měi gè yuè de gōngzī hěn gāo.",
+        "vietnamese": "Lương hàng tháng của anh ấy rất cao."
+      }
+    ]
   },
   {
     "id": "4-142",
@@ -1275,7 +2262,14 @@
     "translations": [
       "km"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们走了一公里。",
+        "pinyin": "Wǒmen zǒu le yī gōnglǐ.",
+        "vietnamese": "Chúng tôi đã đi được một kilomet."
+      }
+    ]
   },
   {
     "id": "4-143",
@@ -1284,7 +2278,14 @@
     "translations": [
       "công phu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他功夫很好。",
+        "pinyin": "Tā gōngfu hěn hǎo.",
+        "vietnamese": "Anh ấy giỏi võ."
+      }
+    ]
   },
   {
     "id": "4-144",
@@ -1293,7 +2294,14 @@
     "translations": [
       "giống nhau"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们有共同的兴趣爱好。",
+        "pinyin": "Wǒmen yǒu gòngtóng de xìngqù àihào.",
+        "vietnamese": "Chúng tôi có sở thích chung."
+      }
+    ]
   },
   {
     "id": "4-145",
@@ -1302,7 +2310,14 @@
     "translations": [
       "mua sắm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢购物。",
+        "pinyin": "Wǒ xǐhuān gòuwù.",
+        "vietnamese": "Tôi thích mua sắm."
+      }
+    ]
   },
   {
     "id": "4-146",
@@ -1311,7 +2326,14 @@
     "translations": [
       "đủ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这些水果够我们吃了。",
+        "pinyin": "Zhèxiē shuǐguǒ gòu wǒmen chī le.",
+        "vietnamese": "Những trái cây này đủ cho chúng ta ăn."
+      }
+    ]
   },
   {
     "id": "4-147",
@@ -1320,7 +2342,14 @@
     "translations": [
       "ước lượng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我估计他今天不会来了。",
+        "pinyin": "Wǒ gūjì tā jīntiān bù huì lái le.",
+        "vietnamese": "Tôi đoán anh ấy sẽ không đến hôm nay."
+      }
+    ]
   },
   {
     "id": "4-148",
@@ -1329,7 +2358,14 @@
     "translations": [
       "cổ vũ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他经常鼓励我。",
+        "pinyin": "Tā jīngcháng gǔlì wǒ.",
+        "vietnamese": "Anh ấy thường khích lệ tôi."
+      }
+    ]
   },
   {
     "id": "4-149",
@@ -1338,7 +2374,14 @@
     "translations": [
       "cố ý"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他故意不回答我的问题。",
+        "pinyin": "Tā gùyì bù huídá wǒ de wèntí.",
+        "vietnamese": "Anh ấy cố tình không trả lời câu hỏi của tôi."
+      }
+    ]
   },
   {
     "id": "4-150",
@@ -1347,7 +2390,14 @@
     "translations": [
       "khách hàng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个商店的顾客很多。",
+        "pinyin": "Zhège shāngdiàn de gùkè hěn duō.",
+        "vietnamese": "Cửa hàng này có nhiều khách hàng."
+      }
+    ]
   },
   {
     "id": "4-151",
@@ -1356,7 +2406,14 @@
     "translations": [
       "treo, ngắt điện thoại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把衣服挂起来。",
+        "pinyin": "Qǐng bǎ yīfu guà qǐlái.",
+        "vietnamese": "Vui lòng treo quần áo lên."
+      }
+    ]
   },
   {
     "id": "4-152",
@@ -1365,7 +2422,14 @@
     "translations": [
       "mấu chốt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是问题的关键。",
+        "pinyin": "Zhè shì wèntí de guānjiàn.",
+        "vietnamese": "Đây là điểm mấu chốt của vấn đề."
+      }
+    ]
   },
   {
     "id": "4-153",
@@ -1374,7 +2438,14 @@
     "translations": [
       "khán giả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "观众们都很满意。",
+        "pinyin": "Guānzhòngmen dōu hěn mǎnyì.",
+        "vietnamese": "Khán giả đều rất hài lòng."
+      }
+    ]
   },
   {
     "id": "4-154",
@@ -1383,7 +2454,14 @@
     "translations": [
       "quản lý"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他负责管理这个项目。",
+        "pinyin": "Tā fùzé guǎnlǐ zhège xiàngmù.",
+        "vietnamese": "Anh ấy phụ trách quản lý dự án này."
+      }
+    ]
   },
   {
     "id": "4-155",
@@ -1392,7 +2470,14 @@
     "translations": [
       "chỉ, hết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们都吃光了你才来。",
+        "pinyin": "Wǒmen dōu chī guāngle nǐ cái lái",
+        "vietnamese": "Tụi tôi ăn hết rồi bạn mới tới."
+      }
+    ]
   },
   {
     "id": "4-156",
@@ -1401,7 +2486,14 @@
     "translations": [
       "phát thanh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我每天听广播。",
+        "pinyin": "Wǒ měitiān tīng guǎngbò.",
+        "vietnamese": "Tôi nghe đài phát thanh mỗi ngày."
+      }
+    ]
   },
   {
     "id": "4-157",
@@ -1410,7 +2502,14 @@
     "translations": [
       "quảng cáo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "电视上有很多广告。",
+        "pinyin": "Diànshì shàng yǒu hěn duō guǎnggào.",
+        "vietnamese": "Trên TV có rất nhiều quảng cáo."
+      }
+    ]
   },
   {
     "id": "4-158",
@@ -1419,7 +2518,14 @@
     "translations": [
       "đi dạo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢逛街。",
+        "pinyin": "Wǒ xǐhuān guàngjiē.",
+        "vietnamese": "Tôi thích đi dạo phố."
+      }
+    ]
   },
   {
     "id": "4-159",
@@ -1428,7 +2534,14 @@
     "translations": [
       "qui định"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要遵守规定。",
+        "pinyin": "Wǒmen xūyào zūnshǒu guīdìng.",
+        "vietnamese": "Chúng ta cần tuân thủ quy định."
+      }
+    ]
   },
   {
     "id": "4-160",
@@ -1437,7 +2550,14 @@
     "translations": [
       "quốc tịch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你的国籍是什么？",
+        "pinyin": "Nǐ de guójí shì shénme?",
+        "vietnamese": "Quốc tịch của bạn là gì?"
+      }
+    ]
   },
   {
     "id": "4-161",
@@ -1446,7 +2566,14 @@
     "translations": [
       "quốc tế"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是一个国际会议。",
+        "pinyin": "Zhè shì yī gè guójì huìyì.",
+        "vietnamese": "Đây là một hội nghị quốc tế."
+      }
+    ]
   },
   {
     "id": "4-162",
@@ -1455,7 +2582,14 @@
     "translations": [
       "nước hoa quả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢喝果汁。",
+        "pinyin": "Wǒ xǐhuān hē guǒzhī.",
+        "vietnamese": "Tôi thích uống nước ép trái cây."
+      }
+    ]
   },
   {
     "id": "4-163",
@@ -1464,7 +2598,14 @@
     "translations": [
       "quá trình"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "整个过程很复杂。",
+        "pinyin": "Zhěnggè guòchéng hěn fùzá.",
+        "vietnamese": "Toàn bộ quá trình rất phức tạp."
+      }
+    ]
   },
   {
     "id": "4-164",
@@ -1473,7 +2614,14 @@
     "translations": [
       "đại dương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "海洋很广阔。",
+        "pinyin": "Hǎiyáng hěn guǎngkuò.",
+        "vietnamese": "Đại dương rất rộng lớn."
+      }
+    ]
   },
   {
     "id": "4-165",
@@ -1482,7 +2630,14 @@
     "translations": [
       "xấu hổ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很害羞。",
+        "pinyin": "Tā hěn hàixiū.",
+        "vietnamese": "Anh ấy rất ngại ngùng."
+      }
+    ]
   },
   {
     "id": "4-166",
@@ -1491,7 +2646,14 @@
     "translations": [
       "kì nghỉ đông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "寒假我们去旅行。",
+        "pinyin": "Hánjià wǒmen qù lǚxíng.",
+        "vietnamese": "Kỳ nghỉ đông chúng tôi đi du lịch."
+      }
+    ]
   },
   {
     "id": "4-167",
@@ -1500,7 +2662,14 @@
     "translations": [
       "mồ hôi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他流了很多汗。",
+        "pinyin": "Tā liú le hěn duō hàn.",
+        "vietnamese": "Anh ấy đổ rất nhiều mồ hôi."
+      }
+    ]
   },
   {
     "id": "4-168",
@@ -1509,7 +2678,14 @@
     "translations": [
       "chuyến bay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们的航班延误了。",
+        "pinyin": "Wǒmen de hángbān yánwù le.",
+        "vietnamese": "Chuyến bay của chúng tôi bị hoãn."
+      }
+    ]
   },
   {
     "id": "4-169",
@@ -1518,7 +2694,14 @@
     "translations": [
       "cái tốt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这样做有很多好处。",
+        "pinyin": "Zhèyàng zuò yǒu hěn duō hǎochù.",
+        "vietnamese": "Làm như vậy có rất nhiều lợi ích."
+      }
+    ]
   },
   {
     "id": "4-170",
@@ -1527,7 +2710,14 @@
     "translations": [
       "dường như"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他好像生病了。",
+        "pinyin": "Tā hǎoxiàng shēngbìng le.",
+        "vietnamese": "Anh ấy hình như bị ốm."
+      }
+    ]
   },
   {
     "id": "4-171",
@@ -1536,7 +2726,14 @@
     "translations": [
       "số"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请告诉我你的电话号码。",
+        "pinyin": "Qǐng gàosù wǒ nǐ de diànhuà hàomǎ.",
+        "vietnamese": "Hãy cho tôi biết số điện thoại của bạn."
+      }
+    ]
   },
   {
     "id": "4-172",
@@ -1545,7 +2742,14 @@
     "translations": [
       "đạt yêu cầu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的成绩很合格。",
+        "pinyin": "Tā de chéngjì hěn hégé.",
+        "vietnamese": "Thành tích của anh ấy đạt yêu cầu."
+      }
+    ]
   },
   {
     "id": "4-173",
@@ -1554,7 +2758,14 @@
     "translations": [
       "thích hợp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这件衣服很合适。",
+        "pinyin": "Zhè jiàn yīfú hěn héshì.",
+        "vietnamese": "Bộ quần áo này rất hợp."
+      }
+    ]
   },
   {
     "id": "4-174",
@@ -1563,7 +2774,14 @@
     "translations": [
       "cái hộp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他打开了盒子。",
+        "pinyin": "Tā dǎkāi le hézi.",
+        "vietnamese": "Anh ấy mở cái hộp ra."
+      }
+    ]
   },
   {
     "id": "4-175",
@@ -1572,7 +2790,14 @@
     "translations": [
       "hối hận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我后悔没去旅行。",
+        "pinyin": "Wǒ hòuhuǐ méi qù lǚxíng.",
+        "vietnamese": "Tôi hối hận vì đã không đi du lịch."
+      }
+    ]
   },
   {
     "id": "4-176",
@@ -1581,7 +2806,14 @@
     "translations": [
       "dày"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书很厚。",
+        "pinyin": "Zhè běn shū hěn hòu.",
+        "vietnamese": "Cuốn sách này rất dày."
+      }
+    ]
   },
   {
     "id": "4-177",
@@ -1590,7 +2822,14 @@
     "translations": [
       "mạng internet"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "互联网改变了我们的生活。",
+        "pinyin": "Hùliánwǎng gǎibiàn le wǒmen de shēnghuó.",
+        "vietnamese": "Internet đã thay đổi cuộc sống của chúng ta."
+      }
+    ]
   },
   {
     "id": "4-178",
@@ -1599,7 +2838,14 @@
     "translations": [
       "lẫn nhau"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们互相帮助。",
+        "pinyin": "Tāmen hùxiāng bāngzhù.",
+        "vietnamese": "Họ giúp đỡ lẫn nhau."
+      }
+    ]
   },
   {
     "id": "4-179",
@@ -1608,7 +2854,14 @@
     "translations": [
       "y tá"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "护士很辛苦。",
+        "pinyin": "Hùshì hěn xīnkǔ.",
+        "vietnamese": "Y tá rất vất vả."
+      }
+    ]
   },
   {
     "id": "4-180",
@@ -1617,7 +2870,14 @@
     "translations": [
       "nghi ngờ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我怀疑他在撒谎。",
+        "pinyin": "Wǒ huáiyí tā zài sāhuǎng.",
+        "vietnamese": "Tôi nghi ngờ anh ấy đang nói dối."
+      }
+    ]
   },
   {
     "id": "4-181",
@@ -1626,7 +2886,14 @@
     "translations": [
       "hồi ức, nhớ lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这些都是美好的回忆。",
+        "pinyin": "Zhèxiē dōu shì měihǎo de huíyì.",
+        "vietnamese": "Đây đều là những kỷ niệm đẹp."
+      }
+    ]
   },
   {
     "id": "4-182",
@@ -1635,7 +2902,14 @@
     "translations": [
       "hoạt động"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "学校组织了很多活动。",
+        "pinyin": "Xuéxiào zǔzhī le hěn duō huódòng.",
+        "vietnamese": "Trường học tổ chức nhiều hoạt động."
+      }
+    ]
   },
   {
     "id": "4-183",
@@ -1644,7 +2918,14 @@
     "translations": [
       "hoạt bát"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她很活泼。",
+        "pinyin": "Tā hěn huópō.",
+        "vietnamese": "Cô ấy rất hoạt bát."
+      }
+    ]
   },
   {
     "id": "4-184",
@@ -1653,7 +2934,14 @@
     "translations": [
       "lửa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "火很危险。",
+        "pinyin": "Huǒ hěn wēixiǎn.",
+        "vietnamese": "Lửa rất nguy hiểm."
+      }
+    ]
   },
   {
     "id": "4-185",
@@ -1662,7 +2950,14 @@
     "translations": [
       "giành được"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他获得了奖学金。",
+        "pinyin": "Tā huòdé le jiǎngxuéjīn.",
+        "vietnamese": "Anh ấy đã nhận được học bổng."
+      }
+    ]
   },
   {
     "id": "4-186",
@@ -1671,7 +2966,14 @@
     "translations": [
       "tích cực"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们应该积极面对生活。",
+        "pinyin": "Wǒmen yīnggāi jījí miànduì shēnghuó.",
+        "vietnamese": "Chúng ta nên tích cực đối mặt với cuộc sống."
+      }
+    ]
   },
   {
     "id": "4-187",
@@ -1680,7 +2982,14 @@
     "translations": [
       "tích lũy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他积累了很多经验。",
+        "pinyin": "Tā jīlěi le hěn duō jīngyàn.",
+        "vietnamese": "Anh ấy tích lũy được rất nhiều kinh nghiệm."
+      }
+    ]
   },
   {
     "id": "4-188",
@@ -1689,7 +2998,14 @@
     "translations": [
       "cơ sở, căn bản"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "基础知识很重要。",
+        "pinyin": "Jīchǔ zhīshì hěn zhòngyào.",
+        "vietnamese": "Kiến thức cơ bản rất quan trọng."
+      }
+    ]
   },
   {
     "id": "4-189",
@@ -1698,7 +3014,14 @@
     "translations": [
       "xúc động"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "听到这个消息我很激动。",
+        "pinyin": "Tīngdào zhège xiāoxī wǒ hěn jīdòng.",
+        "vietnamese": "Nghe tin này tôi rất xúc động."
+      }
+    ]
   },
   {
     "id": "4-190",
@@ -1707,7 +3030,14 @@
     "translations": [
       "kịp thời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他及时完成了任务。",
+        "pinyin": "Tā jíshí wánchéng le rènwù.",
+        "vietnamese": "Anh ấy hoàn thành nhiệm vụ đúng giờ."
+      }
+    ]
   },
   {
     "id": "4-191",
@@ -1716,7 +3046,14 @@
     "translations": [
       "cho dù"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "即使下雨我们也去。",
+        "pinyin": "Jíshǐ xiàyǔ wǒmen yě qù.",
+        "vietnamese": "Dù trời mưa chúng ta cũng đi."
+      }
+    ]
   },
   {
     "id": "4-192",
@@ -1725,7 +3062,14 @@
     "translations": [
       "kế hoạch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要制定计划。",
+        "pinyin": "Wǒmen xūyào zhìdìng jìhuà.",
+        "vietnamese": "Chúng ta cần lập kế hoạch."
+      }
+    ]
   },
   {
     "id": "4-193",
@@ -1734,7 +3078,14 @@
     "translations": [
       "phóng viên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "记者在现场报道。",
+        "pinyin": "Jìzhě zài xiànchǎng bàodǎo.",
+        "vietnamese": "Phóng viên đang tường thuật tại hiện trường."
+      }
+    ]
   },
   {
     "id": "4-194",
@@ -1743,7 +3094,14 @@
     "translations": [
       "kỹ thuật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他对技术很感兴趣。",
+        "pinyin": "Tā duì jìshù hěn gǎn xìngqù.",
+        "vietnamese": "Anh ấy rất hứng thú với công nghệ."
+      }
+    ]
   },
   {
     "id": "4-195",
@@ -1752,7 +3110,14 @@
     "translations": [
       "đã…."
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "既然你来了，就一起吃饭吧。",
+        "pinyin": "Jìrán nǐ lái le, jiù yīqǐ chīfàn ba.",
+        "vietnamese": "Đã bạn đến rồi, cùng ăn cơm nhé."
+      }
+    ]
   },
   {
     "id": "4-196",
@@ -1761,7 +3126,14 @@
     "translations": [
       "tiếp tục"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们继续学习。",
+        "pinyin": "Wǒmen jìxù xuéxí.",
+        "vietnamese": "Chúng ta tiếp tục học."
+      }
+    ]
   },
   {
     "id": "4-197",
@@ -1770,7 +3142,14 @@
     "translations": [
       "gửi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他给朋友寄了封信。",
+        "pinyin": "Tā gěi péngyǒu jì le fēng xìn.",
+        "vietnamese": "Anh ấy gửi một bức thư cho bạn."
+      }
+    ]
   },
   {
     "id": "4-198",
@@ -1779,7 +3158,14 @@
     "translations": [
       "tăng ca"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他常常加班。",
+        "pinyin": "Tā chángcháng jiābān.",
+        "vietnamese": "Anh ấy thường làm thêm giờ."
+      }
+    ]
   },
   {
     "id": "4-199",
@@ -1788,7 +3174,14 @@
     "translations": [
       "cây xăng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们在加油站加油。",
+        "pinyin": "Wǒmen zài jiāyóuzhàn jiāyóu.",
+        "vietnamese": "Chúng tôi đổ xăng tại trạm xăng."
+      }
+    ]
   },
   {
     "id": "4-200",
@@ -1797,7 +3190,14 @@
     "translations": [
       "đồ gia dụng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这家店卖很多家具。",
+        "pinyin": "Zhè jiā diàn mài hěn duō jiājù.",
+        "vietnamese": "Cửa hàng này bán rất nhiều đồ nội thất."
+      }
+    ]
   },
   {
     "id": "4-201",
@@ -1806,7 +3206,14 @@
     "translations": [
       "giả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个是假货。",
+        "pinyin": "Zhè ge shì jiǎ huò.",
+        "vietnamese": "Đây là hàng giả."
+      }
+    ]
   },
   {
     "id": "4-202",
@@ -1815,7 +3222,14 @@
     "translations": [
       "giá cả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个产品的价格很高。",
+        "pinyin": "Zhè ge chǎnpǐn de jiàgé hěn gāo.",
+        "vietnamese": "Giá của sản phẩm này rất cao."
+      }
+    ]
   },
   {
     "id": "4-203",
@@ -1824,7 +3238,14 @@
     "translations": [
       "kiên trì"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我每天坚持跑步。",
+        "pinyin": "Wǒ měitiān jiānchí pǎobù.",
+        "vietnamese": "Tôi kiên trì chạy bộ mỗi ngày."
+      }
+    ]
   },
   {
     "id": "4-204",
@@ -1833,7 +3254,14 @@
     "translations": [
       "giảm béo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她正在努力减肥。",
+        "pinyin": "Tā zhèngzài nǔlì jiǎnféi.",
+        "vietnamese": "Cô ấy đang cố gắng giảm cân."
+      }
+    ]
   },
   {
     "id": "4-205",
@@ -1842,7 +3270,14 @@
     "translations": [
       "cắt giảm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们应该减少浪费。",
+        "pinyin": "Wǒmen yīnggāi jiǎnshǎo làngfèi.",
+        "vietnamese": "Chúng ta nên giảm lãng phí."
+      }
+    ]
   },
   {
     "id": "4-206",
@@ -1851,7 +3286,14 @@
     "translations": [
       "kiến nghị"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有一个建议。",
+        "pinyin": "Wǒ yǒu yī ge jiànyì.",
+        "vietnamese": "Tôi có một đề xuất."
+      }
+    ]
   },
   {
     "id": "4-207",
@@ -1860,7 +3302,14 @@
     "translations": [
       "tương lai"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "将来我要当医生。",
+        "pinyin": "Jiānglái wǒ yào dāng yīshēng.",
+        "vietnamese": "Tương lai tôi muốn trở thành bác sĩ."
+      }
+    ]
   },
   {
     "id": "4-208",
@@ -1869,7 +3318,14 @@
     "translations": [
       "học bổng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "公司给了他奖金。",
+        "pinyin": "Gōngsī gěi le tā jiǎngjīn.",
+        "vietnamese": "Công ty đã thưởng tiền cho anh ấy."
+      }
+    ]
   },
   {
     "id": "4-209",
@@ -1878,7 +3334,14 @@
     "translations": [
       "hạ thấp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们降低了价格。",
+        "pinyin": "Tāmen jiàngdī le jiàgé.",
+        "vietnamese": "Họ đã giảm giá."
+      }
+    ]
   },
   {
     "id": "4-210",
@@ -1887,7 +3350,14 @@
     "translations": [
       "hạ cánh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "飞机准时降落。",
+        "pinyin": "Fēijī zhǔnshí jiàngluò.",
+        "vietnamese": "Máy bay hạ cánh đúng giờ."
+      }
+    ]
   },
   {
     "id": "4-211",
@@ -1896,7 +3366,14 @@
     "translations": [
       "giao"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我交了作业。",
+        "pinyin": "Wǒ jiāo le zuòyè.",
+        "vietnamese": "Tôi đã nộp bài tập."
+      }
+    ]
   },
   {
     "id": "4-212",
@@ -1905,7 +3382,14 @@
     "translations": [
       "giao lưu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们经常交流经验。",
+        "pinyin": "Wǒmen jīngcháng jiāoliú jīngyàn.",
+        "vietnamese": "Chúng tôi thường trao đổi kinh nghiệm."
+      }
+    ]
   },
   {
     "id": "4-213",
@@ -1914,7 +3398,14 @@
     "translations": [
       "giao thông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "交通很拥挤。",
+        "pinyin": "Jiāotōng hěn yōngjǐ.",
+        "vietnamese": "Giao thông rất tắc nghẽn."
+      }
+    ]
   },
   {
     "id": "4-214",
@@ -1923,7 +3414,14 @@
     "translations": [
       "ngoại ô"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我住在郊区。",
+        "pinyin": "Wǒ zhù zài jiāoqū.",
+        "vietnamese": "Tôi sống ở ngoại ô."
+      }
+    ]
   },
   {
     "id": "4-215",
@@ -1932,7 +3430,14 @@
     "translations": [
       "tự hào, kiêu ngạo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很骄傲。",
+        "pinyin": "Tā hěn jiāo'ào.",
+        "vietnamese": "Anh ấy rất tự hào."
+      }
+    ]
   },
   {
     "id": "4-216",
@@ -1941,7 +3446,14 @@
     "translations": [
       "sủi cảo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢吃饺子。",
+        "pinyin": "Wǒ xǐhuān chī jiǎozi.",
+        "vietnamese": "Tôi thích ăn bánh bao."
+      }
+    ]
   },
   {
     "id": "4-217",
@@ -1950,7 +3462,14 @@
     "translations": [
       "giáo sư"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是大学教授。",
+        "pinyin": "Tā shì dàxué jiàoshòu.",
+        "vietnamese": "Anh ấy là giáo sư đại học."
+      }
+    ]
   },
   {
     "id": "4-218",
@@ -1959,7 +3478,14 @@
     "translations": [
       "giáo dục"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "教育很重要。",
+        "pinyin": "Jiàoyù hěn zhòngyào.",
+        "vietnamese": "Giáo dục rất quan trọng."
+      }
+    ]
   },
   {
     "id": "4-219",
@@ -1968,7 +3494,14 @@
     "translations": [
       "tiếp nhận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我接受了他的邀请。",
+        "pinyin": "Wǒ jiēshòu le tā de yāoqǐng.",
+        "vietnamese": "Tôi đã nhận lời mời của anh ấy."
+      }
+    ]
   },
   {
     "id": "4-220",
@@ -1977,7 +3510,14 @@
     "translations": [
       "tiếp theo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "接着，我们去吃饭吧。",
+        "pinyin": "Jiēzhe, wǒmen qù chīfàn ba.",
+        "vietnamese": "Tiếp theo, chúng ta đi ăn nhé."
+      }
+    ]
   },
   {
     "id": "4-221",
@@ -1986,7 +3526,14 @@
     "translations": [
       "tiết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "春节是中国的传统节日。",
+        "pinyin": "Chūnjié shì Zhōngguó de chuántǒng jiérì.",
+        "vietnamese": "Tết Nguyên đán là ngày lễ truyền thống của Trung Quốc."
+      }
+    ]
   },
   {
     "id": "4-222",
@@ -1995,7 +3542,14 @@
     "translations": [
       "tiết kiệm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们要节约用水。",
+        "pinyin": "Wǒmen yào jiéyuē yòng shuǐ.",
+        "vietnamese": "Chúng ta phải tiết kiệm nước."
+      }
+    ]
   },
   {
     "id": "4-223",
@@ -2004,7 +3558,14 @@
     "translations": [
       "kết quả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "结果他成功了。",
+        "pinyin": "Jiéguǒ tā chénggōng le.",
+        "vietnamese": "Kết quả là anh ấy đã thành công."
+      }
+    ]
   },
   {
     "id": "4-224",
@@ -2013,7 +3574,14 @@
     "translations": [
       "giải thích"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他解释了这个问题。",
+        "pinyin": "Tā jiěshì le zhè ge wèntí.",
+        "vietnamese": "Anh ấy đã giải thích vấn đề này."
+      }
+    ]
   },
   {
     "id": "4-225",
@@ -2022,7 +3590,14 @@
     "translations": [
       "tuy rằng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "尽管下雨，他还是来了。",
+        "pinyin": "Jǐnguǎn xiàyǔ, tā háishì lái le.",
+        "vietnamese": "Dù trời mưa, anh ấy vẫn đến."
+      }
+    ]
   },
   {
     "id": "4-226",
@@ -2031,7 +3606,14 @@
     "translations": [
       "căng thẳng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我感到很紧张。",
+        "pinyin": "Wǒ gǎndào hěn jǐnzhāng.",
+        "vietnamese": "Tôi cảm thấy rất căng thẳng."
+      }
+    ]
   },
   {
     "id": "4-227",
@@ -2040,7 +3622,14 @@
     "translations": [
       "tiến hành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们正在进行讨论。",
+        "pinyin": "Wǒmen zhèngzài jìnxíng tǎolùn.",
+        "vietnamese": "Chúng tôi đang tiến hành thảo luận."
+      }
+    ]
   },
   {
     "id": "4-228",
@@ -2049,7 +3638,14 @@
     "translations": [
       "cấm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这里禁止吸烟。",
+        "pinyin": "Zhèlǐ jìnzhǐ xīyān.",
+        "vietnamese": "Ở đây cấm hút thuốc."
+      }
+    ]
   },
   {
     "id": "4-229",
@@ -2058,7 +3654,14 @@
     "translations": [
       "kinh kịch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢看京剧。",
+        "pinyin": "Wǒ xǐhuān kàn Jīngjù.",
+        "vietnamese": "Tôi thích xem Kinh kịch."
+      }
+    ]
   },
   {
     "id": "4-230",
@@ -2067,7 +3670,14 @@
     "translations": [
       "kinh tế"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "经济发展很快。",
+        "pinyin": "Jīngjì fāzhǎn hěn kuài.",
+        "vietnamese": "Kinh tế phát triển rất nhanh."
+      }
+    ]
   },
   {
     "id": "4-231",
@@ -2076,7 +3686,14 @@
     "translations": [
       "trải qua, kinh qua"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有丰富的经历。",
+        "pinyin": "Tā yǒu fēngfù de jīnglì.",
+        "vietnamese": "Anh ấy có nhiều kinh nghiệm."
+      }
+    ]
   },
   {
     "id": "4-232",
@@ -2085,7 +3702,14 @@
     "translations": [
       "kinh nghiệm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的经验很丰富。",
+        "pinyin": "Tā de jīngyàn hěn fēngfù.",
+        "vietnamese": "Kinh nghiệm của anh ấy rất phong phú."
+      }
+    ]
   },
   {
     "id": "4-233",
@@ -2094,7 +3718,14 @@
     "translations": [
       "hấp dẫn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "比赛非常精彩。",
+        "pinyin": "Bǐsài fēicháng jīngcǎi.",
+        "vietnamese": "Trận đấu rất xuất sắc."
+      }
+    ]
   },
   {
     "id": "4-234",
@@ -2103,7 +3734,14 @@
     "translations": [
       "cảnh sắc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "山上的景色很美。",
+        "pinyin": "Shānshàng de jǐngsè hěn měi.",
+        "vietnamese": "Cảnh trên núi rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-235",
@@ -2112,7 +3750,14 @@
     "translations": [
       "cảnh sát"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "警察在调查案件。",
+        "pinyin": "Jǐngchá zài diàochá ànjiàn.",
+        "vietnamese": "Cảnh sát đang điều tra vụ án."
+      }
+    ]
   },
   {
     "id": "4-236",
@@ -2121,7 +3766,14 @@
     "translations": [
       "cạnh tranh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "公司之间竞争激烈。",
+        "pinyin": "Gōngsī zhī jiān jìngzhēng jīliè.",
+        "vietnamese": "Cạnh tranh giữa các công ty rất khốc liệt."
+      }
+    ]
   },
   {
     "id": "4-237",
@@ -2130,7 +3782,14 @@
     "translations": [
       "vậy mà lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他竟然赢了比赛。",
+        "pinyin": "Tā jìngrán yíng le bǐsài.",
+        "vietnamese": "Anh ấy vậy mà lại chiến thắng trận đấu."
+      }
+    ]
   },
   {
     "id": "4-238",
@@ -2139,7 +3798,14 @@
     "translations": [
       "kính, gương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "镜子里有个陌生人。",
+        "pinyin": "Jìngzi lǐ yǒu gè mòshēng rén.",
+        "vietnamese": "Trong gương có một người lạ."
+      }
+    ]
   },
   {
     "id": "4-239",
@@ -2148,7 +3814,14 @@
     "translations": [
       "rốt cuộc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "究竟发生了什么事？",
+        "pinyin": "Jiūjìng fāshēng le shénme shì?",
+        "vietnamese": "Rốt cuộc đã xảy ra chuyện gì?"
+      }
+    ]
   },
   {
     "id": "4-240",
@@ -2157,7 +3830,14 @@
     "translations": [
       "giơ, nâng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他举手回答问题。",
+        "pinyin": "Tā jǔshǒu huídá wèntí.",
+        "vietnamese": "Anh ấy giơ tay trả lời câu hỏi."
+      }
+    ]
   },
   {
     "id": "4-241",
@@ -2166,7 +3846,14 @@
     "translations": [
       "tổ chức"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "学校举办了一个音乐会。",
+        "pinyin": "Xuéxiào jǔbàn le yī gè yīnyuè huì.",
+        "vietnamese": "Trường tổ chức một buổi hòa nhạc."
+      }
+    ]
   },
   {
     "id": "4-242",
@@ -2175,7 +3862,14 @@
     "translations": [
       "tổ chức"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "会议在北京举行。",
+        "pinyin": "Huìyì zài Běijīng jǔxíng.",
+        "vietnamese": "Hội nghị được tổ chức tại Bắc Kinh."
+      }
+    ]
   },
   {
     "id": "4-243",
@@ -2184,7 +3878,14 @@
     "translations": [
       "từ chối"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他拒绝了我的邀请。",
+        "pinyin": "Tā jùjué le wǒ de yāoqǐng.",
+        "vietnamese": "Anh ấy từ chối lời mời của tôi."
+      }
+    ]
   },
   {
     "id": "4-244",
@@ -2193,7 +3894,14 @@
     "translations": [
       "khoảng cách"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "学校到我们家的距离很远。",
+        "pinyin": "Xuéxiào dào wǒmen jiā de jùlí hěn yuǎn.",
+        "vietnamese": "Trường học cách nhà chúng tôi rất xa."
+      }
+    ]
   },
   {
     "id": "4-245",
@@ -2202,7 +3910,14 @@
     "translations": [
       "tụ tập"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们下个星期有个聚会。",
+        "pinyin": "Wǒmen xià gè xīngqī yǒu gè jùhuì.",
+        "vietnamese": "Tuần sau chúng tôi có một buổi họp mặt."
+      }
+    ]
   },
   {
     "id": "4-246",
@@ -2211,7 +3926,14 @@
     "translations": [
       "đùa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他喜欢开玩笑。",
+        "pinyin": "Tā xǐhuān kāiwánxiào.",
+        "vietnamese": "Anh ấy thích đùa giỡn."
+      }
+    ]
   },
   {
     "id": "4-247",
@@ -2220,7 +3942,14 @@
     "translations": [
       "vui vẻ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天我很开心。",
+        "pinyin": "Jīntiān wǒ hěn kāixīn.",
+        "vietnamese": "Hôm nay tôi rất vui."
+      }
+    ]
   },
   {
     "id": "4-248",
@@ -2229,7 +3958,14 @@
     "translations": [
       "quan điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你的看法是什么？",
+        "pinyin": "Nǐ de kànfǎ shì shénme?",
+        "vietnamese": "Quan điểm của bạn là gì?"
+      }
+    ]
   },
   {
     "id": "4-249",
@@ -2238,7 +3974,14 @@
     "translations": [
       "suy nghĩ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我会考虑你的建议。",
+        "pinyin": "Wǒ huì kǎolǜ nǐ de jiànyì.",
+        "vietnamese": "Tôi sẽ xem xét đề nghị của bạn."
+      }
+    ]
   },
   {
     "id": "4-250",
@@ -2247,7 +3990,14 @@
     "translations": [
       "vịt quay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "北京烤鸭很好吃。",
+        "pinyin": "Běijīng kǎoyā hěn hǎochī.",
+        "vietnamese": "Vịt quay Bắc Kinh rất ngon."
+      }
+    ]
   },
   {
     "id": "4-251",
@@ -2256,7 +4006,14 @@
     "translations": [
       "khoa học"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "科学是非常重要的学科。",
+        "pinyin": "Kēxué shì fēicháng zhòngyào de xuékē.",
+        "vietnamese": "Khoa học là một môn học rất quan trọng."
+      }
+    ]
   },
   {
     "id": "4-252",
@@ -2265,7 +4022,14 @@
     "translations": [
       "lượng từ cho cây"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "花园里有很多棵树。",
+        "pinyin": "Huāyuán lǐ yǒu hěn duō kē shù.",
+        "vietnamese": "Trong vườn có rất nhiều cây."
+      }
+    ]
   },
   {
     "id": "4-253",
@@ -2274,7 +4038,14 @@
     "translations": [
       "ho"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我感冒了，咳嗽很厉害。",
+        "pinyin": "Wǒ gǎnmào le, késou hěn lìhài.",
+        "vietnamese": "Tôi bị cảm, ho rất nặng."
+      }
+    ]
   },
   {
     "id": "4-254",
@@ -2283,7 +4054,14 @@
     "translations": [
       "đáng thương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很可怜，需要帮助。",
+        "pinyin": "Tā hěn kělián, xūyào bāngzhù.",
+        "vietnamese": "Anh ấy rất đáng thương, cần sự giúp đỡ."
+      }
+    ]
   },
   {
     "id": "4-255",
@@ -2292,7 +4070,14 @@
     "translations": [
       "nhưng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我很想去，可是没有时间。",
+        "pinyin": "Wǒ hěn xiǎng qù, kěshì méiyǒu shíjiān.",
+        "vietnamese": "Tôi rất muốn đi, nhưng không có thời gian."
+      }
+    ]
   },
   {
     "id": "4-256",
@@ -2301,7 +4086,14 @@
     "translations": [
       "đáng tiếc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "太可惜了，我没看到。",
+        "pinyin": "Tài kěxī le, wǒ méi kàndào.",
+        "vietnamese": "Thật đáng tiếc, tôi đã không thấy."
+      }
+    ]
   },
   {
     "id": "4-257",
@@ -2310,7 +4102,14 @@
     "translations": [
       "phòng khách"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "客厅里有很多家具。",
+        "pinyin": "Kètīng lǐ yǒu hěn duō jiājù.",
+        "vietnamese": "Trong phòng khách có rất nhiều đồ nội thất."
+      }
+    ]
   },
   {
     "id": "4-258",
@@ -2319,7 +4118,14 @@
     "translations": [
       "khẳng định"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这件事肯定是真的。",
+        "pinyin": "Zhè jiàn shì kěndìng shì zhēn de.",
+        "vietnamese": "Chuyện này chắc chắn là thật."
+      }
+    ]
   },
   {
     "id": "4-259",
@@ -2328,7 +4134,14 @@
     "translations": [
       "trống rỗng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "房间里空无一人。",
+        "pinyin": "Fángjiān lǐ kōng wú yī rén.",
+        "vietnamese": "Phòng trống không một ai."
+      }
+    ]
   },
   {
     "id": "4-260",
@@ -2337,7 +4150,14 @@
     "translations": [
       "không khí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "山上的空气很新鲜。",
+        "pinyin": "Shānshàng de kōngqì hěn xīnxiān.",
+        "vietnamese": "Không khí trên núi rất trong lành."
+      }
+    ]
   },
   {
     "id": "4-261",
@@ -2346,7 +4166,14 @@
     "translations": [
       "e rằng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我恐怕他不会来了。",
+        "pinyin": "Wǒ kǒngpà tā bù huì lái le.",
+        "vietnamese": "Tôi sợ rằng anh ấy sẽ không đến."
+      }
+    ]
   },
   {
     "id": "4-262",
@@ -2355,7 +4182,14 @@
     "translations": [
       "khổ, đắng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个药很苦。",
+        "pinyin": "Zhè ge yào hěn kǔ.",
+        "vietnamese": "Thuốc này rất đắng."
+      }
+    ]
   },
   {
     "id": "4-263",
@@ -2364,7 +4198,14 @@
     "translations": [
       "nước khoáng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢喝矿泉水。",
+        "pinyin": "Wǒ xǐhuān hē kuàngquánshuǐ.",
+        "vietnamese": "Tôi thích uống nước khoáng."
+      }
+    ]
   },
   {
     "id": "4-264",
@@ -2373,7 +4214,14 @@
     "translations": [
       "buồn ngủ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我昨晚没睡好，很困。",
+        "pinyin": "Wǒ zuówǎn méi shuì hǎo, hěn kùn.",
+        "vietnamese": "Tối qua tôi ngủ không ngon, rất buồn ngủ."
+      }
+    ]
   },
   {
     "id": "4-265",
@@ -2382,7 +4230,14 @@
     "translations": [
       "khó khăn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "学习汉语很困难。",
+        "pinyin": "Xuéxí Hànyǔ hěn kùnnán.",
+        "vietnamese": "Học tiếng Trung rất khó."
+      }
+    ]
   },
   {
     "id": "4-266",
@@ -2391,7 +4246,14 @@
     "translations": [
       "thùng rác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把垃圾扔进垃圾桶。",
+        "pinyin": "Qǐng bǎ lājī rēng jìn lājītǒng.",
+        "vietnamese": "Vui lòng bỏ rác vào thùng rác."
+      }
+    ]
   },
   {
     "id": "4-267",
@@ -2400,7 +4262,14 @@
     "translations": [
       "kéo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他把箱子拉到房间里。",
+        "pinyin": "Tā bǎ xiāngzi lā dào fángjiān lǐ.",
+        "vietnamese": "Anh ấy kéo vali vào phòng."
+      }
+    ]
   },
   {
     "id": "4-268",
@@ -2409,7 +4278,14 @@
     "translations": [
       "cay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不喜欢吃辣的东西。",
+        "pinyin": "Wǒ bù xǐhuān chī là de dōngxī.",
+        "vietnamese": "Tôi không thích ăn đồ cay."
+      }
+    ]
   },
   {
     "id": "4-269",
@@ -2418,7 +4294,14 @@
     "translations": [
       "không kịp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们来不及赶飞机了。",
+        "pinyin": "Wǒmen láibují gǎn fēijī le.",
+        "vietnamese": "Chúng tôi không kịp chuyến bay rồi."
+      }
+    ]
   },
   {
     "id": "4-270",
@@ -2427,7 +4310,14 @@
     "translations": [
       "kịp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你来得及去火车站。",
+        "pinyin": "Nǐ láidéjí qù huǒchē zhàn.",
+        "vietnamese": "Bạn kịp giờ đi đến ga tàu."
+      }
+    ]
   },
   {
     "id": "4-271",
@@ -2436,7 +4326,14 @@
     "translations": [
       "đến từ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他来自中国。",
+        "pinyin": "Tā láizì Zhōngguó.",
+        "vietnamese": "Anh ấy đến từ Trung Quốc."
+      }
+    ]
   },
   {
     "id": "4-272",
@@ -2445,7 +4342,14 @@
     "translations": [
       "lười biếng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很懒，不喜欢工作。",
+        "pinyin": "Tā hěn lǎn, bù xǐhuān gōngzuò.",
+        "vietnamese": "Anh ấy rất lười, không thích làm việc."
+      }
+    ]
   },
   {
     "id": "4-273",
@@ -2454,7 +4358,14 @@
     "translations": [
       "lãng phí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们应该避免浪费时间。",
+        "pinyin": "Wǒmen yīnggāi bìmiǎn làngfèi shíjiān.",
+        "vietnamese": "Chúng ta nên tránh lãng phí thời gian."
+      }
+    ]
   },
   {
     "id": "4-274",
@@ -2463,7 +4374,14 @@
     "translations": [
       "lãng mạn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们的故事很浪漫。",
+        "pinyin": "Tāmen de gùshì hěn làngmàn.",
+        "vietnamese": "Câu chuyện của họ rất lãng mạn."
+      }
+    ]
   },
   {
     "id": "4-275",
@@ -2472,7 +4390,14 @@
     "translations": [
       "hổ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "动物园里有一只老虎。",
+        "pinyin": "Dòngwùyuán lǐ yǒu yī zhī lǎohǔ.",
+        "vietnamese": "Trong sở thú có một con hổ."
+      }
+    ]
   },
   {
     "id": "4-276",
@@ -2481,7 +4406,14 @@
     "translations": [
       "bình tĩnh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请冷静下来，不要生气。",
+        "pinyin": "Qǐng lěngjìng xiàlái, bùyào shēngqì.",
+        "vietnamese": "Xin hãy bình tĩnh lại, đừng tức giận."
+      }
+    ]
   },
   {
     "id": "4-277",
@@ -2490,7 +4422,14 @@
     "translations": [
       "chủ nhật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们星期天去公园。",
+        "pinyin": "Wǒmen xīngqītiān qù gōngyuán.",
+        "vietnamese": "Chủ nhật chúng ta đi công viên."
+      }
+    ]
   },
   {
     "id": "4-278",
@@ -2499,7 +4438,14 @@
     "translations": [
       "lễ phép, lịch sự"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他对人很有礼貌。",
+        "pinyin": "Tā duì rén hěn yǒu lǐmào.",
+        "vietnamese": "Anh ấy rất lịch sự với mọi người."
+      }
+    ]
   },
   {
     "id": "4-279",
@@ -2508,7 +4454,14 @@
     "translations": [
       "cắt tóc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天我要去理发。",
+        "pinyin": "Jīntiān wǒ yào qù lǐfà.",
+        "vietnamese": "Hôm nay tôi sẽ đi cắt tóc."
+      }
+    ]
   },
   {
     "id": "4-280",
@@ -2517,7 +4470,14 @@
     "translations": [
       "lý giải, hiểu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不理解你的意思。",
+        "pinyin": "Wǒ bù lǐjiě nǐ de yìsi.",
+        "vietnamese": "Tôi không hiểu ý của bạn."
+      }
+    ]
   },
   {
     "id": "4-281",
@@ -2526,7 +4486,14 @@
     "translations": [
       "lý tưởng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的理想是当医生。",
+        "pinyin": "Tā de lǐxiǎng shì dāng yīshēng.",
+        "vietnamese": "Lý tưởng của anh ấy là trở thành bác sĩ."
+      }
+    ]
   },
   {
     "id": "4-282",
@@ -2535,7 +4502,14 @@
     "translations": [
       "sức lực"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我没有力气搬动这张桌子。",
+        "pinyin": "Wǒ méiyǒu lìqì bāndòng zhè zhāng zhuōzi.",
+        "vietnamese": "Tôi không có sức để di chuyển cái bàn này."
+      }
+    ]
   },
   {
     "id": "4-283",
@@ -2544,7 +4518,14 @@
     "translations": [
       "lợi hại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的汉语说得很厉害。",
+        "pinyin": "Tā de Hànyǔ shuō de hěn lìhài.",
+        "vietnamese": "Anh ấy nói tiếng Trung rất giỏi."
+      }
+    ]
   },
   {
     "id": "4-284",
@@ -2553,7 +4534,14 @@
     "translations": [
       "ví dụ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "例如，苹果和香蕉都是水果。",
+        "pinyin": "Lìrú, píngguǒ hé xiāngjiāo dōu shì shuǐguǒ.",
+        "vietnamese": "Ví dụ, táo và chuối đều là trái cây."
+      }
+    ]
   },
   {
     "id": "4-285",
@@ -2562,7 +4550,14 @@
     "translations": [
       "hai người"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们俩是好朋友。",
+        "pinyin": "Wǒmen liǎ shì hǎo péngyǒu.",
+        "vietnamese": "Hai chúng tôi là bạn tốt."
+      }
+    ]
   },
   {
     "id": "4-286",
@@ -2571,7 +4566,14 @@
     "translations": [
       "liên kết, nối"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他连书都没带。",
+        "pinyin": "Tā lián shū dōu méi dài.",
+        "vietnamese": "Anh ấy thậm chí còn không mang sách."
+      }
+    ]
   },
   {
     "id": "4-287",
@@ -2580,7 +4582,14 @@
     "translations": [
       "liên hệ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我会联系你。",
+        "pinyin": "Wǒ huì liánxì nǐ.",
+        "vietnamese": "Tôi sẽ liên lạc với bạn."
+      }
+    ]
   },
   {
     "id": "4-288",
@@ -2589,7 +4598,14 @@
     "translations": [
       "mát mẻ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天很凉快。",
+        "pinyin": "Jīntiān hěn liángkuai.",
+        "vietnamese": "Hôm nay rất mát mẻ."
+      }
+    ]
   },
   {
     "id": "4-289",
@@ -2598,7 +4614,14 @@
     "translations": [
       "tiền lẻ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有一些零钱。",
+        "pinyin": "Wǒ yǒu yīxiē língqián.",
+        "vietnamese": "Tôi có một ít tiền lẻ."
+      }
+    ]
   },
   {
     "id": "4-290",
@@ -2607,7 +4630,14 @@
     "translations": [
       "ngoài ra, còn lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们还有另外一个问题要解决。",
+        "pinyin": "Wǒmen hái yǒu lìngwài yī ge wèntí yào jiějué.",
+        "vietnamese": "Chúng ta còn một vấn đề khác cần giải quyết."
+      }
+    ]
   },
   {
     "id": "4-291",
@@ -2616,7 +4646,14 @@
     "translations": [
       "lưu lại, ở lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把文件留在桌上。",
+        "pinyin": "Qǐng bǎ wénjiàn liú zài zhuō shàng.",
+        "vietnamese": "Vui lòng để tài liệu trên bàn."
+      }
+    ]
   },
   {
     "id": "4-292",
@@ -2625,7 +4662,14 @@
     "translations": [
       "lưu loát"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的汉语说得很流利。",
+        "pinyin": "Tā de Hànyǔ shuō de hěn liúlì.",
+        "vietnamese": "Anh ấy nói tiếng Trung rất lưu loát."
+      }
+    ]
   },
   {
     "id": "4-293",
@@ -2634,7 +4678,14 @@
     "translations": [
       "thịnh hành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这首歌很流行。",
+        "pinyin": "Zhè shǒu gē hěn liúxíng.",
+        "vietnamese": "Bài hát này rất thịnh hành."
+      }
+    ]
   },
   {
     "id": "4-294",
@@ -2643,7 +4694,14 @@
     "translations": [
       "du lịch"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们打算去旅行。",
+        "pinyin": "Wǒmen dǎsuàn qù lǚxíng.",
+        "vietnamese": "Chúng tôi dự định đi du lịch."
+      }
+    ]
   },
   {
     "id": "4-295",
@@ -2652,7 +4710,14 @@
     "translations": [
       "luật sư"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一名律师。",
+        "pinyin": "Tā shì yī míng lǜshī.",
+        "vietnamese": "Anh ấy là một luật sư."
+      }
+    ]
   },
   {
     "id": "4-296",
@@ -2661,7 +4726,14 @@
     "translations": [
       "loạn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "房间里很乱。",
+        "pinyin": "Fángjiān lǐ hěn luàn.",
+        "vietnamese": "Phòng rất lộn xộn."
+      }
+    ]
   },
   {
     "id": "4-297",
@@ -2670,7 +4742,14 @@
     "translations": [
       "phiền phức, làm phiền"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "麻烦你帮我拿一下。",
+        "pinyin": "Máfan nǐ bāng wǒ ná yīxià.",
+        "vietnamese": "Phiền bạn giúp tôi cầm cái này."
+      }
+    ]
   },
   {
     "id": "4-298",
@@ -2679,7 +4758,14 @@
     "translations": [
       "qua loa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他做事很马虎。",
+        "pinyin": "Tā zuòshì hěn mǎhǔ.",
+        "vietnamese": "Anh ấy làm việc rất cẩu thả."
+      }
+    ]
   },
   {
     "id": "4-299",
@@ -2688,7 +4774,14 @@
     "translations": [
       "đầy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的行李箱装满了。",
+        "pinyin": "Wǒ de xínglǐ xiāng zhuāng mǎnle.",
+        "vietnamese": "Vali của tôi đầy rồi."
+      }
+    ]
   },
   {
     "id": "4-300",
@@ -2697,7 +4790,14 @@
     "translations": [
       "lông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不喜欢穿毛衣。",
+        "pinyin": "Wǒ bù xǐhuān chuān máoyī.",
+        "vietnamese": "Tôi không thích mặc áo lông."
+      }
+    ]
   },
   {
     "id": "4-301",
@@ -2706,7 +4806,14 @@
     "translations": [
       "khăn bông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请给我一条毛巾。",
+        "pinyin": "Qǐng gěi wǒ yī tiáo máojīn.",
+        "vietnamese": "Xin hãy đưa cho tôi một cái khăn tắm."
+      }
+    ]
   },
   {
     "id": "4-302",
@@ -2715,7 +4822,14 @@
     "translations": [
       "đẹp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个地方很美丽。",
+        "pinyin": "Zhè ge dìfāng hěn měilì.",
+        "vietnamese": "Nơi này rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-303",
@@ -2724,7 +4838,14 @@
     "translations": [
       "giấc mơ, mơ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我昨晚做了一个好梦。",
+        "pinyin": "Wǒ zuówǎn zuò le yī ge hǎo mèng.",
+        "vietnamese": "Tối qua tôi đã có một giấc mơ đẹp."
+      }
+    ]
   },
   {
     "id": "4-304",
@@ -2733,7 +4854,14 @@
     "translations": [
       "lạc đường"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我迷路了，找不到回家的路。",
+        "pinyin": "Wǒ mílù le, zhǎo bù dào huí jiā de lù.",
+        "vietnamese": "Tôi bị lạc, không tìm thấy đường về nhà."
+      }
+    ]
   },
   {
     "id": "4-305",
@@ -2742,7 +4870,14 @@
     "translations": [
       "mật khẩu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请不要告诉别人我的密码。",
+        "pinyin": "Qǐng bùyào gàosù biérén wǒ de mìmǎ.",
+        "vietnamese": "Xin đừng nói mật khẩu của tôi cho người khác."
+      }
+    ]
   },
   {
     "id": "4-306",
@@ -2751,7 +4886,14 @@
     "translations": [
       "miễn phí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这家博物馆是免费的。",
+        "pinyin": "Zhè jiā bówùguǎn shì miǎnfèi de.",
+        "vietnamese": "Bảo tàng này miễn phí."
+      }
+    ]
   },
   {
     "id": "4-307",
@@ -2760,7 +4902,14 @@
     "translations": [
       "giây"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要等几秒钟。",
+        "pinyin": "Wǒmen xūyào děng jǐ miǎo zhōng.",
+        "vietnamese": "Chúng ta cần đợi vài giây."
+      }
+    ]
   },
   {
     "id": "4-308",
@@ -2769,7 +4918,14 @@
     "translations": [
       "dân tộc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "中国是一个多民族的国家。",
+        "pinyin": "Zhōngguó shì yī ge duō mínzú de guójiā.",
+        "vietnamese": "Trung Quốc là một quốc gia đa dân tộc."
+      }
+    ]
   },
   {
     "id": "4-309",
@@ -2778,7 +4934,14 @@
     "translations": [
       "mẹ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的母亲很善良。",
+        "pinyin": "Wǒ de mǔqīn hěn shànliáng.",
+        "vietnamese": "Mẹ của tôi rất hiền lành."
+      }
+    ]
   },
   {
     "id": "4-310",
@@ -2787,7 +4950,14 @@
     "translations": [
       "mục đích"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的目的是学好汉语。",
+        "pinyin": "Wǒ de mùdì shì xuéhǎo Hànyǔ.",
+        "vietnamese": "Mục đích của tôi là học giỏi tiếng Trung."
+      }
+    ]
   },
   {
     "id": "4-311",
@@ -2796,7 +4966,14 @@
     "translations": [
       "nhẫn nại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请耐心一点。",
+        "pinyin": "Qǐng nàixīn yīdiǎn.",
+        "vietnamese": "Xin hãy kiên nhẫn một chút."
+      }
+    ]
   },
   {
     "id": "4-312",
@@ -2805,7 +4982,14 @@
     "translations": [
       "lẽ nào"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "难道你不想去吗？",
+        "pinyin": "Nándào nǐ bù xiǎng qù ma?",
+        "vietnamese": "Chẳng lẽ bạn không muốn đi à?"
+      }
+    ]
   },
   {
     "id": "4-313",
@@ -2814,7 +4998,14 @@
     "translations": [
       "buồn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他觉得很难受。",
+        "pinyin": "Tā juéde hěn nánshòu.",
+        "vietnamese": "Anh ấy cảm thấy rất khó chịu."
+      }
+    ]
   },
   {
     "id": "4-314",
@@ -2823,7 +5014,14 @@
     "translations": [
       "bên trong"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他住在城市内。",
+        "pinyin": "Tā zhù zài chéngshì nèi.",
+        "vietnamese": "Anh ấy sống trong thành phố."
+      }
+    ]
   },
   {
     "id": "4-315",
@@ -2832,7 +5030,14 @@
     "translations": [
       "nội dung"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书的内容很有趣。",
+        "pinyin": "Zhè běn shū de nèiróng hěn yǒuqù.",
+        "vietnamese": "Nội dung của cuốn sách này rất thú vị."
+      }
+    ]
   },
   {
     "id": "4-316",
@@ -2841,7 +5046,14 @@
     "translations": [
       "năng lực"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有很强的工作能力。",
+        "pinyin": "Tā yǒu hěn qiáng de gōngzuò nénglì.",
+        "vietnamese": "Anh ấy có khả năng làm việc rất tốt."
+      }
+    ]
   },
   {
     "id": "4-317",
@@ -2850,7 +5062,14 @@
     "translations": [
       "tuổi tác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的年龄是25岁。",
+        "pinyin": "Tā de niánlíng shì 25 suì.",
+        "vietnamese": "Cô ấy 25 tuổi."
+      }
+    ]
   },
   {
     "id": "4-318",
@@ -2859,7 +5078,14 @@
     "translations": [
       "làm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "别弄坏了我的手机。",
+        "pinyin": "Bié nòng huài le wǒ de shǒujī.",
+        "vietnamese": "Đừng làm hỏng điện thoại của tôi."
+      }
+    ]
   },
   {
     "id": "4-319",
@@ -2868,7 +5094,14 @@
     "translations": [
       "ấm áp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天天气很暖和。",
+        "pinyin": "Jīntiān tiānqì hěn nuǎnhuo.",
+        "vietnamese": "Hôm nay thời tiết rất ấm áp."
+      }
+    ]
   },
   {
     "id": "4-320",
@@ -2877,7 +5110,14 @@
     "translations": [
       "đôi khi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我偶尔会去图书馆。",
+        "pinyin": "Wǒ ǒu'ěr huì qù túshūguǎn.",
+        "vietnamese": "Thỉnh thoảng tôi sẽ đi thư viện."
+      }
+    ]
   },
   {
     "id": "4-321",
@@ -2886,7 +5126,14 @@
     "translations": [
       "xếp hàng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请大家排队等候。",
+        "pinyin": "Qǐng dàjiā páiduì děnghòu.",
+        "vietnamese": "Xin mọi người xếp hàng chờ."
+      }
+    ]
   },
   {
     "id": "4-322",
@@ -2895,7 +5142,14 @@
     "translations": [
       "sắp xếp, xếp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "书架上的书排列的非常整齐。",
+        "pinyin": "shūjià shàng de shū páiliè de fēicháng zhěngqí.",
+        "vietnamese": "Sách trên giá xếp rất ngay ngắn."
+      }
+    ]
   },
   {
     "id": "4-323",
@@ -2904,7 +5158,14 @@
     "translations": [
       "phán đoán"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我无法判断他是否说真话。",
+        "pinyin": "Wǒ wúfǎ pànduàn tā shìfǒu shuō zhēnhuà.",
+        "vietnamese": "Tôi không thể đánh giá anh ấy có nói thật hay không."
+      }
+    ]
   },
   {
     "id": "4-324",
@@ -2913,7 +5174,14 @@
     "translations": [
       "cùng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她陪我去看医生。",
+        "pinyin": "Tā péi wǒ qù kàn yīshēng.",
+        "vietnamese": "Cô ấy đi cùng tôi đến gặp bác sĩ."
+      }
+    ]
   },
   {
     "id": "4-325",
@@ -2922,7 +5190,14 @@
     "translations": [
       "phê bình"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他总是批评我的工作。",
+        "pinyin": "Tā zǒngshì pīpíng wǒ de gōngzuò.",
+        "vietnamese": "Anh ấy luôn chỉ trích công việc của tôi."
+      }
+    ]
   },
   {
     "id": "4-326",
@@ -2931,7 +5206,14 @@
     "translations": [
       "da"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的皮肤很白。",
+        "pinyin": "Tā de pífū hěn bái.",
+        "vietnamese": "Da của cô ấy rất trắng."
+      }
+    ]
   },
   {
     "id": "4-327",
@@ -2940,7 +5222,14 @@
     "translations": [
       "tính khí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的脾气很坏。",
+        "pinyin": "Tā de píqì hěn huài.",
+        "vietnamese": "Tính tình của anh ấy rất tệ."
+      }
+    ]
   },
   {
     "id": "4-328",
@@ -2949,7 +5238,14 @@
     "translations": [
       "lượng từ cho bài viết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我读了一篇有趣的文章。",
+        "pinyin": "Wǒ dú le yī piān yǒuqù de wénzhāng.",
+        "vietnamese": "Tôi đã đọc một bài viết thú vị."
+      }
+    ]
   },
   {
     "id": "4-329",
@@ -2958,7 +5254,14 @@
     "translations": [
       "lừa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "别骗我。",
+        "pinyin": "Bié piàn wǒ.",
+        "vietnamese": "Đừng lừa tôi."
+      }
+    ]
   },
   {
     "id": "4-330",
@@ -2967,7 +5270,14 @@
     "translations": [
       "bóng bàn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢打乒乓球。",
+        "pinyin": "Wǒ xǐhuān dǎ pīngpāng qiú.",
+        "vietnamese": "Tôi thích chơi bóng bàn."
+      }
+    ]
   },
   {
     "id": "4-331",
@@ -2976,7 +5286,14 @@
     "translations": [
       "bình thường"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "平时他很少运动。",
+        "pinyin": "Píngshí tā hěn shǎo yùndòng.",
+        "vietnamese": "Thường thì anh ấy ít khi tập thể dục."
+      }
+    ]
   },
   {
     "id": "4-332",
@@ -2985,7 +5302,14 @@
     "translations": [
       "rách, nổ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的鞋子破了。",
+        "pinyin": "Wǒ de xiézi pò le.",
+        "vietnamese": "Giày của tôi bị rách rồi."
+      }
+    ]
   },
   {
     "id": "4-333",
@@ -2994,7 +5318,14 @@
     "translations": [
       "nho"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这些葡萄很好吃。",
+        "pinyin": "Zhèxiē pútao hěn hǎochī.",
+        "vietnamese": "Những trái nho này rất ngon."
+      }
+    ]
   },
   {
     "id": "4-334",
@@ -3003,7 +5334,14 @@
     "translations": [
       "phổ biến"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这种现象很普遍。",
+        "pinyin": "Zhè zhǒng xiànxiàng hěn pǔbiàn.",
+        "vietnamese": "Hiện tượng này rất phổ biến."
+      }
+    ]
   },
   {
     "id": "4-335",
@@ -3012,7 +5350,14 @@
     "translations": [
       "tiếng phổ thông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他说普通话说得很好。",
+        "pinyin": "Tā shuō Pǔtōnghuà shuō de hěn hǎo.",
+        "vietnamese": "Anh ấy nói tiếng phổ thông rất tốt."
+      }
+    ]
   },
   {
     "id": "4-336",
@@ -3021,7 +5366,14 @@
     "translations": [
       "tiếp theo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "首先要努力，其次要坚持。",
+        "pinyin": "Shǒuxiān yào nǔlì, qícì yào jiānchí.",
+        "vietnamese": "Trước tiên phải nỗ lực, sau đó phải kiên trì."
+      }
+    ]
   },
   {
     "id": "4-337",
@@ -3030,7 +5382,14 @@
     "translations": [
       "trong đó"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "在所有的人群中，其中有一个人是我认识的人。",
+        "pinyin": "Zài suǒyǒu de rénqún zhōng, qízhōng yǒuyī gèrén shì wǒ rènshí de rén.",
+        "vietnamese": "Trong số tất cả mọi người, có một người tôi biết."
+      }
+    ]
   },
   {
     "id": "4-338",
@@ -3039,7 +5398,14 @@
     "translations": [
       "khí hậu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个地方的气候很宜人。",
+        "pinyin": "Zhège dìfāng de qìhòu hěn yírén.",
+        "vietnamese": "Khí hậu nơi này rất dễ chịu."
+      }
+    ]
   },
   {
     "id": "4-339",
@@ -3048,7 +5414,14 @@
     "translations": [
       "nhất thiết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你千万不要忘记。",
+        "pinyin": "Nǐ qiānwàn bùyào wàngjì.",
+        "vietnamese": "Bạn nhất định đừng quên."
+      }
+    ]
   },
   {
     "id": "4-340",
@@ -3057,7 +5430,14 @@
     "translations": [
       "visa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要办理签证。",
+        "pinyin": "Wǒ xūyào bànlǐ qiānzhèng.",
+        "vietnamese": "Tôi cần làm thị thực."
+      }
+    ]
   },
   {
     "id": "4-341",
@@ -3066,7 +5446,14 @@
     "translations": [
       "gõ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他敲门进来了。",
+        "pinyin": "Tā qiāo mén jìn lái le.",
+        "vietnamese": "Anh ấy gõ cửa rồi vào."
+      }
+    ]
   },
   {
     "id": "4-342",
@@ -3075,7 +5462,14 @@
     "translations": [
       "cầu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们在桥上拍照。",
+        "pinyin": "Tāmen zài qiáo shàng pāizhào.",
+        "vietnamese": "Họ chụp ảnh trên cầu."
+      }
+    ]
   },
   {
     "id": "4-343",
@@ -3084,7 +5478,14 @@
     "translations": [
       "sô cô la"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她给了我一块巧克力。",
+        "pinyin": "Tā gěi le wǒ yī kuài qiǎokèlì.",
+        "vietnamese": "Cô ấy đưa cho tôi một miếng sô-cô-la."
+      }
+    ]
   },
   {
     "id": "4-344",
@@ -3093,7 +5494,14 @@
     "translations": [
       "họ hàng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有很多亲戚住在国外。",
+        "pinyin": "Wǒ yǒu hěn duō qīnqi zhù zài guówài.",
+        "vietnamese": "Tôi có nhiều họ hàng sống ở nước ngoài."
+      }
+    ]
   },
   {
     "id": "4-345",
@@ -3102,7 +5510,14 @@
     "translations": [
       "nhẹ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书很轻。",
+        "pinyin": "Zhè běn shū hěn qīng.",
+        "vietnamese": "Cuốn sách này rất nhẹ."
+      }
+    ]
   },
   {
     "id": "4-346",
@@ -3111,7 +5526,14 @@
     "translations": [
       "thoải mái"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他觉得工作很轻松。",
+        "pinyin": "Tā juéde gōngzuò hěn qīngsōng.",
+        "vietnamese": "Anh ấy cảm thấy công việc rất nhẹ nhàng."
+      }
+    ]
   },
   {
     "id": "4-347",
@@ -3120,7 +5542,14 @@
     "translations": [
       "tình hình"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "目前的情况很复杂。",
+        "pinyin": "Mùqián de qíngkuàng hěn fùzá.",
+        "vietnamese": "Tình hình hiện tại rất phức tạp."
+      }
+    ]
   },
   {
     "id": "4-348",
@@ -3129,7 +5558,14 @@
     "translations": [
       "nghèo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他家很穷。",
+        "pinyin": "Tā jiā hěn qióng.",
+        "vietnamese": "Gia đình anh ấy rất nghèo."
+      }
+    ]
   },
   {
     "id": "4-349",
@@ -3138,7 +5574,14 @@
     "translations": [
       "khác biệt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个问题有很多区别。",
+        "pinyin": "Zhège wèntí yǒu hěn duō qūbié.",
+        "vietnamese": "Vấn đề này có nhiều khác biệt."
+      }
+    ]
   },
   {
     "id": "4-350",
@@ -3147,7 +5590,14 @@
     "translations": [
       "lấy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把书取出来。",
+        "pinyin": "Qǐng bǎ shū qǔ chūlái.",
+        "vietnamese": "Vui lòng lấy sách ra."
+      }
+    ]
   },
   {
     "id": "4-351",
@@ -3156,7 +5606,14 @@
     "translations": [
       "toàn bộ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们全部完成了任务。",
+        "pinyin": "Wǒmen quánbù wánchéng le rènwù.",
+        "vietnamese": "Chúng tôi hoàn thành toàn bộ nhiệm vụ."
+      }
+    ]
   },
   {
     "id": "4-352",
@@ -3165,7 +5622,14 @@
     "translations": [
       "khuyết điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他有很多缺点。",
+        "pinyin": "Tā yǒu hěn duō quēdiǎn.",
+        "vietnamese": "Anh ấy có nhiều khuyết điểm."
+      }
+    ]
   },
   {
     "id": "4-353",
@@ -3174,7 +5638,14 @@
     "translations": [
       "thiếu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这里缺少水。",
+        "pinyin": "Zhèlǐ quēshǎo shuǐ.",
+        "vietnamese": "Ở đây thiếu nước."
+      }
+    ]
   },
   {
     "id": "4-354",
@@ -3183,7 +5654,14 @@
     "translations": [
       "lại, nhưng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很想去，却不能去。",
+        "pinyin": "Tā hěn xiǎng qù, què bùnéng qù.",
+        "vietnamese": "Anh ấy rất muốn đi, nhưng không thể đi."
+      }
+    ]
   },
   {
     "id": "4-355",
@@ -3192,7 +5670,14 @@
     "translations": [
       "thật sự"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这次确实是我的错。",
+        "pinyin": "Zhè cì quèshí shì wǒ de cuò.",
+        "vietnamese": "Lần này thật sự là lỗi của tôi."
+      }
+    ]
   },
   {
     "id": "4-356",
@@ -3201,7 +5686,14 @@
     "translations": [
       "vậy mà"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "然而，他并没有成功。",
+        "pinyin": "Rán'ér, tā bìng méiyǒu chénggōng.",
+        "vietnamese": "Tuy nhiên, anh ấy không thành công."
+      }
+    ]
   },
   {
     "id": "4-357",
@@ -3210,7 +5702,14 @@
     "translations": [
       "náo nhiệt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "市场很热闹。",
+        "pinyin": "Shìchǎng hěn rènào.",
+        "vietnamese": "Chợ rất nhộn nhịp."
+      }
+    ]
   },
   {
     "id": "4-358",
@@ -3219,7 +5718,14 @@
     "translations": [
       "bất kì"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "任何人都可以参加。",
+        "pinyin": "Rènhé rén dōu kěyǐ cānjiā.",
+        "vietnamese": "Bất kỳ ai cũng có thể tham gia."
+      }
+    ]
   },
   {
     "id": "4-359",
@@ -3228,7 +5734,14 @@
     "translations": [
       "nhiệm vụ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们的任务是保护环境。",
+        "pinyin": "Wǒmen de rènwù shì bǎohù huánjìng.",
+        "vietnamese": "Nhiệm vụ của chúng tôi là bảo vệ môi trường."
+      }
+    ]
   },
   {
     "id": "4-360",
@@ -3237,7 +5750,14 @@
     "translations": [
       "ném"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请不要随便扔垃圾。",
+        "pinyin": "Qǐng bùyào suíbiàn rēng lājī.",
+        "vietnamese": "Xin đừng vứt rác bừa bãi."
+      }
+    ]
   },
   {
     "id": "4-361",
@@ -3246,7 +5766,14 @@
     "translations": [
       "vẫn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他仍然在等你。",
+        "pinyin": "Tā réngrán zài děng nǐ.",
+        "vietnamese": "Anh ấy vẫn đang chờ bạn."
+      }
+    ]
   },
   {
     "id": "4-362",
@@ -3255,7 +5782,14 @@
     "translations": [
       "nhật kí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我每天都写日记。",
+        "pinyin": "Wǒ měitiān dōu xiě rìjì.",
+        "vietnamese": "Tôi viết nhật ký mỗi ngày."
+      }
+    ]
   },
   {
     "id": "4-363",
@@ -3264,7 +5798,14 @@
     "translations": [
       "cửa vào"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是超市的入口。",
+        "pinyin": "Zhè shì chāoshì de rùkǒu.",
+        "vietnamese": "Đây là lối vào của siêu thị."
+      }
+    ]
   },
   {
     "id": "4-364",
@@ -3273,7 +5814,14 @@
     "translations": [
       "tản bộ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢晚上散步。",
+        "pinyin": "Wǒ xǐhuān wǎnshàng sànbù.",
+        "vietnamese": "Tôi thích đi dạo buổi tối."
+      }
+    ]
   },
   {
     "id": "4-365",
@@ -3282,7 +5830,14 @@
     "translations": [
       "rừng sâu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "森林里有很多动物。",
+        "pinyin": "Sēnlín lǐ yǒu hěn duō dòngwù.",
+        "vietnamese": "Trong rừng có rất nhiều động vật."
+      }
+    ]
   },
   {
     "id": "4-366",
@@ -3291,7 +5846,14 @@
     "translations": [
       "ghế sô pha"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我家有一张沙发。",
+        "pinyin": "Wǒ jiā yǒu yī zhāng shāfā.",
+        "vietnamese": "Nhà tôi có một chiếc ghế sofa."
+      }
+    ]
   },
   {
     "id": "4-367",
@@ -3300,7 +5862,14 @@
     "translations": [
       "tổn thương"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他听到这个消息很伤心。",
+        "pinyin": "Tā tīngdào zhège xiāoxi hěn shāngxīn.",
+        "vietnamese": "Anh ấy rất đau lòng khi nghe tin này."
+      }
+    ]
   },
   {
     "id": "4-368",
@@ -3309,7 +5878,14 @@
     "translations": [
       "thương lượng, bàn bạc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要商量一下计划。",
+        "pinyin": "Wǒmen xūyào shāngliáng yīxià jìhuà.",
+        "vietnamese": "Chúng ta cần thảo luận kế hoạch một chút."
+      }
+    ]
   },
   {
     "id": "4-369",
@@ -3318,7 +5894,14 @@
     "translations": [
       "một chút"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你稍微等一下。",
+        "pinyin": "Nǐ shāowēi děng yīxià.",
+        "vietnamese": "Bạn đợi một chút."
+      }
+    ]
   },
   {
     "id": "4-370",
@@ -3327,7 +5910,14 @@
     "translations": [
       "cái thìa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请给我一把勺子。",
+        "pinyin": "Qǐng gěi wǒ yī bǎ sháozi.",
+        "vietnamese": "Vui lòng đưa tôi một cái muỗng."
+      }
+    ]
   },
   {
     "id": "4-371",
@@ -3336,7 +5926,14 @@
     "translations": [
       "xã hội"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个社会变化很快。",
+        "pinyin": "Zhège shèhuì biànhuà hěn kuài.",
+        "vietnamese": "Xã hội này thay đổi rất nhanh."
+      }
+    ]
   },
   {
     "id": "4-372",
@@ -3345,7 +5942,14 @@
     "translations": [
       "xin"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我申请了一个新工作。",
+        "pinyin": "Wǒ shēnqǐng le yī ge xīn gōngzuò.",
+        "vietnamese": "Tôi đã nộp đơn xin một công việc mới."
+      }
+    ]
   },
   {
     "id": "4-373",
@@ -3354,7 +5958,14 @@
     "translations": [
       "sâu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "湖水很深。",
+        "pinyin": "Húshuǐ hěn shēn.",
+        "vietnamese": "Nước hồ rất sâu."
+      }
+    ]
   },
   {
     "id": "4-374",
@@ -3363,7 +5974,14 @@
     "translations": [
       "thậm chí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他甚至不知道我的名字。",
+        "pinyin": "Tā shènzhì bù zhīdào wǒ de míngzì.",
+        "vietnamese": "Anh ấy thậm chí không biết tên tôi."
+      }
+    ]
   },
   {
     "id": "4-375",
@@ -3372,7 +5990,14 @@
     "translations": [
       "cuộc sống"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们的生活很幸福。",
+        "pinyin": "Wǒmen de shēnghuó hěn xìngfú.",
+        "vietnamese": "Cuộc sống của chúng tôi rất hạnh phúc."
+      }
+    ]
   },
   {
     "id": "4-376",
@@ -3381,7 +6006,14 @@
     "translations": [
       "tính mạng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "生命很宝贵。",
+        "pinyin": "Shēngmìng hěn bǎoguì.",
+        "vietnamese": "Sinh mệnh rất quý giá."
+      }
+    ]
   },
   {
     "id": "4-377",
@@ -3390,7 +6022,14 @@
     "translations": [
       "kinh doanh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的生意做得很好。",
+        "pinyin": "Tā de shēngyì zuò de hěn hǎo.",
+        "vietnamese": "Việc kinh doanh của anh ấy rất tốt."
+      }
+    ]
   },
   {
     "id": "4-378",
@@ -3399,7 +6038,14 @@
     "translations": [
       "tỉnh thành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们住在北江省。",
+        "pinyin": "Wǒmen zhù zài běijiāng shěng.",
+        "vietnamese": "Chúng tôi sống ở tỉnh Bắc Giang"
+      }
+    ]
   },
   {
     "id": "4-379",
@@ -3408,7 +6054,14 @@
     "translations": [
       "thừa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "剩下的路程只能靠我们自己了。",
+        "pinyin": "Shèng xià de lùchéng zhǐ néng kào wǒmen zìjǐ le.",
+        "vietnamese": "Phần còn lại của hành trình chỉ có thể dựa vào bản thân chúng ta."
+      }
+    ]
   },
   {
     "id": "4-380",
@@ -3417,7 +6070,14 @@
     "translations": [
       "thất bại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他没有失败过。",
+        "pinyin": "Tā méiyǒu shībài guò.",
+        "vietnamese": "Anh ấy chưa từng thất bại."
+      }
+    ]
   },
   {
     "id": "4-381",
@@ -3426,7 +6086,14 @@
     "translations": [
       "thất vọng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "结果让我很失望。",
+        "pinyin": "Jiéguǒ ràng wǒ hěn shīwàng.",
+        "vietnamese": "Kết quả làm tôi rất thất vọng."
+      }
+    ]
   },
   {
     "id": "4-382",
@@ -3435,7 +6102,14 @@
     "translations": [
       "sư phụ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "师傅，请教我开车。",
+        "pinyin": "Shīfù, qǐng jiāo wǒ kāichē.",
+        "vietnamese": "Thầy, xin dạy tôi lái xe."
+      }
+    ]
   },
   {
     "id": "4-383",
@@ -3444,7 +6118,14 @@
     "translations": [
       "vô cùng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他十分聪明。",
+        "pinyin": "Tā shífēn cōngmíng.",
+        "vietnamese": "Anh ấy rất thông minh."
+      }
+    ]
   },
   {
     "id": "4-384",
@@ -3453,7 +6134,14 @@
     "translations": [
       "thực tế"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的建议很实际。",
+        "pinyin": "Tā de jiànyì hěn shíjì.",
+        "vietnamese": "Lời khuyên của anh ấy rất thực tế."
+      }
+    ]
   },
   {
     "id": "4-385",
@@ -3462,7 +6150,14 @@
     "translations": [
       "thật sự"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个故事实在太感人了。",
+        "pinyin": "Zhège gùshì shízài tài gǎnrén le.",
+        "vietnamese": "Câu chuyện này thật sự rất cảm động."
+      }
+    ]
   },
   {
     "id": "4-386",
@@ -3471,7 +6166,14 @@
     "translations": [
       "khiến cho"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她的表现使观众们非常兴奋。",
+        "pinyin": "Tā de biǎoxiàn shǐ guānzhòngmen fēicháng xīngfèn.",
+        "vietnamese": "Màn trình diễn của cô khiến khán giả vô cùng hưng phấn."
+      }
+    ]
   },
   {
     "id": "4-387",
@@ -3480,7 +6182,14 @@
     "translations": [
       "sử dụng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请不要随便使用别人的东西。",
+        "pinyin": "Qǐng bùyào suíbiàn shǐyòng biérén de dōngxī.",
+        "vietnamese": "Xin đừng tùy tiện sử dụng đồ của người khác."
+      }
+    ]
   },
   {
     "id": "4-388",
@@ -3489,7 +6198,14 @@
     "translations": [
       "thế kỉ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是二十一世纪的科技。",
+        "pinyin": "Zhè shì èrshíyī shìjì de kējì.",
+        "vietnamese": "Đây là công nghệ của thế kỷ 21."
+      }
+    ]
   },
   {
     "id": "4-389",
@@ -3498,7 +6214,14 @@
     "translations": [
       "liệu có phải"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是否同意还不确定。",
+        "pinyin": "Tā shìfǒu tóngyì hái bù quèdìng.",
+        "vietnamese": "Anh ấy có đồng ý hay không còn chưa chắc chắn."
+      }
+    ]
   },
   {
     "id": "4-390",
@@ -3507,7 +6230,14 @@
     "translations": [
       "thích hợp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这件衣服适合你。",
+        "pinyin": "Zhè jiàn yīfú shìhé nǐ.",
+        "vietnamese": "Cái áo này hợp với bạn."
+      }
+    ]
   },
   {
     "id": "4-391",
@@ -3516,7 +6246,14 @@
     "translations": [
       "thích nghi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他适应了新的环境。",
+        "pinyin": "Tā shìyìng le xīn de huánjìng.",
+        "vietnamese": "Anh ấy đã thích nghi với môi trường mới."
+      }
+    ]
   },
   {
     "id": "4-392",
@@ -3525,7 +6262,14 @@
     "translations": [
       "nhận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请收这个包裹。",
+        "pinyin": "Qǐng shōu zhège bāoguǒ.",
+        "vietnamese": "Xin nhận cái gói hàng này."
+      }
+    ]
   },
   {
     "id": "4-393",
@@ -3534,7 +6278,14 @@
     "translations": [
       "thu nhập"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的收入很高。",
+        "pinyin": "Tā de shōurù hěn gāo.",
+        "vietnamese": "Thu nhập của anh ấy rất cao."
+      }
+    ]
   },
   {
     "id": "4-394",
@@ -3543,7 +6294,14 @@
     "translations": [
       "dọn dẹp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把房间收拾干净。",
+        "pinyin": "Qǐng bǎ fángjiān shōushi gānjìng.",
+        "vietnamese": "Xin dọn phòng sạch sẽ."
+      }
+    ]
   },
   {
     "id": "4-395",
@@ -3552,7 +6310,14 @@
     "translations": [
       "thủ đô"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "北京是中国的首都。",
+        "pinyin": "Běijīng shì Zhōngguó de shǒudū.",
+        "vietnamese": "Bắc Kinh là thủ đô của Trung Quốc."
+      }
+    ]
   },
   {
     "id": "4-396",
@@ -3561,7 +6326,14 @@
     "translations": [
       "đầu tiên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "首先要学习，其次要实践。",
+        "pinyin": "Shǒuxiān yào xuéxí, qícì yào shíjiàn.",
+        "vietnamese": "Trước tiên phải học, sau đó phải thực hành."
+      }
+    ]
   },
   {
     "id": "4-397",
@@ -3570,7 +6342,14 @@
     "translations": [
       "không chịu nổi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我受不了这么热的天气。",
+        "pinyin": "Wǒ shòubùliǎo zhème rè de tiānqì.",
+        "vietnamese": "Tôi không chịu nổi thời tiết nóng như thế này."
+      }
+    ]
   },
   {
     "id": "4-398",
@@ -3579,7 +6358,14 @@
     "translations": [
       "nhận được"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我受到了一封信。",
+        "pinyin": "Wǒ shòudào le yī fēng xìn.",
+        "vietnamese": "Tôi nhận được một lá thư."
+      }
+    ]
   },
   {
     "id": "4-399",
@@ -3588,7 +6374,14 @@
     "translations": [
       "nhân viên bán vé"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "售货员向我介绍了这款手机。",
+        "pinyin": "Shòuhuòyuán xiàng wǒ jièshào le zhè kuǎn shǒujī.",
+        "vietnamese": "Người bán hàng giới thiệu cho tôi mẫu điện thoại này."
+      }
+    ]
   },
   {
     "id": "4-400",
@@ -3597,7 +6390,14 @@
     "translations": [
       "thua"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们输了比赛。",
+        "pinyin": "Wǒmen shū le bǐsài.",
+        "vietnamese": "Chúng tôi thua trận đấu."
+      }
+    ]
   },
   {
     "id": "4-401",
@@ -3606,7 +6406,14 @@
     "translations": [
       "quen thuộc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我对这儿很熟悉。",
+        "pinyin": "Wǒ duì zhèr hěn shúxī.",
+        "vietnamese": "Tôi rất quen thuộc với nơi này."
+      }
+    ]
   },
   {
     "id": "4-402",
@@ -3615,7 +6422,14 @@
     "translations": [
       "số lượng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这里的学生数量很多。",
+        "pinyin": "Zhèlǐ de xuéshēng shùliàng hěn duō.",
+        "vietnamese": "Số lượng học sinh ở đây rất nhiều."
+      }
+    ]
   },
   {
     "id": "4-403",
@@ -3624,7 +6438,14 @@
     "translations": [
       "con cố"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个数字很大。",
+        "pinyin": "Zhège shùzì hěn dà.",
+        "vietnamese": "Con số này rất lớn."
+      }
+    ]
   },
   {
     "id": "4-404",
@@ -3633,7 +6454,14 @@
     "translations": [
       "đẹp trai"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很帅。",
+        "pinyin": "Tā hěn shuài.",
+        "vietnamese": "Anh ấy rất đẹp trai."
+      }
+    ]
   },
   {
     "id": "4-405",
@@ -3642,7 +6470,14 @@
     "translations": [
       "nhân tiện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我顺便买了些水果。",
+        "pinyin": "Wǒ shùnbiàn mǎi le xiē shuǐguǒ.",
+        "vietnamese": "Tôi tiện thể mua một ít hoa quả."
+      }
+    ]
   },
   {
     "id": "4-406",
@@ -3651,7 +6486,14 @@
     "translations": [
       "thuận lợi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "事情进行得很顺利。",
+        "pinyin": "Shìqíng jìnxíng de hěn shùnlì.",
+        "vietnamese": "Mọi việc tiến hành rất thuận lợi."
+      }
+    ]
   },
   {
     "id": "4-407",
@@ -3660,7 +6502,14 @@
     "translations": [
       "thứ tự"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请按顺序排队。",
+        "pinyin": "Qǐng àn shùnxù páiduì.",
+        "vietnamese": "Vui lòng xếp hàng theo thứ tự."
+      }
+    ]
   },
   {
     "id": "4-408",
@@ -3669,7 +6518,14 @@
     "translations": [
       "nói rõ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请说明一下原因。",
+        "pinyin": "Qǐng shuōmíng yīxià yuányīn.",
+        "vietnamese": "Xin hãy giải thích lý do."
+      }
+    ]
   },
   {
     "id": "4-409",
@@ -3678,7 +6534,14 @@
     "translations": [
       "thạc sĩ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是硕士毕业。",
+        "pinyin": "Tā shì shuòshì bìyè.",
+        "vietnamese": "Anh ấy tốt nghiệp thạc sĩ."
+      }
+    ]
   },
   {
     "id": "4-410",
@@ -3687,7 +6550,14 @@
     "translations": [
       "chết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他突然死了。",
+        "pinyin": "Tā tūrán sǐ le.",
+        "vietnamese": "Anh ấy đột nhiên qua đời."
+      }
+    ]
   },
   {
     "id": "4-411",
@@ -3696,7 +6566,14 @@
     "translations": [
       "tốc độ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请提高速度。",
+        "pinyin": "Qǐng tígāo sùdù.",
+        "vietnamese": "Xin hãy tăng tốc độ."
+      }
+    ]
   },
   {
     "id": "4-412",
@@ -3705,7 +6582,14 @@
     "translations": [
       "túi ni lông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请不要使用塑料袋。",
+        "pinyin": "Qǐng bùyào shǐyòng sùliào dài.",
+        "vietnamese": "Xin đừng sử dụng túi nhựa."
+      }
+    ]
   },
   {
     "id": "4-413",
@@ -3714,7 +6598,14 @@
     "translations": [
       "chua"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这道菜有点酸。",
+        "pinyin": "Zhè dào cài yǒudiǎn suān.",
+        "vietnamese": "Món này hơi chua."
+      }
+    ]
   },
   {
     "id": "4-414",
@@ -3723,7 +6614,14 @@
     "translations": [
       "tùy tiện, tự nhiên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请随便坐。",
+        "pinyin": "Qǐng suíbiàn zuò.",
+        "vietnamese": "Xin cứ ngồi tự nhiên."
+      }
+    ]
   },
   {
     "id": "4-415",
@@ -3732,7 +6630,14 @@
     "translations": [
       "cùng với"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "随着时间的流逝，他变得成熟了。",
+        "pinyin": "Suízhe shíjiān de liúshì, tā biàn dé chéngshú le.",
+        "vietnamese": "Theo thời gian trôi qua, anh ấy trở nên chín chắn."
+      }
+    ]
   },
   {
     "id": "4-416",
@@ -3741,7 +6646,14 @@
     "translations": [
       "cháu trai"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有两个孙子。",
+        "pinyin": "Wǒ yǒu liǎng gè sūnzi.",
+        "vietnamese": "Tôi có hai cháu trai."
+      }
+    ]
   },
   {
     "id": "4-417",
@@ -3750,7 +6662,14 @@
     "translations": [
       "tất cả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "所有的人都来了。",
+        "pinyin": "Suǒyǒu de rén dōu lái le.",
+        "vietnamese": "Mọi người đều đã đến."
+      }
+    ]
   },
   {
     "id": "4-418",
@@ -3759,7 +6678,14 @@
     "translations": [
       "cái, chiếc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他站在台上。",
+        "pinyin": "Tā zhàn zài tái shàng.",
+        "vietnamese": "Anh ấy đứng trên sân khấu."
+      }
+    ]
   },
   {
     "id": "4-419",
@@ -3768,7 +6694,14 @@
     "translations": [
       "ngẩng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请抬一下这个箱子。",
+        "pinyin": "Qǐng tái yīxià zhège xiāngzi.",
+        "vietnamese": "Xin hãy nâng cái hộp này lên một chút."
+      }
+    ]
   },
   {
     "id": "4-420",
@@ -3777,7 +6710,14 @@
     "translations": [
       "thái độ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的态度很不好。",
+        "pinyin": "Tā de tàidù hěn bù hǎo.",
+        "vietnamese": "Thái độ của anh ấy rất tệ."
+      }
+    ]
   },
   {
     "id": "4-421",
@@ -3786,7 +6726,14 @@
     "translations": [
       "nói chuyện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们谈了很多事情。",
+        "pinyin": "Wǒmen tán le hěn duō shìqíng.",
+        "vietnamese": "Chúng tôi đã nói về rất nhiều chuyện."
+      }
+    ]
   },
   {
     "id": "4-422",
@@ -3795,7 +6742,14 @@
     "translations": [
       "chơi piano"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她会弹钢琴。",
+        "pinyin": "Tā huì tán gāngqín.",
+        "vietnamese": "Cô ấy biết chơi piano."
+      }
+    ]
   },
   {
     "id": "4-423",
@@ -3804,7 +6758,14 @@
     "translations": [
       "canh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢喝鸡汤。",
+        "pinyin": "Wǒ xǐhuān hē jītāng.",
+        "vietnamese": "Tôi thích uống súp gà."
+      }
+    ]
   },
   {
     "id": "4-424",
@@ -3813,7 +6774,14 @@
     "translations": [
       "đường"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我不喜欢吃太多糖。",
+        "pinyin": "Wǒ bù xǐhuān chī tài duō táng.",
+        "vietnamese": "Tôi không thích ăn quá nhiều đường."
+      }
+    ]
   },
   {
     "id": "4-425",
@@ -3822,7 +6790,14 @@
     "translations": [
       "nằm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢躺在沙发上看书。",
+        "pinyin": "Wǒ xǐhuān tǎng zài shāfā shàng kàn shū.",
+        "vietnamese": "Tôi thích nằm trên ghế sofa đọc sách."
+      }
+    ]
   },
   {
     "id": "4-426",
@@ -3831,7 +6806,14 @@
     "translations": [
       "chuyến"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我刚刚去了一趟商店。",
+        "pinyin": "Wǒ gānggāng qù le yī tàng shāngdiàn.",
+        "vietnamese": "Tôi vừa đi một chuyến đến cửa hàng."
+      }
+    ]
   },
   {
     "id": "4-427",
@@ -3840,7 +6822,14 @@
     "translations": [
       "thảo luận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们在会议上讨论了这个问题。",
+        "pinyin": "Wǒmen zài huìyì shàng tǎolùn le zhège wèntí.",
+        "vietnamese": "Chúng tôi đã thảo luận về vấn đề này trong cuộc họp."
+      }
+    ]
   },
   {
     "id": "4-428",
@@ -3849,7 +6838,14 @@
     "translations": [
       "ghét"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我讨厌吃苦瓜。",
+        "pinyin": "Wǒ tǎoyàn chī kǔguā.",
+        "vietnamese": "Tôi ghét ăn mướp đắng."
+      }
+    ]
   },
   {
     "id": "4-429",
@@ -3858,7 +6854,14 @@
     "translations": [
       "đặc điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个产品的特点是什么？",
+        "pinyin": "Zhège chǎnpǐn de tèdiǎn shì shénme?",
+        "vietnamese": "Đặc điểm của sản phẩm này là gì?"
+      }
+    ]
   },
   {
     "id": "4-430",
@@ -3867,7 +6870,14 @@
     "translations": [
       "đề ra"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请提一些建议。",
+        "pinyin": "Qǐng tí yīxiē jiànyì.",
+        "vietnamese": "Xin hãy đưa ra một vài gợi ý."
+      }
+    ]
   },
   {
     "id": "4-431",
@@ -3876,7 +6886,14 @@
     "translations": [
       "cung cấp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们提供免费早餐。",
+        "pinyin": "Wǒmen tígōng miǎnfèi zǎocān.",
+        "vietnamese": "Chúng tôi cung cấp bữa sáng miễn phí."
+      }
+    ]
   },
   {
     "id": "4-432",
@@ -3885,7 +6902,14 @@
     "translations": [
       "trước thời hạn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请提前告诉我。",
+        "pinyin": "Qǐng tíqián gàosù wǒ.",
+        "vietnamese": "Xin hãy cho tôi biết trước."
+      }
+    ]
   },
   {
     "id": "4-433",
@@ -3894,7 +6918,14 @@
     "translations": [
       "nhắc nhở"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他提醒我明天开会。",
+        "pinyin": "Tā tíxǐng wǒ míngtiān kāihuì.",
+        "vietnamese": "Anh ấy nhắc tôi rằng ngày mai họp."
+      }
+    ]
   },
   {
     "id": "4-434",
@@ -3903,7 +6934,14 @@
     "translations": [
       "điền trống"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请在填空处写上答案。",
+        "pinyin": "Qǐng zài tiánkòng chù xiě shàng dá'àn.",
+        "vietnamese": "Xin hãy điền câu trả lời vào chỗ trống."
+      }
+    ]
   },
   {
     "id": "4-435",
@@ -3912,7 +6950,14 @@
     "translations": [
       "điều kiện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个工作条件很好。",
+        "pinyin": "Zhège gōngzuò tiáojiàn hěn hǎo.",
+        "vietnamese": "Điều kiện công việc này rất tốt."
+      }
+    ]
   },
   {
     "id": "4-436",
@@ -3921,7 +6966,14 @@
     "translations": [
       "dừng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请停车。",
+        "pinyin": "Qǐng tíng chē.",
+        "vietnamese": "Xin dừng xe."
+      }
+    ]
   },
   {
     "id": "4-437",
@@ -3930,7 +6982,14 @@
     "translations": [
       "rất"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他挺高的。",
+        "pinyin": "Tā tǐng gāo de.",
+        "vietnamese": "Anh ấy khá cao."
+      }
+    ]
   },
   {
     "id": "4-438",
@@ -3939,7 +6998,14 @@
     "translations": [
       "thông qua"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我通过了考试。",
+        "pinyin": "Wǒ tōngguò le kǎoshì.",
+        "vietnamese": "Tôi đã qua kỳ thi."
+      }
+    ]
   },
   {
     "id": "4-439",
@@ -3948,7 +7014,14 @@
     "translations": [
       "thông báo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请通知大家明天的会议。",
+        "pinyin": "Qǐng tōngzhī dàjiā míngtiān de huìyì.",
+        "vietnamese": "Xin thông báo với mọi người về cuộc họp ngày mai."
+      }
+    ]
   },
   {
     "id": "4-440",
@@ -3957,7 +7030,14 @@
     "translations": [
       "đồng tình"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们都很同情他。",
+        "pinyin": "Wǒmen dōu hěn tóngqíng tā.",
+        "vietnamese": "Chúng tôi đều rất đồng cảm với anh ấy."
+      }
+    ]
   },
   {
     "id": "4-441",
@@ -3966,7 +7046,14 @@
     "translations": [
       "đồng thời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他同时做两份工作。",
+        "pinyin": "Tā tóngshí zuò liǎng fèn gōngzuò.",
+        "vietnamese": "Anh ấy làm hai công việc cùng một lúc."
+      }
+    ]
   },
   {
     "id": "4-442",
@@ -3975,7 +7062,14 @@
     "translations": [
       "đẩy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请帮我推一下门。",
+        "pinyin": "Qǐng bāng wǒ tuī yīxià mén.",
+        "vietnamese": "Xin hãy giúp tôi đẩy cửa."
+      }
+    ]
   },
   {
     "id": "4-443",
@@ -3984,7 +7078,14 @@
     "translations": [
       "kéo dài thời gian"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "会议推迟到明天。",
+        "pinyin": "Huìyì tuīchí dào míngtiān.",
+        "vietnamese": "Cuộc họp bị hoãn đến ngày mai."
+      }
+    ]
   },
   {
     "id": "4-444",
@@ -3993,7 +7094,14 @@
     "translations": [
       "cởi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请脱下你的外套。",
+        "pinyin": "Qǐng tuō xià nǐ de wàitào.",
+        "vietnamese": "Xin cởi áo khoác ra."
+      }
+    ]
   },
   {
     "id": "4-445",
@@ -4002,7 +7110,14 @@
     "translations": [
       "tất chân"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要一双新的袜子。",
+        "pinyin": "Wǒ xūyào yī shuāng xīn de wàzi.",
+        "vietnamese": "Tôi cần một đôi tất mới."
+      }
+    ]
   },
   {
     "id": "4-446",
@@ -4011,7 +7126,14 @@
     "translations": [
       "hoàn toàn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我完全同意你的看法。",
+        "pinyin": "Wǒ wánquán tóngyì nǐ de kànfǎ.",
+        "vietnamese": "Tôi hoàn toàn đồng ý với quan điểm của bạn."
+      }
+    ]
   },
   {
     "id": "4-447",
@@ -4020,7 +7142,14 @@
     "translations": [
       "tennis"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢打网球。",
+        "pinyin": "Wǒ xǐhuān dǎ wǎngqiú.",
+        "vietnamese": "Tôi thích chơi tennis."
+      }
+    ]
   },
   {
     "id": "4-448",
@@ -4029,7 +7158,14 @@
     "translations": [
       "trang mạng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个网站很好用。",
+        "pinyin": "Zhège wǎngzhàn hěn hǎo yòng.",
+        "vietnamese": "Trang web này rất hữu ích."
+      }
+    ]
   },
   {
     "id": "4-449",
@@ -4038,7 +7174,14 @@
     "translations": [
       "thường (quá khứ)"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他往往迟到。",
+        "pinyin": "Tā wǎngwǎng chídào.",
+        "vietnamese": "Anh ấy thường xuyên đến muộn."
+      }
+    ]
   },
   {
     "id": "4-450",
@@ -4047,7 +7190,14 @@
     "translations": [
       "nguy hiểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "小心，这里很危险。",
+        "pinyin": "Xiǎoxīn, zhèlǐ hěn wēixiǎn.",
+        "vietnamese": "Cẩn thận, chỗ này rất nguy hiểm."
+      }
+    ]
   },
   {
     "id": "4-451",
@@ -4056,7 +7206,14 @@
     "translations": [
       "phòng vệ sinh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "卫生间在哪里？",
+        "pinyin": "Wèishēngjiān zài nǎlǐ?",
+        "vietnamese": "Nhà vệ sinh ở đâu?"
+      }
+    ]
   },
   {
     "id": "4-452",
@@ -4065,7 +7222,14 @@
     "translations": [
       "mùi vị"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个菜的味道很好。",
+        "pinyin": "Zhège cài de wèidào hěn hǎo.",
+        "vietnamese": "Món này có hương vị rất ngon."
+      }
+    ]
   },
   {
     "id": "4-453",
@@ -4074,7 +7238,14 @@
     "translations": [
       "nhiệt độ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天的温度很高。",
+        "pinyin": "Jīntiān de wēndù hěn gāo.",
+        "vietnamese": "Nhiệt độ hôm nay rất cao."
+      }
+    ]
   },
   {
     "id": "4-454",
@@ -4083,7 +7254,14 @@
     "translations": [
       "bài văn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这篇文章写得很好。",
+        "pinyin": "Zhè piān wénzhāng xiě de hěn hǎo.",
+        "vietnamese": "Bài viết này được viết rất hay."
+      }
+    ]
   },
   {
     "id": "4-455",
@@ -4092,7 +7270,14 @@
     "translations": [
       "ô nhiễm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这里的污染很严重。",
+        "pinyin": "Zhèlǐ de wūrǎn hěn yánzhòng.",
+        "vietnamese": "Ô nhiễm ở đây rất nghiêm trọng."
+      }
+    ]
   },
   {
     "id": "4-456",
@@ -4101,7 +7286,14 @@
     "translations": [
       "không"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他无话可说。",
+        "pinyin": "Tā wú huà kě shuō.",
+        "vietnamese": "Anh ấy không biết nói gì."
+      }
+    ]
   },
   {
     "id": "4-457",
@@ -4110,7 +7302,14 @@
     "translations": [
       "nhàm chán"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书很无聊。",
+        "pinyin": "Zhè běn shū hěn wúliáo.",
+        "vietnamese": "Cuốn sách này rất nhàm chán."
+      }
+    ]
   },
   {
     "id": "4-458",
@@ -4119,7 +7318,14 @@
     "translations": [
       "bất luận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "无论天气如何，我们都去。",
+        "pinyin": "Wúlùn tiānqì rúhé, wǒmen dōu qù.",
+        "vietnamese": "Bất kể thời tiết thế nào, chúng tôi đều đi."
+      }
+    ]
   },
   {
     "id": "4-459",
@@ -4128,7 +7334,14 @@
     "translations": [
       "hiểu lầm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我误会了他的意思。",
+        "pinyin": "Wǒ wùhuì le tā de yìsi.",
+        "vietnamese": "Tôi đã hiểu lầm ý của anh ấy."
+      }
+    ]
   },
   {
     "id": "4-460",
@@ -4137,7 +7350,14 @@
     "translations": [
       "cà chua"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢吃西红柿。",
+        "pinyin": "Wǒ xǐhuān chī xīhóngshì.",
+        "vietnamese": "Tôi thích ăn cà chua."
+      }
+    ]
   },
   {
     "id": "4-461",
@@ -4146,7 +7366,14 @@
     "translations": [
       "thu hút"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的表演吸引了很多人。",
+        "pinyin": "Tā de biǎoyǎn xīyǐn le hěn duō rén.",
+        "vietnamese": "Màn biểu diễn của anh ấy thu hút rất nhiều người."
+      }
+    ]
   },
   {
     "id": "4-462",
@@ -4155,7 +7382,14 @@
     "translations": [
       "mặn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个菜有点咸。",
+        "pinyin": "Zhège cài yǒudiǎn xián.",
+        "vietnamese": "Món này hơi mặn."
+      }
+    ]
   },
   {
     "id": "4-463",
@@ -4164,7 +7398,14 @@
     "translations": [
       "tiền mặt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请用现金付款。",
+        "pinyin": "Qǐng yòng xiànjīn fùkuǎn.",
+        "vietnamese": "Vui lòng thanh toán bằng tiền mặt."
+      }
+    ]
   },
   {
     "id": "4-464",
@@ -4173,7 +7414,14 @@
     "translations": [
       "ngưỡng mộ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我羡慕他的生活。",
+        "pinyin": "Wǒ xiànmù tā de shēnghuó.",
+        "vietnamese": "Tôi ngưỡng mộ cuộc sống của anh ấy."
+      }
+    ]
   },
   {
     "id": "4-465",
@@ -4182,7 +7430,14 @@
     "translations": [
       "ngược lại"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的意见和我的相反。",
+        "pinyin": "Tā de yìjiàn hé wǒ de xiāngfǎn.",
+        "vietnamese": "Ý kiến của anh ấy trái ngược với của tôi."
+      }
+    ]
   },
   {
     "id": "4-466",
@@ -4191,7 +7446,14 @@
     "translations": [
       "giống nhau"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们有相同的爱好。",
+        "pinyin": "Tāmen yǒu xiāngtóng de àihào.",
+        "vietnamese": "Họ có cùng sở thích."
+      }
+    ]
   },
   {
     "id": "4-467",
@@ -4200,7 +7462,14 @@
     "translations": [
       "thơm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这朵花很香。",
+        "pinyin": "Zhè duǒ huā hěn xiāng.",
+        "vietnamese": "Bông hoa này rất thơm."
+      }
+    ]
   },
   {
     "id": "4-468",
@@ -4209,7 +7478,14 @@
     "translations": [
       "tỉ mỉ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他给我详细地解释了这个问题。",
+        "pinyin": "Tā gěi wǒ xiángxì de jiěshì le zhège wèntí.",
+        "vietnamese": "Anh ấy giải thích chi tiết vấn đề này cho tôi."
+      }
+    ]
   },
   {
     "id": "4-469",
@@ -4218,7 +7494,14 @@
     "translations": [
       "kêu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "门铃响了。",
+        "pinyin": "Ménlíng xiǎng le.",
+        "vietnamese": "Chuông cửa reo."
+      }
+    ]
   },
   {
     "id": "4-470",
@@ -4227,7 +7510,14 @@
     "translations": [
       "cục tẩy"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要一块橡皮。",
+        "pinyin": "Wǒ xūyào yī kuài xiàngpí.",
+        "vietnamese": "Tôi cần một cục tẩy."
+      }
+    ]
   },
   {
     "id": "4-471",
@@ -4236,7 +7526,14 @@
     "translations": [
       "thông tin, tin"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你听到了什么消息？",
+        "pinyin": "Nǐ tīngdào le shénme xiāoxi?",
+        "vietnamese": "Bạn nghe thấy tin tức gì?"
+      }
+    ]
   },
   {
     "id": "4-472",
@@ -4245,7 +7542,14 @@
     "translations": [
       "đồ ăn vặt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "北京的小吃很有名。",
+        "pinyin": "Běijīng de xiǎochī hěn yǒumíng.",
+        "vietnamese": "Đồ ăn vặt Bắc Kinh rất nổi tiếng."
+      }
+    ]
   },
   {
     "id": "4-473",
@@ -4254,7 +7558,14 @@
     "translations": [
       "anh chàng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一个很勤快的小伙子。",
+        "pinyin": "Tā shì yīgè hěn qínkuài de xiǎohuǒzi.",
+        "vietnamese": "Anh ấy là một chàng trai rất chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-474",
@@ -4263,7 +7574,14 @@
     "translations": [
       "tiểu thuyết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本小说很有意思。",
+        "pinyin": "Zhè běn xiǎoshuō hěn yǒu yìsi.",
+        "vietnamese": "Cuốn tiểu thuyết này rất thú vị."
+      }
+    ]
   },
   {
     "id": "4-475",
@@ -4272,7 +7590,14 @@
     "translations": [
       "truyện cười"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你的笑话很好笑。",
+        "pinyin": "Nǐ de xiàohuà hěn hǎo xiào.",
+        "vietnamese": "Truyện cười của bạn rất buồn cười."
+      }
+    ]
   },
   {
     "id": "4-476",
@@ -4281,7 +7606,14 @@
     "translations": [
       "hiệu quả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "新政策的效果很好。",
+        "pinyin": "Xīn zhèngcè de xiàoguǒ hěn hǎo.",
+        "vietnamese": "Hiệu quả của chính sách mới rất tốt."
+      }
+    ]
   },
   {
     "id": "4-477",
@@ -4290,7 +7622,14 @@
     "translations": [
       "tâm trạng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的心情很好。",
+        "pinyin": "Wǒ de xīnqíng hěn hǎo.",
+        "vietnamese": "Tâm trạng của tôi rất tốt."
+      }
+    ]
   },
   {
     "id": "4-478",
@@ -4299,7 +7638,14 @@
     "translations": [
       "vất vả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "工作很辛苦，但很值得。",
+        "pinyin": "Gōngzuò hěn xīnkǔ, dàn hěn zhídé.",
+        "vietnamese": "Công việc rất vất vả nhưng rất đáng."
+      }
+    ]
   },
   {
     "id": "4-479",
@@ -4308,7 +7654,14 @@
     "translations": [
       "bức thư"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要一个信封。",
+        "pinyin": "Wǒ xūyào yī gè xìnfēng.",
+        "vietnamese": "Tôi cần một cái phong bì."
+      }
+    ]
   },
   {
     "id": "4-480",
@@ -4317,7 +7670,14 @@
     "translations": [
       "thông tin"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要更多的信息。",
+        "pinyin": "Wǒmen xūyào gèng duō de xìnxī.",
+        "vietnamese": "Chúng tôi cần thêm thông tin."
+      }
+    ]
   },
   {
     "id": "4-481",
@@ -4326,7 +7686,14 @@
     "translations": [
       "niềm tin"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我对自己有信心。",
+        "pinyin": "Wǒ duì zìjǐ yǒu xìnxīn.",
+        "vietnamese": "Tôi có tự tin vào bản thân."
+      }
+    ]
   },
   {
     "id": "4-482",
@@ -4335,7 +7702,14 @@
     "translations": [
       "hưng phấn, hứng khởi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "见到你，我很兴奋。",
+        "pinyin": "jiàn dào nǐ, wǒ hěn xīngfèn.",
+        "vietnamese": "Tôi rất phấn khích khi gặp bạn."
+      }
+    ]
   },
   {
     "id": "4-483",
@@ -4344,7 +7718,14 @@
     "translations": [
       "được"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这条路,行吗？",
+        "pinyin": "Zhè tiáo lù, xíng ma?",
+        "vietnamese": "Con đường này được không?"
+      }
+    ]
   },
   {
     "id": "4-484",
@@ -4353,7 +7734,14 @@
     "translations": [
       "tỉnh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他醒了。",
+        "pinyin": "Tā xǐng le.",
+        "vietnamese": "Anh ấy đã tỉnh dậy."
+      }
+    ]
   },
   {
     "id": "4-485",
@@ -4362,7 +7750,14 @@
     "translations": [
       "hạnh phúc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们过得很幸福。",
+        "pinyin": "Wǒmen guò de hěn xìngfú.",
+        "vietnamese": "Chúng tôi sống rất hạnh phúc."
+      }
+    ]
   },
   {
     "id": "4-486",
@@ -4371,7 +7766,14 @@
     "translations": [
       "giới tính"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请填写你的性别。",
+        "pinyin": "Qǐng tiánxiě nǐ de xìngbié.",
+        "vietnamese": "Vui lòng điền giới tính của bạn."
+      }
+    ]
   },
   {
     "id": "4-487",
@@ -4380,7 +7782,14 @@
     "translations": [
       "tính cách"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的性格很开朗。",
+        "pinyin": "Tā de xìnggé hěn kāilǎng.",
+        "vietnamese": "Tính cách của anh ấy rất cởi mở."
+      }
+    ]
   },
   {
     "id": "4-488",
@@ -4389,7 +7798,14 @@
     "translations": [
       "sửa chữa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他在修理自行车。",
+        "pinyin": "Tā zài xiūlǐ zìxíngchē.",
+        "vietnamese": "Anh ấy đang sửa xe đạp."
+      }
+    ]
   },
   {
     "id": "4-489",
@@ -4398,7 +7814,14 @@
     "translations": [
       "rất nhiều"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "学校有许多学生。",
+        "pinyin": "Xuéxiào yǒu xǔduō xuéshēng.",
+        "vietnamese": "Trường có nhiều học sinh."
+      }
+    ]
   },
   {
     "id": "4-490",
@@ -4407,7 +7830,14 @@
     "translations": [
       "học kì"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个学期很忙。",
+        "pinyin": "Zhège xuéqī hěn máng.",
+        "vietnamese": "Học kỳ này rất bận."
+      }
+    ]
   },
   {
     "id": "4-491",
@@ -4416,7 +7846,14 @@
     "translations": [
       "áp lực"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我的压力很大。",
+        "pinyin": "Wǒ de yālì hěn dà.",
+        "vietnamese": "Tôi có nhiều áp lực."
+      }
+    ]
   },
   {
     "id": "4-492",
@@ -4425,7 +7862,14 @@
     "translations": [
       "a"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他呀，真是个好人。",
+        "pinyin": "Tā ya, zhēn shì gè hǎo rén.",
+        "vietnamese": "Anh ấy, thật sự là một người tốt."
+      }
+    ]
   },
   {
     "id": "4-493",
@@ -4434,7 +7878,14 @@
     "translations": [
       "kem đánh răng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要买牙膏。",
+        "pinyin": "Wǒ xūyào mǎi yágāo.",
+        "vietnamese": "Tôi cần mua kem đánh răng."
+      }
+    ]
   },
   {
     "id": "4-494",
@@ -4443,7 +7894,14 @@
     "translations": [
       "châu Á"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "亚洲的文化很丰富。",
+        "pinyin": "Yàzhōu de wénhuà hěn fēngfù.",
+        "vietnamese": "Văn hóa châu Á rất phong phú."
+      }
+    ]
   },
   {
     "id": "4-495",
@@ -4452,7 +7910,14 @@
     "translations": [
       "nghiêm khắc"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他对自己很严格。",
+        "pinyin": "Tā duì zìjǐ hěn yángé.",
+        "vietnamese": "Anh ấy rất nghiêm khắc với bản thân."
+      }
+    ]
   },
   {
     "id": "4-496",
@@ -4461,7 +7926,14 @@
     "translations": [
       "nghiêm trọng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个问题很严重。",
+        "pinyin": "Zhège wèntí hěn yánzhòng.",
+        "vietnamese": "Vấn đề này rất nghiêm trọng."
+      }
+    ]
   },
   {
     "id": "4-497",
@@ -4470,7 +7942,14 @@
     "translations": [
       "nghiên cứu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他在研究新技术。",
+        "pinyin": "Tā zài yánjiū xīn jìshù.",
+        "vietnamese": "Anh ấy đang nghiên cứu công nghệ mới."
+      }
+    ]
   },
   {
     "id": "4-498",
@@ -4479,7 +7958,14 @@
     "translations": [
       "muối"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要加点盐。",
+        "pinyin": "Wǒmen xūyào jiā diǎn yán.",
+        "vietnamese": "Chúng ta cần thêm một chút muối."
+      }
+    ]
   },
   {
     "id": "4-499",
@@ -4488,7 +7974,14 @@
     "translations": [
       "kính mắt"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要戴眼镜。",
+        "pinyin": "Wǒ xūyào dài yǎnjìng.",
+        "vietnamese": "Tôi cần đeo kính."
+      }
+    ]
   },
   {
     "id": "4-500",
@@ -4497,7 +7990,14 @@
     "translations": [
       "buổi diễn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们正在准备演出。",
+        "pinyin": "Tāmen zhèngzài zhǔnbèi yǎnchū.",
+        "vietnamese": "Họ đang chuẩn bị biểu diễn."
+      }
+    ]
   },
   {
     "id": "4-501",
@@ -4506,7 +8006,14 @@
     "translations": [
       "diễn viên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一名演员。",
+        "pinyin": "Tā shì yī míng yǎnyuán.",
+        "vietnamese": "Anh ấy là một diễn viên."
+      }
+    ]
   },
   {
     "id": "4-502",
@@ -4515,7 +8022,14 @@
     "translations": [
       "ánh nắng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "今天阳光明媚。",
+        "pinyin": "Jīntiān yángguāng míngmèi.",
+        "vietnamese": "Hôm nay nắng đẹp."
+      }
+    ]
   },
   {
     "id": "4-503",
@@ -4524,7 +8038,14 @@
     "translations": [
       "nuôi dưỡng, hình thành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这种习惯需要时间养成。",
+        "pinyin": "Zhè zhǒng xíguàn xūyào shíjiān yǎngchéng.",
+        "vietnamese": "Thói quen này cần thời gian để hình thành."
+      }
+    ]
   },
   {
     "id": "4-504",
@@ -4533,7 +8054,14 @@
     "translations": [
       "kiểu dáng, dáng vẻ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这件衣服的样子很好看。",
+        "pinyin": "Zhè jiàn yīfú de yàngzi hěn hǎokàn.",
+        "vietnamese": "kiểu dáng của quần áo này rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-505",
@@ -4542,7 +8070,14 @@
     "translations": [
       "mời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们邀请了很多朋友。",
+        "pinyin": "Wǒmen yāoqǐng le hěn duō péngyǒu.",
+        "vietnamese": "Chúng tôi mời rất nhiều bạn bè."
+      }
+    ]
   },
   {
     "id": "4-506",
@@ -4551,7 +8086,14 @@
     "translations": [
       "nếu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "要是你有时间，我们一起去吧。",
+        "pinyin": "Yàoshì nǐ yǒu shíjiān, wǒmen yīqǐ qù ba.",
+        "vietnamese": "Nếu bạn có thời gian, chúng ta cùng đi nhé."
+      }
+    ]
   },
   {
     "id": "4-507",
@@ -4560,7 +8102,14 @@
     "translations": [
       "chìa khóa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我找不到我的钥匙了。",
+        "pinyin": "Wǒ zhǎo bù dào wǒ de yàoshi le.",
+        "vietnamese": "Tôi không tìm thấy chìa khóa của mình."
+      }
+    ]
   },
   {
     "id": "4-508",
@@ -4569,7 +8118,14 @@
     "translations": [
       "có lẽ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "也许明天会下雨。",
+        "pinyin": "Yěxǔ míngtiān huì xià yǔ.",
+        "vietnamese": "Có lẽ ngày mai sẽ mưa."
+      }
+    ]
   },
   {
     "id": "4-509",
@@ -4578,7 +8134,14 @@
     "translations": [
       "chiếc lá"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "树上的叶子变黄了。",
+        "pinyin": "Shù shàng de yèzi biàn huáng le.",
+        "vietnamese": "Lá trên cây đã chuyển sang màu vàng."
+      }
+    ]
   },
   {
     "id": "4-510",
@@ -4587,7 +8150,14 @@
     "translations": [
       "trang mạng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请翻到下一页。",
+        "pinyin": "Qǐng fān dào xià yī yè.",
+        "vietnamese": "Vui lòng lật sang trang tiếp theo."
+      }
+    ]
   },
   {
     "id": "4-511",
@@ -4596,7 +8166,14 @@
     "translations": [
       "tất cả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "一切都会好的。",
+        "pinyin": "Yīqiè dōu huì hǎo de.",
+        "vietnamese": "Mọi thứ sẽ ổn thôi."
+      }
+    ]
   },
   {
     "id": "4-512",
@@ -4605,7 +8182,14 @@
     "translations": [
       "lấy, với"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "以他的能力，他能做到。",
+        "pinyin": "Yǐ tā de nénglì, tā néng zuò dào.",
+        "vietnamese": "Với khả năng của anh ấy, anh ấy có thể làm được."
+      }
+    ]
   },
   {
     "id": "4-513",
@@ -4614,7 +8198,14 @@
     "translations": [
       "tưởng rằng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我以为他已经走了。",
+        "pinyin": "Wǒ yǐwéi tā yǐjīng zǒu le.",
+        "vietnamese": "Tôi tưởng rằng anh ấy đã đi rồi."
+      }
+    ]
   },
   {
     "id": "4-514",
@@ -4623,7 +8214,14 @@
     "translations": [
       "nghệ thuật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他对艺术很有兴趣。",
+        "pinyin": "Tā duì yìshù hěn yǒu xìngqù.",
+        "vietnamese": "Anh ấy rất hứng thú với nghệ thuật."
+      }
+    ]
   },
   {
     "id": "4-515",
@@ -4632,7 +8230,14 @@
     "translations": [
       "ý kiến"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我有一些不同的意见。",
+        "pinyin": "Wǒ yǒu yīxiē bùtóng de yìjiàn.",
+        "vietnamese": "Tôi có một vài ý kiến khác nhau."
+      }
+    ]
   },
   {
     "id": "4-516",
@@ -4641,7 +8246,14 @@
     "translations": [
       "cho nên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "因此，我们需要改变计划。",
+        "pinyin": "Yīncǐ, wǒmen xūyào gǎibiàn jìhuà.",
+        "vietnamese": "Vì vậy, chúng ta cần thay đổi kế hoạch."
+      }
+    ]
   },
   {
     "id": "4-517",
@@ -4650,7 +8262,14 @@
     "translations": [
       "dẫn đến, gây ra"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的演讲引起了大家的兴趣。",
+        "pinyin": "Tā de yǎnjiǎng yǐnqǐ le dàjiā de xìngqù.",
+        "vietnamese": "Bài diễn thuyết của anh ấy đã thu hút sự quan tâm của mọi người."
+      }
+    ]
   },
   {
     "id": "4-518",
@@ -4659,7 +8278,14 @@
     "translations": [
       "ấn tượng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我对他的印象很好。",
+        "pinyin": "Wǒ duì tā de yìnxiàng hěn hǎo.",
+        "vietnamese": "Ấn tượng của tôi về anh ấy rất tốt."
+      }
+    ]
   },
   {
     "id": "4-519",
@@ -4668,7 +8294,14 @@
     "translations": [
       "thắng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们赢了比赛。",
+        "pinyin": "Wǒmen yíng le bǐsài.",
+        "vietnamese": "Chúng tôi đã thắng trận đấu."
+      }
+    ]
   },
   {
     "id": "4-520",
@@ -4677,7 +8310,14 @@
     "translations": [
       "ứng tuyển"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我去公司应聘了。",
+        "pinyin": "Wǒ qù gōngsī yìngpìn le.",
+        "vietnamese": "Tôi đã đến công ty để ứng tuyển."
+      }
+    ]
   },
   {
     "id": "4-521",
@@ -4686,7 +8326,14 @@
     "translations": [
       "mãi mãi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们的友谊永远不会改变。",
+        "pinyin": "Wǒmen de yǒuyì yǒngyuǎn bù huì gǎibiàn.",
+        "vietnamese": "Tình bạn của chúng ta sẽ không bao giờ thay đổi."
+      }
+    ]
   },
   {
     "id": "4-522",
@@ -4695,7 +8342,14 @@
     "translations": [
       "dũng cảm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很勇敢地面对困难。",
+        "pinyin": "Tā hěn yǒnggǎn de miànduì kùnnán.",
+        "vietnamese": "Anh ấy rất dũng cảm đối mặt với khó khăn."
+      }
+    ]
   },
   {
     "id": "4-523",
@@ -4704,7 +8358,14 @@
     "translations": [
       "ưu điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的优点是很认真。",
+        "pinyin": "Tā de yōudiǎn shì hěn rènzhēn.",
+        "vietnamese": "Ưu điểm của anh ấy là rất chăm chỉ."
+      }
+    ]
   },
   {
     "id": "4-524",
@@ -4713,7 +8374,14 @@
     "translations": [
       "ưu tú"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "她是一个优秀的学生。",
+        "pinyin": "Tā shì yīgè yōuxiù de xuéshēng.",
+        "vietnamese": "Cô ấy là một học sinh xuất sắc."
+      }
+    ]
   },
   {
     "id": "4-525",
@@ -4722,7 +8390,14 @@
     "translations": [
       "hài hước"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他讲笑话很幽默。",
+        "pinyin": "Tā jiǎng xiàohuà hěn yōumò.",
+        "vietnamese": "Anh ấy kể chuyện cười rất hài hước."
+      }
+    ]
   },
   {
     "id": "4-526",
@@ -4731,7 +8406,14 @@
     "translations": [
       "đặc biệt là"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我尤其喜欢吃水果。",
+        "pinyin": "Wǒ yóuqí xǐhuān chī shuǐguǒ.",
+        "vietnamese": "Tôi đặc biệt thích ăn trái cây."
+      }
+    ]
   },
   {
     "id": "4-527",
@@ -4740,7 +8422,14 @@
     "translations": [
       "do"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "由他负责这项工作。",
+        "pinyin": "Yóu tā fùzé zhè xiàng gōngzuò.",
+        "vietnamese": "Công việc này do anh ấy phụ trách."
+      }
+    ]
   },
   {
     "id": "4-528",
@@ -4749,7 +8438,14 @@
     "translations": [
       "do"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "由于下雨，我们取消了计划。",
+        "pinyin": "Yóuyú xiàyǔ, wǒmen qǔxiāo le jìhuà.",
+        "vietnamese": "Do trời mưa, chúng tôi đã hủy bỏ kế hoạch."
+      }
+    ]
   },
   {
     "id": "4-529",
@@ -4758,7 +8454,14 @@
     "translations": [
       "bưu điện"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我去邮局寄信。",
+        "pinyin": "Wǒ qù yóujú jì xìn.",
+        "vietnamese": "Tôi đi bưu điện gửi thư."
+      }
+    ]
   },
   {
     "id": "4-530",
@@ -4767,7 +8470,14 @@
     "translations": [
       "hữu hảo"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他们对我们很友好。",
+        "pinyin": "Tāmen duì wǒmen hěn yǒuhǎo.",
+        "vietnamese": "Họ rất thân thiện với chúng tôi."
+      }
+    ]
   },
   {
     "id": "4-531",
@@ -4776,7 +8486,14 @@
     "translations": [
       "hữu nghị"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "友谊是非常珍贵的。",
+        "pinyin": "Yǒuyì shì fēicháng zhēnguì de.",
+        "vietnamese": "Tình bạn rất quý giá."
+      }
+    ]
   },
   {
     "id": "4-532",
@@ -4785,7 +8502,14 @@
     "translations": [
       "hứng thú"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个故事很有趣。",
+        "pinyin": "Zhège gùshì hěn yǒuqù.",
+        "vietnamese": "Câu chuyện này rất thú vị."
+      }
+    ]
   },
   {
     "id": "4-533",
@@ -4794,7 +8518,14 @@
     "translations": [
       "thế là"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "天黑了，于是我们回家了。",
+        "pinyin": "Tiān hēi le, yúshì wǒmen huí jiā le.",
+        "vietnamese": "Trời tối rồi, nên chúng tôi về nhà."
+      }
+    ]
   },
   {
     "id": "4-534",
@@ -4803,7 +8534,14 @@
     "translations": [
       "vui vẻ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "希望你度过一个愉快的假期。",
+        "pinyin": "Xīwàng nǐ dùguò yīgè yúkuài de jiàqī.",
+        "vietnamese": "Hy vọng bạn có một kỳ nghỉ vui vẻ."
+      }
+    ]
   },
   {
     "id": "4-535",
@@ -4812,7 +8550,14 @@
     "translations": [
       "và"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他与我一起去旅游。",
+        "pinyin": "Tā yǔ wǒ yīqǐ qù lǚyóu.",
+        "vietnamese": "Anh ấy đi du lịch cùng tôi."
+      }
+    ]
   },
   {
     "id": "4-536",
@@ -4821,7 +8566,14 @@
     "translations": [
       "cầu lông"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢打羽毛球。",
+        "pinyin": "Wǒ xǐhuān dǎ yǔmáoqiú.",
+        "vietnamese": "Tôi thích chơi cầu lông."
+      }
+    ]
   },
   {
     "id": "4-537",
@@ -4830,7 +8582,14 @@
     "translations": [
       "ngữ pháp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的语法很好。",
+        "pinyin": "Tā de yǔfǎ hěn hǎo.",
+        "vietnamese": "Ngữ pháp của anh ấy rất tốt."
+      }
+    ]
   },
   {
     "id": "4-538",
@@ -4839,7 +8598,14 @@
     "translations": [
       "ngôn ngữ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他会说多种语言。",
+        "pinyin": "Tā huì shuō duō zhǒng yǔyán.",
+        "vietnamese": "Anh ấy có thể nói nhiều ngôn ngữ."
+      }
+    ]
   },
   {
     "id": "4-539",
@@ -4848,7 +8614,14 @@
     "translations": [
       "chuẩn bị trước"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请预习明天的课文。",
+        "pinyin": "Qǐng yùxí míngtiān de kèwén.",
+        "vietnamese": "Vui lòng chuẩn bị trước bài học ngày mai."
+      }
+    ]
   },
   {
     "id": "4-540",
@@ -4857,7 +8630,14 @@
     "translations": [
       "hóa ra, vốn, cũ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我原来住在北京。",
+        "pinyin": "Wǒ yuánlái zhù zài Běijīng.",
+        "vietnamese": "Tôi vốn sống ở Bắc Kinh."
+      }
+    ]
   },
   {
     "id": "4-541",
@@ -4866,7 +8646,14 @@
     "translations": [
       "tha thứ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请原谅我的错误。",
+        "pinyin": "Qǐng yuánliàng wǒ de cuòwù.",
+        "vietnamese": "Xin hãy tha thứ cho lỗi lầm của tôi."
+      }
+    ]
   },
   {
     "id": "4-542",
@@ -4875,7 +8662,14 @@
     "translations": [
       "nguyên nhân"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他解释了事情的原因。",
+        "pinyin": "Tā jiěshì le shìqíng de yuányīn.",
+        "vietnamese": "Anh ấy đã giải thích nguyên nhân của sự việc."
+      }
+    ]
   },
   {
     "id": "4-543",
@@ -4884,7 +8678,14 @@
     "translations": [
       "hẹn, cuộc hẹn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "明天的约会你来吗？",
+        "pinyin": "Míngtiān de yuēhuì nǐ lái ma?",
+        "vietnamese": "Cuộc hẹn ngày mai bạn đến không?"
+      }
+    ]
   },
   {
     "id": "4-544",
@@ -4893,7 +8694,14 @@
     "translations": [
       "đọc hiểu"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我每天阅读书籍。",
+        "pinyin": "Wǒ měitiān yuèdú shūjí.",
+        "vietnamese": "Tôi đọc sách hàng ngày."
+      }
+    ]
   },
   {
     "id": "4-545",
@@ -4902,7 +8710,14 @@
     "translations": [
       "mây"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "天空中有很多云。",
+        "pinyin": "Tiānkōng zhōng yǒu hěn duō yún.",
+        "vietnamese": "Trên bầu trời có rất nhiều mây."
+      }
+    ]
   },
   {
     "id": "4-546",
@@ -4911,7 +8726,14 @@
     "translations": [
       "cho phép"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这里不允许吸烟。",
+        "pinyin": "Zhèlǐ bù yǔnxǔ xīyān.",
+        "vietnamese": "Ở đây không được phép hút thuốc."
+      }
+    ]
   },
   {
     "id": "4-547",
@@ -4920,7 +8742,14 @@
     "translations": [
       "tạp chí"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他正在看杂志。",
+        "pinyin": "Tā zhèngzài kàn zázhì.",
+        "vietnamese": "Anh ấy đang đọc tạp chí."
+      }
+    ]
   },
   {
     "id": "4-548",
@@ -4929,7 +8758,14 @@
     "translations": [
       "chúng ta"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "咱们一起去吧。",
+        "pinyin": "Zánmen yīqǐ qù ba.",
+        "vietnamese": "Chúng ta cùng đi nhé."
+      }
+    ]
   },
   {
     "id": "4-549",
@@ -4938,7 +8774,14 @@
     "translations": [
       "tạm thời"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我暂时住在朋友家。",
+        "pinyin": "Wǒ zànshí zhù zài péngyǒu jiā.",
+        "vietnamese": "Tôi tạm thời sống ở nhà bạn."
+      }
+    ]
   },
   {
     "id": "4-550",
@@ -4947,7 +8790,14 @@
     "translations": [
       "bẩn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这件衣服很脏。",
+        "pinyin": "Zhè jiàn yīfú hěn zāng.",
+        "vietnamese": "Bộ quần áo này rất bẩn."
+      }
+    ]
   },
   {
     "id": "4-551",
@@ -4956,7 +8806,14 @@
     "translations": [
       "trách nhiệm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你要负责任。",
+        "pinyin": "Nǐ yào fù zérèn.",
+        "vietnamese": "Bạn phải chịu trách nhiệm."
+      }
+    ]
   },
   {
     "id": "4-552",
@@ -4965,7 +8822,14 @@
     "translations": [
       "tăng thêm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们需要增加预算。",
+        "pinyin": "Wǒmen xūyào zēngjiā yùsuàn.",
+        "vietnamese": "Chúng ta cần tăng ngân sách."
+      }
+    ]
   },
   {
     "id": "4-553",
@@ -4974,7 +8838,14 @@
     "translations": [
       "máy bận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "电话一直占线。",
+        "pinyin": "Diànhuà yīzhí zhànxiàn.",
+        "vietnamese": "Điện thoại luôn bận."
+      }
+    ]
   },
   {
     "id": "4-554",
@@ -4983,7 +8854,14 @@
     "translations": [
       "tuyển dụng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "公司正在招聘员工。",
+        "pinyin": "Gōngsī zhèngzài zhāopìn yuángōng.",
+        "vietnamese": "Công ty đang tuyển dụng nhân viên."
+      }
+    ]
   },
   {
     "id": "4-555",
@@ -4992,7 +8870,14 @@
     "translations": [
       "chiếu, chụp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请照一下这张照片。",
+        "pinyin": "Qǐng zhào yīxià zhè zhāng zhàopiàn.",
+        "vietnamese": "Xin hãy chụp bức ảnh này."
+      }
+    ]
   },
   {
     "id": "4-556",
@@ -5001,7 +8886,14 @@
     "translations": [
       "thật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一个真正的朋友。",
+        "pinyin": "Tā shì yīgè zhēnzhèng de péngyǒu.",
+        "vietnamese": "Anh ấy là một người bạn thực sự."
+      }
+    ]
   },
   {
     "id": "4-557",
@@ -5010,7 +8902,14 @@
     "translations": [
       "chỉnh sửa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我需要整理房间。",
+        "pinyin": "Wǒ xūyào zhěnglǐ fángjiān.",
+        "vietnamese": "Tôi cần dọn dẹp phòng."
+      }
+    ]
   },
   {
     "id": "4-558",
@@ -5019,7 +8918,14 @@
     "translations": [
       "bình thường"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "一切都很正常。",
+        "pinyin": "Yīqiè dōu hěn zhèngcháng.",
+        "vietnamese": "Mọi thứ đều rất bình thường."
+      }
+    ]
   },
   {
     "id": "4-559",
@@ -5028,7 +8934,14 @@
     "translations": [
       "vừa hay"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你来得正好。",
+        "pinyin": "Nǐ lái de zhènghǎo.",
+        "vietnamese": "Bạn đến vừa đúng lúc."
+      }
+    ]
   },
   {
     "id": "4-560",
@@ -5037,7 +8950,14 @@
     "translations": [
       "chính xác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "你的答案是正确的。",
+        "pinyin": "Nǐ de dá'àn shì zhèngquè de.",
+        "vietnamese": "Câu trả lời của bạn là chính xác."
+      }
+    ]
   },
   {
     "id": "4-561",
@@ -5046,7 +8966,14 @@
     "translations": [
       "chính thức"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是一场正式的会议。",
+        "pinyin": "Zhè shì yī chǎng zhèngshì de huìyì.",
+        "vietnamese": "Đây là một cuộc họp chính thức."
+      }
+    ]
   },
   {
     "id": "4-562",
@@ -5055,7 +8982,14 @@
     "translations": [
       "chứng minh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请你证明一下身份。",
+        "pinyin": "Qǐng nǐ zhèngmíng yīxià shēnfèn.",
+        "vietnamese": "Vui lòng xác minh danh tính của bạn."
+      }
+    ]
   },
   {
     "id": "4-563",
@@ -5064,7 +8998,14 @@
     "translations": [
       "của"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书之内容很丰富。",
+        "pinyin": "Zhè běn shū zhī nèiróng hěn fēngfù.",
+        "vietnamese": "Nội dung của cuốn sách này rất phong phú."
+      }
+    ]
   },
   {
     "id": "4-564",
@@ -5073,7 +9014,14 @@
     "translations": [
       "ủng hộ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们支持你的决定。",
+        "pinyin": "Wǒmen zhīchí nǐ de juédìng.",
+        "vietnamese": "Chúng tôi ủng hộ quyết định của bạn."
+      }
+    ]
   },
   {
     "id": "4-565",
@@ -5082,7 +9030,14 @@
     "translations": [
       "tri thức, kiến thức"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "知识是无价之宝。",
+        "pinyin": "Zhīshì shì wújià zhī bǎo.",
+        "vietnamese": "Kiến thức là vô giá."
+      }
+    ]
   },
   {
     "id": "4-566",
@@ -5091,7 +9046,14 @@
     "translations": [
       "trực tiếp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请直接告诉我结果。",
+        "pinyin": "Qǐng zhíjiē gàosù wǒ jiéguǒ.",
+        "vietnamese": "Vui lòng nói trực tiếp với tôi kết quả."
+      }
+    ]
   },
   {
     "id": "4-567",
@@ -5100,7 +9062,14 @@
     "translations": [
       "đáng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这部电影很值得看。",
+        "pinyin": "Zhè bù diànyǐng hěn zhídé kàn.",
+        "vietnamese": "Bộ phim này rất đáng xem."
+      }
+    ]
   },
   {
     "id": "4-568",
@@ -5109,7 +9078,14 @@
     "translations": [
       "nghề nghiệp"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的职业是医生。",
+        "pinyin": "Tā de zhíyè shì yīshēng.",
+        "vietnamese": "Nghề nghiệp của anh ấy là bác sĩ."
+      }
+    ]
   },
   {
     "id": "4-569",
@@ -5118,7 +9094,14 @@
     "translations": [
       "thực vật"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我喜欢养植物。",
+        "pinyin": "Wǒ xǐhuān yǎng zhíwù.",
+        "vietnamese": "Tôi thích trồng cây."
+      }
+    ]
   },
   {
     "id": "4-570",
@@ -5127,7 +9110,14 @@
     "translations": [
       "đành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "下雨了，我们只好回家。",
+        "pinyin": "Xiàyǔ le, wǒmen zhǐhǎo huí jiā.",
+        "vietnamese": "Trời mưa rồi, chúng ta đành phải về nhà."
+      }
+    ]
   },
   {
     "id": "4-571",
@@ -5136,7 +9126,14 @@
     "translations": [
       "chỉ cần"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "只要努力，就会成功。",
+        "pinyin": "Zhǐyào nǔlì, jiù huì chénggōng.",
+        "vietnamese": "Chỉ cần cố gắng, sẽ thành công."
+      }
+    ]
   },
   {
     "id": "4-572",
@@ -5145,7 +9142,14 @@
     "translations": [
       "chỉ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他指了指那棵树。",
+        "pinyin": "Tā zhǐle zhǐ nà kē shù.",
+        "vietnamese": "Anh ấy chỉ vào cái cây kia."
+      }
+    ]
   },
   {
     "id": "4-573",
@@ -5154,7 +9158,14 @@
     "translations": [
       "chí ít"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我至少要休息一天。",
+        "pinyin": "Wǒ zhìshǎo yào xiūxí yī tiān.",
+        "vietnamese": "Tôi ít nhất cần nghỉ ngơi một ngày."
+      }
+    ]
   },
   {
     "id": "4-574",
@@ -5163,7 +9174,14 @@
     "translations": [
       "chất lượng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这家店的产品质量很好。",
+        "pinyin": "Zhè jiā diàn de chǎnpǐn zhìliàng hěn hǎo.",
+        "vietnamese": "Sản phẩm của cửa hàng này có chất lượng rất tốt."
+      }
+    ]
   },
   {
     "id": "4-575",
@@ -5172,7 +9190,14 @@
     "translations": [
       "nặng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这箱子很重。",
+        "pinyin": "Zhè xiāngzi hěn zhòng.",
+        "vietnamese": "Cái vali này rất nặng."
+      }
+    ]
   },
   {
     "id": "4-576",
@@ -5181,7 +9206,14 @@
     "translations": [
       "trọng điểm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个问题是重点。",
+        "pinyin": "Zhège wèntí shì zhòngdiǎn.",
+        "vietnamese": "Vấn đề này là trọng điểm."
+      }
+    ]
   },
   {
     "id": "4-577",
@@ -5190,7 +9222,14 @@
     "translations": [
       "coi trọng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他很重视健康。",
+        "pinyin": "Tā hěn zhòngshì jiànkāng.",
+        "vietnamese": "Anh ấy rất coi trọng sức khỏe."
+      }
+    ]
   },
   {
     "id": "4-578",
@@ -5199,7 +9238,14 @@
     "translations": [
       "xung quanh"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我住在学校的周围。",
+        "pinyin": "Wǒ zhù zài xuéxiào de zhōuwéi.",
+        "vietnamese": "Tôi sống xung quanh trường học."
+      }
+    ]
   },
   {
     "id": "4-579",
@@ -5208,7 +9254,14 @@
     "translations": [
       "chủ ý"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是一个好主意。",
+        "pinyin": "Zhè shì yīgè hǎo zhǔyì.",
+        "vietnamese": "Đây là một ý tưởng hay."
+      }
+    ]
   },
   {
     "id": "4-580",
@@ -5217,7 +9270,14 @@
     "translations": [
       "chúc mừng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "祝贺你通过考试。",
+        "pinyin": "Zhùhè nǐ tōngguò kǎoshì.",
+        "vietnamese": "Chúc mừng bạn đã vượt qua kỳ thi."
+      }
+    ]
   },
   {
     "id": "4-581",
@@ -5226,7 +9286,14 @@
     "translations": [
       "nổi tiếng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一位著名的作家。",
+        "pinyin": "Tā shì yī wèi zhùmíng de zuòjiā.",
+        "vietnamese": "Anh ấy là một nhà văn nổi tiếng."
+      }
+    ]
   },
   {
     "id": "4-582",
@@ -5235,7 +9302,14 @@
     "translations": [
       "chuyên môn"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他专门研究历史。",
+        "pinyin": "Tā zhuānmén yánjiū lìshǐ.",
+        "vietnamese": "Anh ấy chuyên nghiên cứu lịch sử."
+      }
+    ]
   },
   {
     "id": "4-583",
@@ -5244,7 +9318,14 @@
     "translations": [
       "chuyên ngành"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的专业是数学。",
+        "pinyin": "Tā de zhuānyè shì shùxué.",
+        "vietnamese": "Chuyên ngành của anh ấy là toán học."
+      }
+    ]
   },
   {
     "id": "4-584",
@@ -5253,7 +9334,14 @@
     "translations": [
       "chuyển"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请把椅子转过来。",
+        "pinyin": "Qǐng bǎ yǐzi zhuǎn guòlái.",
+        "vietnamese": "Vui lòng xoay ghế lại."
+      }
+    ]
   },
   {
     "id": "4-585",
@@ -5262,7 +9350,14 @@
     "translations": [
       "kiếm"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他在公司赚了很多钱。",
+        "pinyin": "Tā zài gōngsī zhuàn le hěn duō qián.",
+        "vietnamese": "Anh ấy kiếm được rất nhiều tiền ở công ty."
+      }
+    ]
   },
   {
     "id": "4-586",
@@ -5271,7 +9366,14 @@
     "translations": [
       "chính xác"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他的答案非常准确。",
+        "pinyin": "Tā de dá'àn fēicháng zhǔnquè.",
+        "vietnamese": "Câu trả lời của anh ấy rất chính xác."
+      }
+    ]
   },
   {
     "id": "4-587",
@@ -5280,7 +9382,14 @@
     "translations": [
       "đúng giờ"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请准时到达。",
+        "pinyin": "Qǐng zhǔnshí dàodá.",
+        "vietnamese": "Vui lòng đến đúng giờ."
+      }
+    ]
   },
   {
     "id": "4-588",
@@ -5289,7 +9398,14 @@
     "translations": [
       "cẩn thận"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他做事很仔细。",
+        "pinyin": "Tā zuòshì hěn zǐxì.",
+        "vietnamese": "Anh ấy làm việc rất cẩn thận."
+      }
+    ]
   },
   {
     "id": "4-589",
@@ -5298,7 +9414,14 @@
     "translations": [
       "tự nhiên"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "自然景色很美。",
+        "pinyin": "Zìrán jǐngsè hěn měi.",
+        "vietnamese": "Cảnh thiên nhiên rất đẹp."
+      }
+    ]
   },
   {
     "id": "4-590",
@@ -5307,7 +9430,14 @@
     "translations": [
       "tự tin"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我对自己很有自信。",
+        "pinyin": "Wǒ duì zìjǐ hěn yǒu zìxìn.",
+        "vietnamese": "Tôi rất tự tin vào bản thân."
+      }
+    ]
   },
   {
     "id": "4-591",
@@ -5316,7 +9446,14 @@
     "translations": [
       "tổng kết"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他总结了会议的要点。",
+        "pinyin": "Tā zǒngjié le huìyì de yàodiǎn.",
+        "vietnamese": "Anh ấy đã tổng kết các điểm chính của cuộc họp."
+      }
+    ]
   },
   {
     "id": "4-592",
@@ -5325,7 +9462,14 @@
     "translations": [
       "thuê"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我租了一辆车。",
+        "pinyin": "Wǒ zū le yī liàng chē.",
+        "vietnamese": "Tôi đã thuê một chiếc xe."
+      }
+    ]
   },
   {
     "id": "4-593",
@@ -5334,7 +9478,14 @@
     "translations": [
       "tốt nhất"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这是最好的选择。",
+        "pinyin": "Zhè shì zuì hǎo de xuǎnzé.",
+        "vietnamese": "Đây là lựa chọn tốt nhất."
+      }
+    ]
   },
   {
     "id": "4-594",
@@ -5343,7 +9494,14 @@
     "translations": [
       "tôn trọng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "我们应该尊重他人的意见。",
+        "pinyin": "Wǒmen yīnggāi zūnzhòng tārén de yìjiàn.",
+        "vietnamese": "Chúng ta nên tôn trọng ý kiến của người khác."
+      }
+    ]
   },
   {
     "id": "4-595",
@@ -5352,7 +9510,14 @@
     "translations": [
       "khoảng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他站在我左右。",
+        "pinyin": "Tā zhàn zài wǒ zuǒyòu.",
+        "vietnamese": "Anh ấy đứng bên cạnh tôi."
+      }
+    ]
   },
   {
     "id": "4-596",
@@ -5361,7 +9526,14 @@
     "translations": [
       "tác gia"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "他是一位著名的作家。",
+        "pinyin": "Tā shì yī wèi zhùmíng de zuòjiā.",
+        "vietnamese": "Anh ấy là một nhà văn nổi tiếng."
+      }
+    ]
   },
   {
     "id": "4-597",
@@ -5370,7 +9542,14 @@
     "translations": [
       "tác dụng"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这个药对治疗感冒很有作用。",
+        "pinyin": "Zhège yào duì zhìliáo gǎnmào hěn yǒu zuòyòng.",
+        "vietnamese": "Thuốc này rất hiệu quả trong việc điều trị cảm lạnh."
+      }
+    ]
   },
   {
     "id": "4-598",
@@ -5379,7 +9558,14 @@
     "translations": [
       "tác giả"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这本书的作者是谁？",
+        "pinyin": "Zhè běn shū de zuòzhě shì shéi?",
+        "vietnamese": "Tác giả của cuốn sách này là ai?"
+      }
+    ]
   },
   {
     "id": "4-599",
@@ -5388,7 +9574,14 @@
     "translations": [
       "tòa"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "这座城市很大。",
+        "pinyin": "Zhè zuò chéngshì hěn dà.",
+        "vietnamese": "Thành phố này rất lớn."
+      }
+    ]
   },
   {
     "id": "4-600",
@@ -5397,6 +9590,13 @@
     "translations": [
       "chỗ ngồi"
     ],
-    "level": 4
+    "level": 4,
+    "examples": [
+      {
+        "chinese": "请找你的座位。",
+        "pinyin": "Qǐng zhǎo nǐ de zuòwèi.",
+        "vietnamese": "Vui lòng tìm chỗ ngồi của bạn."
+      }
+    ]
   }
 ]
