@@ -96,7 +96,7 @@ export default function VocabScreen() {
             />
           </View>
         )}
-        contentContainerStyle={{ paddingBottom: 20 }}
+        contentContainerStyle={{ paddingBottom: 100 }}
       />
     </View>
   );

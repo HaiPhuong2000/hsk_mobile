@@ -63,7 +63,7 @@ export const HanziWriterNative: React.FC<HanziWriterNativeProps> = ({
   };
 
   const handleCancelQuiz = () => {
-    writer.quiz.cancel();
+    writer.quiz.stop();
   };
 
   return (

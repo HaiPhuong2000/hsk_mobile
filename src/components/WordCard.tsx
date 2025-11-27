@@ -52,7 +52,7 @@ export const WordCard: React.FC<WordCardProps> = ({ hanzi, pinyin, translations,
       <View className="border-t border-white/10 pt-3">
         {translations.map((translation, index) => (
           <Text key={index} className="text-dark-300 text-base leading-6 mb-1">
-            • {translation}
+            {translation}
           </Text>
         ))}
       </View>

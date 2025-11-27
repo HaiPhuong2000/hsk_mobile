@@ -1,5 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
+import * as Speech from 'expo-speech';
 import React, { useEffect, useState } from 'react';
 import { FlatList, Text, TouchableOpacity, View } from 'react-native';
 import { VocabWord } from '../types';
@@ -46,8 +47,27 @@ export const MatchingPractice: React.FC<MatchingPracticeProps> = ({ words, onCom
     setCards(allCards);
   }, [words]);
 
+  useEffect(() => {
+    return () => {
+      Speech.stop();
+    };
+  }, []);
+
+  const handleSpeak = (text: string) => {
+    Speech.stop();
+    Speech.speak(text, {
+      language: 'zh-CN',
+      pitch: 1.0,
+      rate: 0.75,
+    });
+  };
+
   const handleCardPress = (card: Card) => {
     if (card.matched) return;
+
+    if (card.type === 'hanzi') {
+      handleSpeak(card.content);
+    }
 
     if (!selectedCard) {
       // First selection
@@ -166,7 +186,7 @@ export const MatchingPractice: React.FC<MatchingPracticeProps> = ({ words, onCom
         renderItem={renderCard}
         keyExtractor={(item) => item.id}
         numColumns={2}
-        contentContainerStyle={{ padding: 8 }}
+        contentContainerStyle={{ padding: 8, paddingBottom: 100 }}
       />
     </View>
   );

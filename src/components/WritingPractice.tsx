@@ -1,6 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
 import { VocabWord } from '../types';
 import { HanziWriterNative } from './HanziWriterNative';
@@ -16,15 +16,31 @@ export const WritingPractice: React.FC<WritingPracticeProps> = ({ words, onCompl
   const [showResult, setShowResult] = useState(false);
   const [currentResult, setCurrentResult] = useState<boolean | null>(null);
 
+  const [completedChars, setCompletedChars] = useState<Set<string>>(new Set());
+
   const currentWord = words[currentIndex];
   const isLastWord = currentIndex === words.length - 1;
 
-  const handleComplete = () => {
-    // Character written correctly
+  const uniqueChars = useMemo(() => {
+    return Array.from(new Set(currentWord.hanzi.split('')));
+  }, [currentWord]);
+
+  const handleCharComplete = (char: string) => {
     Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
-    setCurrentResult(true);
-    setResults(prev => [...prev, { wordId: currentWord.id, correct: true }]);
-    setShowResult(true);
+    
+    setCompletedChars(prev => {
+      const next = new Set(prev);
+      next.add(char);
+      
+      // Check if all characters are complete
+      if (next.size === uniqueChars.length) {
+        setCurrentResult(true);
+        setResults(prevResults => [...prevResults, { wordId: currentWord.id, correct: true }]);
+        setShowResult(true);
+      }
+      
+      return next;
+    });
   };
 
   const handleMistake = () => {
@@ -39,6 +55,7 @@ export const WritingPractice: React.FC<WritingPracticeProps> = ({ words, onCompl
       setCurrentIndex(prev => prev + 1);
       setShowResult(false);
       setCurrentResult(null);
+      setCompletedChars(new Set());
     }
   };
 
@@ -79,7 +96,7 @@ export const WritingPractice: React.FC<WritingPracticeProps> = ({ words, onCompl
   }
 
   return (
-    <ScrollView className="flex-1 bg-dark-900">
+    <ScrollView className="flex-1 bg-dark-900" contentContainerStyle={{ paddingBottom: 100 }}>
       {/* Header */}
       <View className="px-4 py-4 border-b border-white/10">
         <View className="flex-row justify-between items-center mb-2">
@@ -119,14 +136,19 @@ export const WritingPractice: React.FC<WritingPracticeProps> = ({ words, onCompl
         </View>
 
         {/* Writing Canvas */}
-        <View className="bg-dark-800/60 rounded-2xl p-4">
-          <HanziWriterNative
-            character={currentWord.hanzi}
-            mode="quiz"
-            onComplete={handleComplete}
-            onMistake={handleMistake}
-          />
-        </View>
+        {uniqueChars.map((char, index) => (
+          <View key={index} className="bg-dark-800/60 rounded-2xl p-4 mb-6">
+            <Text className="text-primary-400 text-sm font-bold mb-2 uppercase tracking-wider">
+              Chữ {char}
+            </Text>
+            <HanziWriterNative
+              character={char}
+              mode="quiz"
+              onComplete={() => handleCharComplete(char)}
+              onMistake={handleMistake}
+            />
+          </View>
+        ))}
 
         {/* Result Feedback */}
         {showResult && currentResult && (

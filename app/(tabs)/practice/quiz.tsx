@@ -11,8 +11,8 @@ import {
 } from '@/src/utils/storage';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
-import React, { useEffect, useState } from 'react';
-import { Alert, FlatList, Text, TouchableOpacity, View } from 'react-native';
+import React, { useEffect, useMemo, useState } from 'react';
+import { Alert, FlatList, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 
 export default function QuizScreen() {
   const router = useRouter();
@@ -198,6 +198,13 @@ export default function QuizScreen() {
     }
   };
 
+  const currentWord = vocabData[currentIndex];
+  
+  const options = useMemo(() => {
+    if (!currentWord) return [];
+    return generateOptions(currentWord.translations[0], vocabData);
+  }, [currentWord, vocabData]);
+
   if (!selectedLevel) {
     return (
       <View className="flex-1 bg-dark-900 p-4">
@@ -240,11 +247,10 @@ export default function QuizScreen() {
     );
   }
 
-  const currentWord = vocabData[currentIndex];
-  const options = generateOptions(currentWord.translations[0], vocabData);
+
 
   return (
-    <View className="flex-1 bg-dark-900 p-4">
+    <ScrollView className="flex-1 bg-dark-900" contentContainerStyle={{ padding: 16 }}>
       {/* Header */}
       <View className="flex-row items-center justify-between mb-4">
         <TouchableOpacity
@@ -280,6 +286,6 @@ export default function QuizScreen() {
         selectedAnswer={selectedAnswer}
         showResult={showResult}
       />
-    </View>
+    </ScrollView>
   );
 }

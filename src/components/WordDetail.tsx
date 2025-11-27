@@ -30,12 +30,13 @@ export const WordDetail: React.FC<WordDetailProps> = ({ word, onClose }) => {
   };
 
   return (
-    <ScrollView className="flex-1 bg-dark-900">
+    <ScrollView className="flex-1 bg-dark-900" contentContainerStyle={{ paddingBottom: 100 }}>
       {/* Header */}
       <View className="bg-dark-800/90 backdrop-blur-lg border-b border-white/10 px-6 pt-8 pb-8">
         <View className="flex-row justify-between items-center mb-6">
           <View className="flex-1 mr-4">
-            <Text className="text-4xl text-primary-300 font-bold mb-2">{word.pinyin}</Text>
+            <Text className="text-5xl text-white font-bold mb-1">{word.hanzi}</Text>
+            <Text className="text-xl text-primary-300 font-medium">{word.pinyin}</Text>
           </View>
           <View className="flex-row gap-3 items-center">
             {word.level && (
@@ -57,7 +58,7 @@ export const WordDetail: React.FC<WordDetailProps> = ({ word, onClose }) => {
           <Text className="text-dark-400 text-xs uppercase font-semibold mb-2">Nghĩa</Text>
           {word.translations.map((translation, index) => (
             <Text key={index} className="text-white text-lg leading-7 mb-1">
-              • {translation}
+              {translation}
             </Text>
           ))}
         </View>
@@ -96,9 +97,14 @@ export const WordDetail: React.FC<WordDetailProps> = ({ word, onClose }) => {
       {/* Character Writing Guide */}
       <View className="px-4 pb-8">
         <Text className="text-white text-xl font-bold mb-4">Hướng dẫn viết chữ</Text>
-        <View className="bg-dark-800/60 backdrop-blur-lg border border-white/10 rounded-2xl p-4">
-          <HanziWriterNative character={word.hanzi} mode="animate" />
-        </View>
+        {Array.from(new Set(word.hanzi.split(''))).map((char, index) => (
+          <View key={index} className="bg-dark-800/60 backdrop-blur-lg border border-white/10 rounded-2xl p-4 mb-6">
+            <Text className="text-primary-400 text-sm font-bold mb-2 uppercase tracking-wider">
+              Chữ {char}
+            </Text>
+            <HanziWriterNative character={char} mode="animate" />
+          </View>
+        ))}
       </View>
     </ScrollView>
   );
