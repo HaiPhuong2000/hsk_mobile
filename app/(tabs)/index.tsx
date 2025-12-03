@@ -1,9 +1,9 @@
-import { getVocabByLevel } from '@/src/data';
-import { getLevelStats } from '@/src/utils/storage';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import React, { useEffect, useState } from 'react';
 import { ScrollView, Text, TouchableOpacity, View } from 'react-native';
+import { getVocabByLevel } from '../../src/data';
+import { getLevelStats } from '../../src/utils/storage';
 
 export default function DashboardScreen() {
   const router = useRouter();

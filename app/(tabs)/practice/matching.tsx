@@ -1,10 +1,10 @@
-import { MatchingPractice } from '@/src/components/MatchingPractice';
-import { getVocabByLevel } from '@/src/data';
-import { updateWordProgress } from '@/src/utils/storage';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import React, { useState } from 'react';
 import { FlatList, Text, TouchableOpacity, View } from 'react-native';
+import { MatchingPractice } from '../../../src/components/MatchingPractice';
+import { getVocabByLevel } from '../../../src/data';
+import { updateWordProgress } from '../../../src/utils/storage';
 
 export default function MatchingScreen() {
   const router = useRouter();

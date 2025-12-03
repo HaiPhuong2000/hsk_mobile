@@ -1,9 +1,9 @@
-import { WordCard } from '@/src/components/WordCard';
-import { allVocab } from '@/src/data';
 import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import React, { useMemo, useState } from 'react';
 import { FlatList, Text, TextInput, TouchableOpacity, View } from 'react-native';
+import { WordCard } from '../../../src/components/WordCard';
+import { allVocab } from '../../../src/data';
 
 export default function VocabScreen() {
   const router = useRouter();

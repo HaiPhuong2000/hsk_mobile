@@ -1,6 +1,10 @@
-import { ProgressStats } from '@/src/components/ProgressStats';
-import { QuizCard } from '@/src/components/QuizCard';
-import { getVocabByLevel } from '@/src/data';
+import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
+import React, { useEffect, useMemo, useState } from 'react';
+import { Alert, FlatList, ScrollView, Text, TouchableOpacity, View } from 'react-native';
+import { ProgressStats } from '../../../src/components/ProgressStats';
+import { QuizCard } from '../../../src/components/QuizCard';
+import { getVocabByLevel } from '../../../src/data';
 import {
     getLevelStats,
     getQuizProgress,
@@ -8,11 +12,7 @@ import {
     resetQuizProgress,
     saveQuizProgress,
     updateWordMastery,
-} from '@/src/utils/storage';
-import { Ionicons } from '@expo/vector-icons';
-import { useRouter } from 'expo-router';
-import React, { useEffect, useMemo, useState } from 'react';
-import { Alert, FlatList, ScrollView, Text, TouchableOpacity, View } from 'react-native';
+} from '../../../src/utils/storage';
 
 export default function QuizScreen() {
   const router = useRouter();

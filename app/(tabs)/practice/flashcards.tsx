@@ -1,8 +1,8 @@
-import { Flashcard } from '@/src/components/Flashcard';
-import { getVocabByLevel } from '@/src/data';
 import { Ionicons } from '@expo/vector-icons';
 import React, { useEffect, useState } from 'react';
 import { FlatList, Text, TouchableOpacity, View } from 'react-native';
+import { Flashcard } from '../../../src/components/Flashcard';
+import { getVocabByLevel } from '../../../src/data';
 
 import { useRouter } from 'expo-router';
 

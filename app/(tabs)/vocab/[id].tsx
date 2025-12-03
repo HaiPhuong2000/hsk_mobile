@@ -1,10 +1,10 @@
-import { WordDetail } from '@/src/components/WordDetail';
-import { allVocab } from '@/src/data';
-import { VocabWord } from '@/src/types';
 import { Ionicons } from '@expo/vector-icons';
 import { Stack, useLocalSearchParams, useRouter } from 'expo-router';
 import React from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
+import { WordDetail } from '../../../src/components/WordDetail';
+import { allVocab } from '../../../src/data';
+import { VocabWord } from '../../../src/types';
 
 export default function WordDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
